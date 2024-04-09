@@ -1,0 +1,67 @@
+name: Update Scholarships
+
+on:
+    workflow_dispatch:
+    schedule:
+        # Run every day at 00:00 UTC.
+        - cron: '0 0 * * *'
+    push:
+        branches: ['main']
+        paths:
+            - '.github/workflows/scholarships.yml'
+            - 'scholarships/**'
+
+permissions:
+    # Set GITHUB_TOKEN permissions for GitHub Pages deployment.
+    pages: write
+    id-token: write
+    # Set GITHUB_TOKEN permissions to commit and push changes.
+    contents: write
+
+concurrency:
+    # Allow only one concurrent deployment, skip runs queued between the run in-progress and latest queued.
+    group: 'pages'
+    # Cancel in-progress runs as we do NOT want to allow these production deployments to complete.
+    cancel-in-progress: true
+
+jobs:
+    deploy:
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - uses: denoland/setup-deno@v1
+              with:
+                  deno-version: v1.x
+
+            - name: Run Scraper
+              run: deno run --watch --allow-net --allow-write scholarships/scrape.ts
+            - name: Run Formatter
+              run: deno run --watch --allow-read --allow-write scholarships/format.ts
+
+            - uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  file_pattern: 'public/*.json'
+
+            - name: Setup Pages
+              uses: actions/configure-pages@v4
+
+            - name: Generate Directory Listings
+              uses: jayanta525/github-pages-directory-listing@v4.0.0
+              with:
+                  FOLDER: 'public'
+
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: 'public'
+
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4
