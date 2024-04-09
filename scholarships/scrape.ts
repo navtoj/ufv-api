@@ -1,4 +1,4 @@
-// deno run --watch --allow-net --allow-write scholarships/scrape.ts
+// deno run --allow-net --allow-write scholarships/scrape.ts
 
 // STATIC VARIABLES
 
@@ -81,7 +81,7 @@ for await (const award of awardList.result) {
     console.log(awardDetailsResponse);
     Deno.exit(1);
   } else {
-    console.count("Fetched award details.");
+    console.count("Fetched award details");
   }
 
   // parse award details and add to awards array

@@ -41,9 +41,9 @@ jobs:
                   deno-version: v1.x
 
             - name: Run Scraper
-              run: deno run --watch --allow-net --allow-write scholarships/scrape.ts
+              run: deno run --allow-net --allow-write scholarships/scrape.ts
             - name: Run Formatter
-              run: deno run --watch --allow-read --allow-write scholarships/format.ts
+              run: deno run --allow-read --allow-write scholarships/format.ts
 
             - uses: stefanzweifel/git-auto-commit-action@v5
               with:
