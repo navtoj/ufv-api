@@ -18541,7 +18541,7 @@
 		"syvawgiAtypDesc": "Annual Scholarship",
 		"syvawgiAwrdCode": "0522",
 		"syvawgiAwrdDesc": "Gerry Kellington Memorial Baseball Annual Leadership Award",
-		"syvawgiFundAmt": "$2,000.00",
+		"syvawgiFundAmt": "$500.00",
 		"syvawgiWebText": "Available to a deserving student athlete participating on the Baseball Team.  \n&bull;\tBe a returning student\n&bull;\tHave a 2.0 GPA or more\n&bull;\tShow leadership on the team and the Athletic program.\n\n",
 		"awardsFound": true,
 		"awardData": [
@@ -29951,6 +29951,88 @@
 				"treatAsHTML": false
 			}
 		],
+		"facultyFound": false,
+		"facultyData": []
+	},
+	{
+		"addDocDesc": "No",
+		"class": "net.hedtech.banner.finaid.SyvawgiDecorator",
+		"syvawgiApplAddDocInd": false,
+		"syvawgiAtypDesc": "Endowment Bursary",
+		"syvawgiAwrdCode": "0724",
+		"syvawgiAwrdDesc": "Stelomethet - Dr. Ethel Gardner Memorial Endowment Bursary",
+		"syvawgiFundAmt": null,
+		"syvawgiWebText": "Available to part-time or full-time Indigenous students enrolled in a Halq&#39;emeylem language course or focus on Indigenous Studies and demonstrates financial need.  Must be a Canadian citizen.",
+		"awardsFound": true,
+		"awardData": [
+			{
+				"label": "Name:",
+				"value": "Stelomethet - Dr. Ethel Gardner Memorial Endowment Bursary",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Description:",
+				"value": "Available to part-time or full-time Indigenous students enrolled in a Halq'emeylem language course or focus on Indigenous Studies and demonstrates financial need.  Must be a Canadian citizen.",
+				"treatAsHTML": true
+			},
+			{
+				"label": "Type:",
+				"value": "Endowment Bursary",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Selection Process:",
+				"value": "Bursary applications are assessed by Financial Aid and Awards",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Application Method:",
+				"value": "Bursary application",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Apply To:",
+				"value": "Online application through MyUFV",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Biography:",
+				"value": "We dedicate this bursary to Stelomethet-Dr. Ethel Gardner.  She committed her education, career and life to revitalization of the Halq'emeylem language.  She was part of the team that conceived the idea, co-wrote the songs and stories and guided its development.  The Good Medicine Songs project was her last endeavor to bring Halq'emeylem alive in the community.  This is her legacy to her family, community and to the language and culture that she loved to the core of her being.  We are truly inspired to carry on Ethel's work in engaging young and old to learn Halq'emeylem.",
+				"treatAsHTML": true
+			},
+			{
+				"label": "Accept Applications?:",
+				"value": "Yes",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Application Requires Additional Documentation?:",
+				"value": "No",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Applications Accepted:",
+				"value": "Sep 30, 2023 to Nov 30, 2023",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Applications Accepted:",
+				"value": "Jan 15, 2024 to Mar 15, 2024",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Applications Accepted:",
+				"value": "May 30, 2024 to Jun 30, 2024",
+				"treatAsHTML": false
+			},
+			{
+				"label": "Code",
+				"value": "0724",
+				"treatAsHTML": false
+			}
+		],
+		"programFound": false,
+		"programData": [],
 		"facultyFound": false,
 		"facultyData": []
 	},
