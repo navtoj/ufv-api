@@ -39,11 +39,8 @@ jobs:
             - uses: denoland/setup-deno@v1
               with:
                   deno-version: v1.x
-
-            - name: Run Scraper
-              run: deno run --allow-net --allow-write scholarships/scrape.ts
-            - name: Run Formatter
-              run: deno run --allow-read --allow-write scholarships/format.ts
+            - name: Run Deno Script
+              run: deno run --allow-net --allow-read --allow-write --allow-env scholarships/run.ts
 
             - uses: stefanzweifel/git-auto-commit-action@v5
               with:
@@ -52,17 +49,14 @@ jobs:
 
             - name: Setup Pages
               uses: actions/configure-pages@v4
-
             - name: Generate Directory Listings
               uses: jayanta525/github-pages-directory-listing@v4.0.0
               with:
                   FOLDER: 'public'
-
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
               with:
                   path: 'public'
-
             - name: Deploy to GitHub Pages
               id: deployment
               uses: actions/deploy-pages@v4

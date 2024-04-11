@@ -1,95 +1,140 @@
-// deno run --allow-net --allow-write scholarships/scrape.ts
+import * as core from 'npm:@actions/core';
+import { AwardDetails, AwardListResponse } from './types.ts';
 
-// STATIC VARIABLES
+// HELPERS
 
-const awardGuideUrl =
-  "https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardGuide";
-const awardListUrl =
-  "https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardList/getAwardList";
-const awardDetailsUrl =
-  "https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardDetails/getAwardDetails?code=";
-
-// GET SESSION COOKIES
-
-const awardGuideResponse = await fetch(awardGuideUrl);
-
-// if fetch failed, log error and exit
-
-if (!awardGuideResponse.ok || awardGuideResponse.status !== 200) {
-  console.error("Failed to fetch award guide.");
-  Deno.exit(1);
-} else {
-  console.log("Fetched award guide.");
+function handleResponseError(
+	{ response, name }: { response: Response; name: string },
+	{ count }: { count: boolean } = { count: false },
+) {
+	if (!response.ok || response.status !== 200) {
+		core.error(`Failed to fetch ${name}.`);
+		Deno.exit(1);
+	} else {
+		if (count) {
+			console.count(`Fetched ${name}`);
+		} else {
+			console.log(`Fetched ${name}.`);
+		}
+	}
 }
 
-// parse cookies from response and write to file
+// FETCH FUNCTIONS
 
-const awardGuideCookies = awardGuideResponse.headers.getSetCookie().flatMap(
-  (c) => {
-    const parts = c.split(";");
-    const cookie = parts.at(0);
-    if (!cookie) return [];
-    const [name, value] = cookie.split("=");
-    return { name, value };
-  },
-);
+async function getSessionCookies() {
+	// get award guide
+	const response = await fetch(
+		'https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardGuide',
+	);
+	handleResponseError(
+		{ response, name: 'award guide' },
+	);
 
-// CREATE REQUEST OPTIONS WITH COOKIE HEADER
+	// get set-cookies from response
+	const parsed = response.headers.getSetCookie();
 
-const requestOptionsWithCookieHeader: RequestInit = {
-  headers: {
-    Cookie: awardGuideCookies.map((cookie) => cookie.name + "=" + cookie.value)
-      .join("; "),
-  },
-};
+	// format set-cookies
+	const formatted = parsed.flatMap(
+		(c) => {
+			const parts = c.split(';');
+			const cookie = parts.at(0);
+			if (!cookie) return [];
+			const [name, value] = cookie.split('=');
+			return { name, value };
+		},
+	);
 
-// GET AWARD LIST
-
-const awardListResponse = await fetch(
-  awardListUrl,
-  requestOptionsWithCookieHeader,
-);
-
-// if fetch failed, log error and exit
-
-if (!awardListResponse.ok || awardListResponse.status !== 200) {
-  console.error("Failed to fetch award list.");
-  Deno.exit(1);
-} else {
-  console.log("Fetched award list.");
+	// return formatted cookies
+	return formatted;
 }
 
-// parse award list and write to file
+async function getAwardList(requestOptions: RequestInit) {
+	// get award list
+	const response = await fetch(
+		'https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardList/getAwardList',
+		requestOptions,
+	);
+	handleResponseError(
+		{ response: response, name: 'award list' },
+	);
 
-const awardList = await awardListResponse.json();
+	// parse award list
+	const parsed = await response.json();
 
-// GET DETAILS FOR EACH AWARD
+	// validate response
+	const validated = AwardListResponse.safeParse(parsed);
+	if (!validated.success) {
+		core.error('Award list response failed validation.');
+		console.log(validated.error);
+		Deno.exit(1);
+	}
 
-const awards = [];
-for await (const award of awardList.result) {
-  // get award details
-
-  const awardDetailsResponse = await fetch(
-    awardDetailsUrl + award.syvawgiAwrdCode,
-    requestOptionsWithCookieHeader,
-  );
-
-  // if fetch failed, log error and exit
-
-  if (!awardDetailsResponse.ok || awardDetailsResponse.status !== 200) {
-    console.error("Failed to fetch award details.");
-    console.log(awardDetailsResponse);
-    Deno.exit(1);
-  } else {
-    console.count("Fetched award details");
-  }
-
-  // parse award details and add to awards array
-
-  const awardDetails = await awardDetailsResponse.json();
-  awards.push({ ...award, ...awardDetails });
+	// return award list
+	return validated.data;
 }
-Deno.writeTextFile(
-  import.meta.dirname + "/awards.json",
-  JSON.stringify(awards, null, "\t"),
-);
+
+async function getAwardDetails(
+	code: string,
+	requestOptions: RequestInit,
+) {
+	// get award details
+	const response = await fetch(
+		'https://apps.ban.ufv.ca/BcFinaidSelfService/ssb/awardDetails/getAwardDetails?code=' +
+			code,
+		requestOptions,
+	);
+	handleResponseError(
+		{ response: response, name: 'award details' },
+		{ count: true },
+	);
+
+	// parse award details
+	const parsed = await response.json();
+
+	// validate award details
+	const validated = AwardDetails.safeParse(parsed);
+	if (!validated.success) {
+		core.error('Award details failed validation.');
+		console.log(validated.error);
+		Deno.exit(1);
+	}
+
+	// return award details
+	return validated.data;
+}
+
+// MAIN SCRAPER
+
+export async function scrape() {
+	// get session cookies
+	const sessionCookies = await getSessionCookies();
+
+	// create request options with session info
+	const sessionRequestOptions: RequestInit = {
+		headers: {
+			Cookie: sessionCookies.map((cookie) =>
+				cookie.name + '=' + cookie.value
+			)
+				.join('; '),
+		},
+	};
+
+	// get award list
+	const awardList = await getAwardList(sessionRequestOptions);
+
+	// get details for each award
+	const awards = [];
+	for await (const award of awardList.result) {
+		// get award details
+		const awardDetails = await getAwardDetails(
+			award.syvawgiAwrdCode,
+			sessionRequestOptions,
+		);
+
+		// return award info combined with details
+		awards.push({ info: award, details: awardDetails });
+	}
+
+	// return awards
+	return { ...awardList, result: awards };
+}
