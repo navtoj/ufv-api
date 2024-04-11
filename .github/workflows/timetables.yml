@@ -3,8 +3,8 @@ name: Update Timetables
 on:
     workflow_dispatch:
     schedule:
-        # Run every day at 01:00 UTC.
-        - cron: '0 1 * * *'
+        # Run every hour at 10 minutes.
+        - cron: '10 * * * *'
     push:
         branches: ['main']
         paths:

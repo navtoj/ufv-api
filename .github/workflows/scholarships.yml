@@ -3,8 +3,8 @@ name: Update Scholarships
 on:
     workflow_dispatch:
     schedule:
-        # Run every day at 00:00 UTC.
-        - cron: '0 0 * * *'
+        # Run every hour at 00 minutes.
+        - cron: '0 * * * *'
     push:
         branches: ['main']
         paths:
