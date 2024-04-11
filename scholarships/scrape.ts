@@ -1,23 +1,6 @@
 import * as core from 'npm:@actions/core';
+import { handleResponseError, handleResponseSetCookies } from '../helpers/functions.ts';
 import { AwardDetails, AwardListResponse } from './types.ts';
-
-// HELPERS
-
-function handleResponseError(
-	{ response, name }: { response: Response; name: string },
-	{ count }: { count: boolean } = { count: false },
-) {
-	if (!response.ok || response.status !== 200) {
-		core.error(`Failed to fetch ${name}.`);
-		Deno.exit(1);
-	} else {
-		if (count) {
-			console.count(`Fetched ${name}`);
-		} else {
-			console.log(`Fetched ${name}.`);
-		}
-	}
-}
 
 // FETCH FUNCTIONS
 
@@ -30,22 +13,8 @@ async function getSessionCookies() {
 		{ response, name: 'award guide' },
 	);
 
-	// get set-cookies from response
-	const parsed = response.headers.getSetCookie();
-
-	// format set-cookies
-	const formatted = parsed.flatMap(
-		(c) => {
-			const parts = c.split(';');
-			const cookie = parts.at(0);
-			if (!cookie) return [];
-			const [name, value] = cookie.split('=');
-			return { name, value };
-		},
-	);
-
-	// return formatted cookies
-	return formatted;
+	// get set-cookies from headers
+	return handleResponseSetCookies(response.headers);
 }
 
 async function getAwardList(requestOptions: RequestInit) {
@@ -108,6 +77,10 @@ async function getAwardDetails(
 export async function scrape() {
 	// get session cookies
 	const sessionCookies = await getSessionCookies();
+	if (!sessionCookies) {
+		core.error('Failed to get session cookies.');
+		Deno.exit(1);
+	}
 
 	// create request options with session info
 	const sessionRequestOptions: RequestInit = {
