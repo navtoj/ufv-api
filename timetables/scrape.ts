@@ -160,7 +160,9 @@ export async function scrape() {
 			requestOptions: sessionRequestOptions,
 		});
 		if (timetableData.totalCount === 0) {
-			core.error('No timetable data found.');
+			core.error('No courses found.', {
+				title: term.description,
+			});
 		}
 
 		// calculate number of pages
