@@ -7607,5 +7607,21 @@
 		"ceremony": null,
 		"biography": "Inspired by acquired knowledge of Indigenous history and ways of knowing, Angela Au and Allen Au have established a $20,000 annual award to support Indigenous students at the University of the Fraser Valley. With a desire to encourage cultural and passed knowledge from Indigenous Elders and alumni to students who are innovative problem solvers and creatives, Angela and Allen Au want this award to enable and empower the potential of UFV students.",
 		"programName": null
+	},
+	{
+		"code": "0735",
+		"name": "UFV Alumni Association 50 Years Forward > Annual Bursary",
+		"type": "Annual Bursary",
+		"description": "This bursary is open to registered  attending UFV students demonstrating genuine financial need. A preference for students who identify from groups who have been structurally excluded (Indigenous, Black and Racialized communities, 2SLGBTQIA+ communities, Disability communities, Non-Binary, Trans and Women Identified communities).",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": "The UFV Alumni Association fosters a vibrant community that extends far beyond graduation day. As the backbone of the University of the Fraser Valley's alumni network, the association embodies the spirit of connection and lifelong learning, providing a platform for alumni to engage, collaborate, and give back to their alma mater.\n\nIn commemoration of UFV's 50th anniversary, the establishment of an award by the Alumni Association underscores their unwavering commitment to student empowerment. This award not only honours the university's milestone achievement but also exemplifies the enduring legacy of support and encouragement that defines the UFV community. Through this initiative, the Alumni Association reaffirms its dedication to nurturing the potential of UFV students, ensuring that they are equipped with the resources and opportunities needed to thrive academically and beyond.",
+		"programName": null
 	}
 ]
