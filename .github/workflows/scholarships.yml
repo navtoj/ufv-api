@@ -22,7 +22,7 @@ concurrency:
     # Allow only one concurrent deployment, skip runs queued between the run in-progress and latest queued.
     group: 'pages'
     # Cancel in-progress runs as we do NOT want to allow these production deployments to complete.
-    cancel-in-progress: true
+    cancel-in-progress: false
 
 jobs:
     deploy:
