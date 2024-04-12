@@ -46,3 +46,19 @@ export function handleResponseSetCookies(headers: Headers) {
 	// return formatted cookies
 	return formatted.length ? formatted : null;
 }
+
+export function createSessionRequestOptions(
+	sessionCookies: NonNullable<ReturnType<typeof handleResponseSetCookies>>,
+) {
+	// create request options with session info
+	const sessionRequestOptions: RequestInit = {
+		headers: {
+			Cookie: sessionCookies.map((cookie) =>
+				cookie.name + '=' + cookie.value
+			)
+				.join('; '),
+		},
+	};
+	// return session request options
+	return sessionRequestOptions;
+}

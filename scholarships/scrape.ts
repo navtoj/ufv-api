@@ -1,5 +1,5 @@
 import * as core from 'npm:@actions/core';
-import { handleResponseError, handleResponseSetCookies } from '../helpers/functions.ts';
+import { createSessionRequestOptions, handleResponseError, handleResponseSetCookies } from '../helpers/functions.ts';
 import { AwardDetails, AwardListResponse } from './types.ts';
 
 // FETCH FUNCTIONS
@@ -34,7 +34,7 @@ async function getAwardList(requestOptions: RequestInit) {
 	const validated = AwardListResponse.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Award list response failed validation.');
-		console.log(validated.error);
+		console.log(validated.error.issues);
 		Deno.exit(1);
 	}
 
@@ -64,7 +64,7 @@ async function getAwardDetails(
 	const validated = AwardDetails.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Award details failed validation.');
-		console.log(validated.error);
+		console.log(validated.error.issues);
 		Deno.exit(1);
 	}
 
@@ -83,14 +83,7 @@ export async function scrape() {
 	}
 
 	// create request options with session info
-	const sessionRequestOptions: RequestInit = {
-		headers: {
-			Cookie: sessionCookies.map((cookie) =>
-				cookie.name + '=' + cookie.value
-			)
-				.join('; '),
-		},
-	};
+	const sessionRequestOptions = createSessionRequestOptions(sessionCookies);
 
 	// get award list
 	const awardList = await getAwardList(sessionRequestOptions);

@@ -18,6 +18,12 @@ export const Terms = z.object({
 }).strict().array().nonempty();
 export type Terms = z.infer<typeof Terms>;
 
+export const SetTermResponse = z.object({
+	fwdURL: z.literal(
+		'/StudentRegistrationSsb/ssb/classSearch/classSearch',
+	),
+}).strict();
+
 export const TimetableData = z.object({
 	success: z.literal(true),
 	totalCount: z.number().nonnegative(),
@@ -120,13 +126,17 @@ export type TimetableData = z.infer<typeof TimetableData>;
 
 export const TimetableDataCount = TimetableData.extend({
 	success: z.literal(false),
-	data: TimetableData.shape.data.element.array().length(0),
+	data: TimetableData.shape.data.length(0),
 	pageOffset: z.literal(-1),
-});
+}).transform((data) => data.totalCount);
 export type TimetableDataCount = z.infer<typeof TimetableDataCount>;
 
 export const Timetable = z.object({
 	term: Terms.element.shape.description,
-	courses: TimetableData.shape.data,
+	courses: TimetableData.shape.data.element.extend({
+		faculty: TimetableData.shape.data.element.shape.faculty.element.omit({
+			bannerId: true,
+		}).strip().array(),
+	}).strict().array(),
 }).strict();
 export type Timetable = z.infer<typeof Timetable>;

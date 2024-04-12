@@ -77,7 +77,7 @@ export function format(data: Awaited<ReturnType<typeof scrape>>) {
 		if (!validatedAwardData.success) {
 			core.error('Award data failed validation.');
 			console.log(awardData);
-			console.log(validatedAwardData.error);
+			console.log(validatedAwardData.error.issues);
 			Deno.exit(1);
 		}
 
@@ -104,7 +104,7 @@ export function format(data: Awaited<ReturnType<typeof scrape>>) {
 		const validatedProgramData = ProgramData.safeParse(programData);
 		if (!validatedProgramData.success) {
 			core.error('Program data failed validation.');
-			console.log(validatedProgramData.error);
+			console.log(validatedProgramData.error.issues);
 			Deno.exit(1);
 		}
 
@@ -119,7 +119,7 @@ export function format(data: Awaited<ReturnType<typeof scrape>>) {
 		const validatedInfo = AwardInfo.safeParse(award.info);
 		if (!validatedInfo.success) {
 			core.error('Award info failed validation.');
-			console.log(validatedInfo.error);
+			console.log(validatedInfo.error.issues);
 			Deno.exit(1);
 		}
 

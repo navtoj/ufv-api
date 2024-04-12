@@ -1,10 +1,11 @@
-import z from 'https://deno.land/x/zod@v3.22.4/index.ts';
 import * as core from 'npm:@actions/core';
 import {
+	createSessionRequestOptions,
 	handleResponseError,
 	handleResponseSetCookies,
 } from '../helpers/functions.ts';
 import {
+	SetTermResponse,
 	Terms,
 	Timetable,
 	TimetableData,
@@ -13,7 +14,7 @@ import {
 
 // FETCH FUNCTIONS
 
-async function getTerms() {
+export async function getTerms() {
 	// get terms
 	const response = await fetch(
 		'https://apps.ban.ufv.ca/StudentRegistrationSsb/ssb/classSearch/getTerms?offset=0&max=0',
@@ -29,7 +30,7 @@ async function getTerms() {
 	const validated = Terms.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Terms failed validation.');
-		console.log(validated.error);
+		console.log(validated.error.issues);
 		Deno.exit(1);
 	}
 
@@ -59,14 +60,10 @@ async function setTimetableTerm({ term }: { term: string }) {
 	const parsed = await response.json();
 
 	// validate response
-	const validated = z.object({
-		fwdURL: z.literal(
-			'/StudentRegistrationSsb/ssb/classSearch/classSearch',
-		),
-	}).strict().safeParse(parsed);
+	const validated = SetTermResponse.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Timetable term setting failed validation.');
-		console.log(validated.error);
+		console.log(validated.error.issues);
 		Deno.exit(1);
 	}
 
@@ -74,21 +71,24 @@ async function setTimetableTerm({ term }: { term: string }) {
 	return sessionCookies;
 }
 
-function getTimetableData({ requestOptions, term }: {
-	requestOptions: RequestInit;
-	term: string;
-}): Promise<TimetableDataCount>;
-function getTimetableData({ requestOptions, term, pageOffset }: {
+type getTimetableDataParams = {
 	requestOptions: RequestInit;
 	term: string;
 	pageOffset: number;
-}): Promise<TimetableData>;
+};
+function getTimetableData(
+	input: Omit<getTimetableDataParams, 'pageOffset'>,
+): Promise<TimetableDataCount>;
+function getTimetableData(
+	input: getTimetableDataParams,
+): Promise<TimetableData>;
+
 async function getTimetableData(
-	{ requestOptions, term, pageOffset }: {
-		requestOptions: RequestInit;
-		term: string;
-		pageOffset?: number;
-	},
+	{ requestOptions, term, pageOffset }:
+		& Omit<getTimetableDataParams, 'pageOffset'>
+		& {
+			pageOffset?: number;
+		},
 ) {
 	// get timetable data
 	const response = await fetch(
@@ -116,7 +116,7 @@ async function getTimetableData(
 		: TimetableData.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Timetable data failed validation.');
-		console.log(validated.error);
+		console.log(validated.error, parsed);
 		Deno.exit(1);
 	}
 
@@ -126,62 +126,46 @@ async function getTimetableData(
 
 // MAIN SCRAPER
 
-export async function scrape() {
-	// get available terms
-	const terms = await getTerms();
+export async function scrape(
+	term: Terms[number],
+) {
+	// set timetable term
+	const sessionCookies = await setTimetableTerm({ term: term.code });
 
-	// get latest term
-	// const latestTerm = terms.sort((a, b) => b.code - a.code)[0];
-	// latestTerm.code = 202207;
+	// create request options with session info
+	const requestOptions = createSessionRequestOptions(sessionCookies);
 
-	// loop over the terms
-	const timetables: {
-		code: Terms[number]['code'];
-		description: Terms[number]['description'];
-		data: Timetable['courses'];
-	}[] = [];
-	for (const term of terms) {
-		// set timetable term
-		const sessionCookies = await setTimetableTerm({ term: term.code });
+	// get timetable data count
+	const timetableDataCount = await getTimetableData({
+		term: term.code,
+		requestOptions,
+	});
+	if (timetableDataCount === 0) {
+		core.error('No courses found.', {
+			title: term.description,
+		});
+	}
 
-		// create request options with session info
-		const sessionRequestOptions: RequestInit = {
-			headers: {
-				Cookie: sessionCookies.map((cookie) =>
-					cookie.name + '=' + cookie.value
-				)
-					.join('; '),
-			},
-		};
+	// calculate number of pages
+	const pages = Math.ceil(timetableDataCount / 500);
 
-		// get timetable data count
+	// create array to store all timetable data
+	const timetable: Timetable = {
+		term: term.description,
+		courses: [],
+	};
+
+	// fetch all pages of data
+	for (let i = 0; i < pages; i++) {
 		const timetableData = await getTimetableData({
 			term: term.code,
-			requestOptions: sessionRequestOptions,
+			requestOptions: requestOptions,
+			pageOffset: i * 500,
 		});
-		if (timetableData.totalCount === 0) {
-			core.error('No courses found.', {
-				title: term.description,
-			});
-		}
 
-		// calculate number of pages
-		const pages = Math.ceil(timetableData.totalCount / 500);
-
-		// fetch all pages of data
-		for (let i = 0; i < pages; i++) {
-			const offsetTimetableData = await getTimetableData({
-				term: term.code,
-				requestOptions: sessionRequestOptions,
-				pageOffset: i * 500,
-			});
-
-			timetableData.data.push(...offsetTimetableData.data);
-		}
-
-		timetables.push({ ...term, data: timetableData.data });
+		timetable.courses.push(...timetableData.data);
 	}
 
 	// return scraped data
-	return timetables;
+	return timetable;
 }

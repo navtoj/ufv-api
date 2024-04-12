@@ -20,7 +20,7 @@ const validated = Scholarships.safeParse(
 		.map((a) => ({ ...a.info, ...a.details })),
 );
 if (!validated.success) {
-	console.log(validated.error);
+	console.log(validated.error.issues);
 	Deno.exit(1);
 }
 
