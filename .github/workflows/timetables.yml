@@ -42,6 +42,7 @@ jobs:
             - name: Run Deno Script
               run: deno run --allow-net --allow-read --allow-write --allow-env timetables/run.ts
 
+            - run: git pull
             - uses: stefanzweifel/git-auto-commit-action@v5
               with:
                   commit_message: Update Timetables
