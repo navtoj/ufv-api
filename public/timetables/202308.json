@@ -34,7 +34,7 @@
 			"subjectCourse": "ACTA10",
 			"faculty": [
 				{
-					"bannerId": "127851",
+					"bannerId": "2028",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80061",
@@ -118,7 +118,7 @@
 			"subjectCourse": "ACTA20",
 			"faculty": [
 				{
-					"bannerId": "127851",
+					"bannerId": "2028",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80062",
@@ -202,7 +202,7 @@
 			"subjectCourse": "ACTA30",
 			"faculty": [
 				{
-					"bannerId": "127852",
+					"bannerId": "2029",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80063",
@@ -286,7 +286,7 @@
 			"subjectCourse": "AGHPRU03",
 			"faculty": [
 				{
-					"bannerId": "127860",
+					"bannerId": "2037",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80162",
@@ -370,7 +370,7 @@
 			"subjectCourse": "AGHPST20",
 			"faculty": [
 				{
-					"bannerId": "127856",
+					"bannerId": "2033",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80148",
@@ -522,7 +522,7 @@
 			"subjectCourse": "AGHPST21",
 			"faculty": [
 				{
-					"bannerId": "127856",
+					"bannerId": "2033",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80125",
@@ -674,7 +674,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127848",
+					"bannerId": "2025",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80046",
@@ -894,7 +894,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80334",
@@ -1046,7 +1046,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127847",
+					"bannerId": "2024",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80045",
@@ -1198,7 +1198,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127867",
+					"bannerId": "2044",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80332",
@@ -1282,7 +1282,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80044",
@@ -1366,7 +1366,7 @@
 			"subjectCourse": "BSBBK01",
 			"faculty": [
 				{
-					"bannerId": "127848",
+					"bannerId": "2025",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80342",
@@ -1450,7 +1450,7 @@
 			"subjectCourse": "BSBBK02",
 			"faculty": [
 				{
-					"bannerId": "127849",
+					"bannerId": "2026",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80048",
@@ -1602,7 +1602,7 @@
 			"subjectCourse": "BSBBK02",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80335",
@@ -1754,7 +1754,7 @@
 			"subjectCourse": "BSBBK02",
 			"faculty": [
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80049",
@@ -1838,7 +1838,7 @@
 			"subjectCourse": "BSBBK02",
 			"faculty": [
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80333",
@@ -1922,7 +1922,7 @@
 			"subjectCourse": "BSBBK02",
 			"faculty": [
 				{
-					"bannerId": "127846",
+					"bannerId": "2023",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80341",
@@ -2006,7 +2006,7 @@
 			"subjectCourse": "BSBCA01",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80336",
@@ -2158,7 +2158,7 @@
 			"subjectCourse": "BSBCA01",
 			"faculty": [
 				{
-					"bannerId": "127847",
+					"bannerId": "2024",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80038",
@@ -2310,7 +2310,7 @@
 			"subjectCourse": "BSBCA01",
 			"faculty": [
 				{
-					"bannerId": "127846",
+					"bannerId": "2023",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80037",
@@ -2394,7 +2394,7 @@
 			"subjectCourse": "BSBCA02",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80337",
@@ -2546,7 +2546,7 @@
 			"subjectCourse": "BSBCA02",
 			"faculty": [
 				{
-					"bannerId": "127847",
+					"bannerId": "2024",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80039",
@@ -2868,7 +2868,7 @@
 			"subjectCourse": "BSBCA02",
 			"faculty": [
 				{
-					"bannerId": "127846",
+					"bannerId": "2023",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80306",
@@ -2952,7 +2952,7 @@
 			"subjectCourse": "BSBPA01",
 			"faculty": [
 				{
-					"bannerId": "127849",
+					"bannerId": "2026",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80051",
@@ -3138,7 +3138,7 @@
 			"subjectCourse": "BSBPA01",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80340",
@@ -3290,7 +3290,7 @@
 			"subjectCourse": "BSBPA01",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80050",
@@ -3374,7 +3374,7 @@
 			"subjectCourse": "BSBPA01",
 			"faculty": [
 				{
-					"bannerId": "127847",
+					"bannerId": "2024",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80055",
@@ -3458,7 +3458,7 @@
 			"subjectCourse": "BSBPRACT",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80346",
@@ -3542,7 +3542,7 @@
 			"subjectCourse": "BISCHRM01",
 			"faculty": [
 				{
-					"bannerId": "127835",
+					"bannerId": "2012",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80015",
@@ -3626,7 +3626,7 @@
 			"subjectCourse": "BISCHRM05",
 			"faculty": [
 				{
-					"bannerId": "127836",
+					"bannerId": "2013",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80016",
@@ -3710,7 +3710,7 @@
 			"subjectCourse": "BISCHRM06",
 			"faculty": [
 				{
-					"bannerId": "127836",
+					"bannerId": "2013",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80017",
@@ -3794,7 +3794,7 @@
 			"subjectCourse": "BISCHRM12",
 			"faculty": [
 				{
-					"bannerId": "127835",
+					"bannerId": "2012",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80018",
@@ -3878,7 +3878,7 @@
 			"subjectCourse": "BISCMSS01",
 			"faculty": [
 				{
-					"bannerId": "127837",
+					"bannerId": "2014",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80020",
@@ -3962,7 +3962,7 @@
 			"subjectCourse": "BISCMSS07",
 			"faculty": [
 				{
-					"bannerId": "127837",
+					"bannerId": "2014",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80150",
@@ -4046,7 +4046,7 @@
 			"subjectCourse": "BISCMSS15",
 			"faculty": [
 				{
-					"bannerId": "127836",
+					"bannerId": "2013",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80130",
@@ -4198,7 +4198,7 @@
 			"subjectCourse": "BISCMSS16",
 			"faculty": [
 				{
-					"bannerId": "127836",
+					"bannerId": "2013",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80356",
@@ -4350,7 +4350,7 @@
 			"subjectCourse": "BISCMSS17",
 			"faculty": [
 				{
-					"bannerId": "127838",
+					"bannerId": "2015",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80021",
@@ -4434,7 +4434,7 @@
 			"subjectCourse": "BISCMSS19",
 			"faculty": [
 				{
-					"bannerId": "127837",
+					"bannerId": "2014",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80131",
@@ -4518,7 +4518,7 @@
 			"subjectCourse": "BISCMSS20",
 			"faculty": [
 				{
-					"bannerId": "127836",
+					"bannerId": "2013",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80357",
@@ -4670,7 +4670,7 @@
 			"subjectCourse": "BISCPM01",
 			"faculty": [
 				{
-					"bannerId": "127866",
+					"bannerId": "2043",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80314",
@@ -4929,7 +4929,7 @@
 			"subjectCourse": "FLDEBAS01",
 			"faculty": [
 				{
-					"bannerId": "127829",
+					"bannerId": "2006",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80004",
@@ -5149,7 +5149,7 @@
 			"subjectCourse": "FLDEBAS02",
 			"faculty": [
 				{
-					"bannerId": "127829",
+					"bannerId": "2006",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80014",
@@ -5369,7 +5369,7 @@
 			"subjectCourse": "FLDEXMAS1",
 			"faculty": [
 				{
-					"bannerId": "127829",
+					"bannerId": "2006",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80005",
@@ -5667,7 +5667,7 @@
 			"subjectCourse": "OFCCONV",
 			"faculty": [
 				{
-					"bannerId": "127834",
+					"bannerId": "2011",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80013",
@@ -5751,7 +5751,7 @@
 			"subjectCourse": "OFCLITG",
 			"faculty": [
 				{
-					"bannerId": "127830",
+					"bannerId": "2007",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80006",
@@ -5835,7 +5835,7 @@
 			"subjectCourse": "OFCLOP",
 			"faculty": [
 				{
-					"bannerId": "127830",
+					"bannerId": "2007",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80007",
@@ -5919,7 +5919,7 @@
 			"subjectCourse": "PR01",
 			"faculty": [
 				{
-					"bannerId": "127841",
+					"bannerId": "2018",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80029",
@@ -6003,7 +6003,7 @@
 			"subjectCourse": "PR03",
 			"faculty": [
 				{
-					"bannerId": "127842",
+					"bannerId": "2019",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80030",
@@ -6087,7 +6087,7 @@
 			"subjectCourse": "PR07",
 			"faculty": [
 				{
-					"bannerId": "127843",
+					"bannerId": "2020",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80031",
@@ -6171,7 +6171,7 @@
 			"subjectCourse": "PR10",
 			"faculty": [
 				{
-					"bannerId": "127843",
+					"bannerId": "2020",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80032",
@@ -6255,7 +6255,7 @@
 			"subjectCourse": "RM01",
 			"faculty": [
 				{
-					"bannerId": "127833",
+					"bannerId": "2010",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80011",
@@ -6339,7 +6339,7 @@
 			"subjectCourse": "RM05",
 			"faculty": [
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80022",
@@ -6423,7 +6423,7 @@
 			"subjectCourse": "RM08",
 			"faculty": [
 				{
-					"bannerId": "127842",
+					"bannerId": "2019",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80132",
@@ -6507,7 +6507,7 @@
 			"subjectCourse": "STTVAA01",
 			"faculty": [
 				{
-					"bannerId": "127853",
+					"bannerId": "2030",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80077",
@@ -6517,7 +6517,7 @@
 					"term": "202308"
 				},
 				{
-					"bannerId": "127854",
+					"bannerId": "2031",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80077",
@@ -6601,7 +6601,7 @@
 			"subjectCourse": "STTVAA01",
 			"faculty": [
 				{
-					"bannerId": "127853",
+					"bannerId": "2030",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80353",
@@ -6611,7 +6611,7 @@
 					"term": "202308"
 				},
 				{
-					"bannerId": "127854",
+					"bannerId": "2031",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80353",
@@ -6695,7 +6695,7 @@
 			"subjectCourse": "STTVAA02",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80078",
@@ -6847,7 +6847,7 @@
 			"subjectCourse": "STTVAA02",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80362",
@@ -6931,7 +6931,7 @@
 			"subjectCourse": "STTVAA03",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80157",
@@ -7015,7 +7015,7 @@
 			"subjectCourse": "STTVAA03",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80363",
@@ -7099,7 +7099,7 @@
 			"subjectCourse": "STTVAA04",
 			"faculty": [
 				{
-					"bannerId": "127854",
+					"bannerId": "2031",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80079",
@@ -7217,7 +7217,7 @@
 			"subjectCourse": "STTVAA04",
 			"faculty": [
 				{
-					"bannerId": "127854",
+					"bannerId": "2031",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80364",
@@ -7301,7 +7301,7 @@
 			"subjectCourse": "STTVAA07",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80080",
@@ -7385,7 +7385,7 @@
 			"subjectCourse": "STTVAA07",
 			"faculty": [
 				{
-					"bannerId": "127855",
+					"bannerId": "2032",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80365",
@@ -7469,7 +7469,7 @@
 			"subjectCourse": "TECHEX01",
 			"faculty": [
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80035",
@@ -7655,7 +7655,7 @@
 			"subjectCourse": "TECHEX01",
 			"faculty": [
 				{
-					"bannerId": "127850",
+					"bannerId": "2027",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80330",
@@ -7807,7 +7807,7 @@
 			"subjectCourse": "TECHEX01",
 			"faculty": [
 				{
-					"bannerId": "127847",
+					"bannerId": "2024",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80305",
@@ -7891,7 +7891,7 @@
 			"subjectCourse": "TECHEX01",
 			"faculty": [
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80036",
@@ -7975,7 +7975,7 @@
 			"subjectCourse": "TECHEXADV",
 			"faculty": [
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80042",
@@ -8059,7 +8059,7 @@
 			"subjectCourse": "TECHEXBSC",
 			"faculty": [
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80307",
@@ -8143,7 +8143,7 @@
 			"subjectCourse": "TECHKBNG",
 			"faculty": [
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80040",
@@ -8227,7 +8227,7 @@
 			"subjectCourse": "TECHKBNG",
 			"faculty": [
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80041",
@@ -8311,7 +8311,7 @@
 			"subjectCourse": "TECHOFT",
 			"faculty": [
 				{
-					"bannerId": "127865",
+					"bannerId": "2042",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80311",
@@ -8321,7 +8321,7 @@
 					"term": "202308"
 				},
 				{
-					"bannerId": "127839",
+					"bannerId": "2016",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80311",
@@ -8405,7 +8405,7 @@
 			"subjectCourse": "TECHOFT",
 			"faculty": [
 				{
-					"bannerId": "127865",
+					"bannerId": "2042",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80352",
@@ -8415,7 +8415,7 @@
 					"term": "202308"
 				},
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80352",
@@ -8771,7 +8771,7 @@
 			"subjectCourse": "TECHOFT",
 			"faculty": [
 				{
-					"bannerId": "127865",
+					"bannerId": "2042",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80394",
@@ -8781,7 +8781,7 @@
 					"term": "202308"
 				},
 				{
-					"bannerId": "127845",
+					"bannerId": "2022",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80394",
@@ -8865,7 +8865,7 @@
 			"subjectCourse": "TECHQB01",
 			"faculty": [
 				{
-					"bannerId": "127849",
+					"bannerId": "2026",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80059",
@@ -9085,7 +9085,7 @@
 			"subjectCourse": "TECHQB01",
 			"faculty": [
 				{
-					"bannerId": "127844",
+					"bannerId": "2021",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80033",
@@ -9169,7 +9169,7 @@
 			"subjectCourse": "TECHQB02",
 			"faculty": [
 				{
-					"bannerId": "127844",
+					"bannerId": "2021",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80057",
@@ -9253,7 +9253,7 @@
 			"subjectCourse": "TECHQB02",
 			"faculty": [
 				{
-					"bannerId": "127844",
+					"bannerId": "2021",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80060",
@@ -9483,7 +9483,7 @@
 			"subjectCourse": "TRDART08",
 			"faculty": [
 				{
-					"bannerId": "127868",
+					"bannerId": "2045",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80391",
@@ -9567,7 +9567,7 @@
 			"subjectCourse": "TRDART08",
 			"faculty": [
 				{
-					"bannerId": "127868",
+					"bannerId": "2045",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80392",
@@ -9651,7 +9651,7 @@
 			"subjectCourse": "TRDBIK01",
 			"faculty": [
 				{
-					"bannerId": "127831",
+					"bannerId": "2008",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80123",
@@ -9803,7 +9803,7 @@
 			"subjectCourse": "TRDBIK01",
 			"faculty": [
 				{
-					"bannerId": "127831",
+					"bannerId": "2008",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80009",
@@ -10276,7 +10276,7 @@
 			"subjectCourse": "TRDCARP3",
 			"faculty": [
 				{
-					"bannerId": "127864",
+					"bannerId": "2041",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80308",
@@ -10433,7 +10433,7 @@
 			"subjectCourse": "TRDELE12",
 			"faculty": [
 				{
-					"bannerId": "127832",
+					"bannerId": "2009",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80010",
@@ -10517,7 +10517,7 @@
 			"subjectCourse": "TRDELE12",
 			"faculty": [
 				{
-					"bannerId": "127832",
+					"bannerId": "2009",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80354",
@@ -10601,7 +10601,7 @@
 			"subjectCourse": "TRDELE46",
 			"faculty": [
 				{
-					"bannerId": "127832",
+					"bannerId": "2009",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80355",
@@ -10753,7 +10753,7 @@
 			"subjectCourse": "TRDJWL1",
 			"faculty": [
 				{
-					"bannerId": "127859",
+					"bannerId": "2036",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80151",
@@ -10905,7 +10905,7 @@
 			"subjectCourse": "TRDJWL1",
 			"faculty": [
 				{
-					"bannerId": "127859",
+					"bannerId": "2036",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80164",
@@ -12322,7 +12322,7 @@
 			"subjectCourse": "TRDTD01",
 			"faculty": [
 				{
-					"bannerId": "127840",
+					"bannerId": "2017",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80024",
@@ -12406,7 +12406,7 @@
 			"subjectCourse": "TRDTD01",
 			"faculty": [
 				{
-					"bannerId": "127861",
+					"bannerId": "2038",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80292",
@@ -12631,7 +12631,7 @@
 			"subjectCourse": "TRDVE09",
 			"faculty": [
 				{
-					"bannerId": "127862",
+					"bannerId": "2039",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80293",
@@ -12783,7 +12783,7 @@
 			"subjectCourse": "TRDVE10",
 			"faculty": [
 				{
-					"bannerId": "127863",
+					"bannerId": "2040",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80294",
@@ -13008,7 +13008,7 @@
 			"subjectCourse": "TRDWLD01",
 			"faculty": [
 				{
-					"bannerId": "127857",
+					"bannerId": "2034",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80126",
@@ -13092,7 +13092,7 @@
 			"subjectCourse": "TRDWLD13",
 			"faculty": [
 				{
-					"bannerId": "127857",
+					"bannerId": "2034",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80140",
@@ -13176,7 +13176,7 @@
 			"subjectCourse": "TRDWLD14",
 			"faculty": [
 				{
-					"bannerId": "127857",
+					"bannerId": "2034",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80141",
@@ -13260,7 +13260,7 @@
 			"subjectCourse": "TRDWLD16",
 			"faculty": [
 				{
-					"bannerId": "127858",
+					"bannerId": "2035",
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "80142",
