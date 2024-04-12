@@ -39,11 +39,10 @@ export async function getTerms() {
 }
 
 async function setTimetableTerm({ term }: { term: string }) {
-	// set term
+	// set search term
 	const response = await fetch(
 		'https://apps.ban.ufv.ca/StudentRegistrationSsb/ssb/term/search' +
-			'?mode=search' +
-			`&term=${term}`,
+			`?term=${term}`,
 	);
 	handleResponseError(
 		{ response, name: 'timetable term', verb: 'configure' },

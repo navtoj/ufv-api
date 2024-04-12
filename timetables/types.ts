@@ -20,7 +20,7 @@ export type Terms = z.infer<typeof Terms>;
 
 export const SetTermResponse = z.object({
 	fwdURL: z.literal(
-		'/StudentRegistrationSsb/ssb/classSearch/classSearch',
+		'/StudentRegistrationSsb/ssb/null/null',
 	),
 }).strict();
 
@@ -30,7 +30,7 @@ export const TimetableData = z.object({
 	pageOffset: z.number().nonnegative(),
 	pageMaxSize: z.number().nonnegative().max(500),
 	sectionsFetchedCount: z.number().nonnegative(),
-	pathMode: z.literal('search'),
+	pathMode: z.literal(null),
 	ztcEncodedImage: z.string().nullable(),
 	searchResultsConfigs: z.object({
 		config: NonEmptyString,
