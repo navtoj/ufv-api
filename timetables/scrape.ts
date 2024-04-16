@@ -115,7 +115,10 @@ async function getTimetableData(
 		: TimetableData.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Timetable data failed validation.');
-		console.log(validated.error, parsed);
+		console.log(validated.error);
+		core.startGroup('Parsed Data');
+		console.log(parsed);
+		core.endGroup();
 		Deno.exit(1);
 	}
 
