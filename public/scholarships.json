@@ -147,13 +147,13 @@
 		"biography": "Established in 1999, this award was originally named the Kinsmen of Abbotsford Annual Bursary,  In 2004, the name of this award was changed to the Abbotsford Kinsmen-Kelly Lenihan Memorial Annual Bursary.  This was done in order to honour a member of the club, Kelly Lenihan who tragically passed away in a motor vehicle accident.",
 		"programName": [
 			"Adult Education Studies",
+			"BA(Child & Youth Care)",
 			"Bach of Sci in Nurs Fast-track",
 			"Bach of Sci in Nurs LPN Access",
 			"Bach of Sci in Nursing RNA",
 			"Bach of Sci in Nursing with OU",
 			"Bachelor of Science in Nursing",
 			"Bachelor of Social Work",
-			"BA(Child & Youth Care)",
 			"Early Childhood Ed Cert",
 			"Early Childhood Ed Diploma",
 			"Ext Stud Child Youth Care Cert",
@@ -1731,9 +1731,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
+			"BA(Child & Youth Care)",
 			"Bachelor of Arts in Crim Just",
 			"Bachelor of Social Work",
-			"BA(Child & Youth Care)",
 			"Certificate in Corrections",
 			"Child and Youth Care Studies",
 			"Criminal Justice Studies",
@@ -7389,6 +7389,24 @@
 			"Assoc of Science Degree",
 			"Bachelor of Science"
 		]
+	},
+	{
+		"code": "0718",
+		"name": "Bakker & Kaayk Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "Available to a full time UFV student who identifies as female and can demonstrate community involvement/engagement.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$1,500.00",
+		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
+		"applicationMethod": "Leadership application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Mar 15, 2024 to May 10, 2024"
+		],
+		"ceremony": null,
+		"biography": "Heather Bakker and April Kaayk are both Alumni of University of the Fraser Valley. Both Heather and April have always had a passion for education and community involvement. It is important to them that women cheer each other on. They have grown up being surrounded and supported by strong independent women. Coming from competing Real Estate brokerages in a competitive environment they have partnered to create this annual award and prove that we are truly better together. Heather and April believe women who work hard and persevere lead the path for a brighter future.",
+		"programName": null
 	},
 	{
 		"code": "0719",
