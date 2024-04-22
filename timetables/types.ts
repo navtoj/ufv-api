@@ -61,7 +61,7 @@ export const TimetableData = z.object({
 		waitAvailable: z.number().nonnegative(),
 		crossList: NonEmptyString.nullable(),
 		crossListCapacity: z.number().positive().nullable(),
-		crossListCount: z.number().positive().nullable(),
+		crossListCount: z.number().nonnegative().nullable(),
 		crossListAvailable: z.number().int().nullable(),
 		creditHourHigh: z.number().positive().nullable(),
 		creditHourLow: z.number().nonnegative(),
