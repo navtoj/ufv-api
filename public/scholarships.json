@@ -7525,6 +7525,33 @@
 		]
 	},
 	{
+		"code": "0727",
+		"name": "Louise Jenny Mide Memorial Annual Bursary",
+		"type": "Annual Bursary",
+		"description": "This bursary is for a UFV Nursing student who has navigated or is navigating challenges themselves or with a spouse/partner or child such as: health challenges; being a single parent; socio-economic barriers; children with disabilities; having a disability themselves.\nPreference is for a student that grew up and is from the Fraser Valley. Must be a Canadian citizen or Permanent Resident.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2023 to Nov 30, 2023",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": "Louise Jenny Mide grew up in Maple Ridge, B.C. and spent her childhood enjoying the natural beauty of the Fraser Valley. She loved her family, her close friends, her pets, and her horse Sox. She enjoyed riding with her sister through the many trails of Maple Ridge and successfully competed in equestrian events. She was also involved in Canadian Girls in Training (CGIT) and loved to fish at her family’s cabin at Nimpo Lake in the Chilcotin. Diagnosed with a rare and complex condition at birth, Louise’s vital spirit - inspired by her parents’ resilience and determination - helped her defy the medical consensus of the time.\nLouise began her post-secondary journey at Douglas College, earning her Psychiatric Nursing Diploma, then continued her studies for a Registered Nursing Diploma. She worked in healthcare for several years, including the Peace Arch Hospital in White Rock and Haney Intermediate Care in Maple Ridge, before returning to school to earn her Bachelor of Science in Nursing Degree from the University of Victoria. Later, Louise completed her Master of Nursing through Athabasca University.\nIn 2003, Louise moved to the Okanagan to help manage Athens Creek Lodge in Penticton. Because of her congenital heart condition, Louise could not carry a child, but she was able to realize her dream of becoming a mother when she adopted her son Jack at birth in 2004. In 2013, she married her husband Robert and also became a stepmother to Brendan.\nAs the world began to navigate the COVID-19 pandemic, Louise was required to take a medical leave from work in order to preserve her own health. Louise used that time to return to her lifelong passion for education and completed a certificate in online teaching through the University of Calgary, after which she hoped to share her experience and knowledge with a new generation of health care professionals.\nTragically, just as the world was beginning to come out of the pandemic, Louise passed away from complications of her condition on May 7, 2022.\nLouise was an inspiring and courageous woman who fought for life, love, and happiness every day of her 53 years. She was a devoted and tenacious mother, wife, daughter, sister, aunt, niece, cousin, and friend. Louise was also a caring, compassionate, and accomplished professional who valued the transformative power of education.\nLouise cherished her deep roots in the Fraser Valley, and as a tribute to her dream of sharing her lived and professional experience with nursing students, her family has established this bursary. Because she endured so many health challenges while raising her child, Louise’s family would like to honour her memory by ensuring other nursing students can benefit and be inspired by her example for years to come.",
+		"programName": [
+			"Bach of Sci in Nurs LPN Access",
+			"Bach of Sci in Nursing with OU",
+			"Bachelor of Science in Nursing",
+			"Nursing Diploma",
+			"Nursing Track",
+			"Practical Nursing Diploma"
+		]
+	},
+	{
 		"code": "0728",
 		"name": "Christopher Robin History Student Service Annual Award",
 		"type": "Department Funded Awards",
