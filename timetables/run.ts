@@ -12,40 +12,43 @@ await ensureDir('public/timetables');
 // get available terms
 const terms = await getTerms();
 
-// get latest term
-const term = terms.sort((a, b) => a.code.localeCompare(b.code)).at(-1);
+// get latest terms
+const latest = terms.sort((a, b) => a.code.localeCompare(b.code)).slice(-2);
 // make sure a term is available
-if (!term) {
+if (!latest.length) {
 	console.log('No terms available.');
 	Deno.exit(1);
 }
 
-// SCRAPE DATA
+// loop through terms
+for (const term of latest) {
+	// SCRAPE DATA
 
-const scraped = await scrape(term);
+	const scraped = await scrape(term);
 
-// FORMAT DATA
+	// FORMAT DATA
 
-const formatted = scraped; // format(scraped);
+	const formatted = scraped; // format(scraped);
 
-// VALIDATE DATA
+	// VALIDATE DATA
 
-const validated = Timetable.safeParse(formatted);
-if (!validated.success) {
-	core.error(`Timetable (${term.code}) failed validation.`);
-	console.log(validated.error.issues);
-	Deno.exit(1);
+	const validated = Timetable.safeParse(formatted);
+	if (!validated.success) {
+		core.error(`Timetable (${term.code}) failed validation.`);
+		console.log(validated.error.issues);
+		Deno.exit(1);
+	}
+
+	// SAVE DATA
+
+	await Deno.writeTextFile(
+		`public/timetables/${term.code}.json`,
+		JSON.stringify(
+			validated.data,
+			null,
+			'\t',
+		),
+	);
 }
-
-// SAVE DATA
-
-await Deno.writeTextFile(
-	`public/timetables/${term.code}.json`,
-	JSON.stringify(
-		validated.data,
-		null,
-		'\t',
-	),
-);
 
 console.timeEnd('timetables');
