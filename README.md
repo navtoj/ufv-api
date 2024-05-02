@@ -17,4 +17,4 @@ https://navtoj.github.io/ufv-api/timetables
 ## Related Repos
 
 1. https://gitlab.com/jennydaman/nubanned/
-2. https://github.com/Evantm/TRU-Datasets/tree/master/Class%20data
+2. [https://github.com/Evantm/TRU-Datasets/tree/master/Class data](https://github.com/Evantm/TRU-Datasets/tree/master/Class%20data)
