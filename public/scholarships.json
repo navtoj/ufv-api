@@ -3061,6 +3061,22 @@
 		"programName": null
 	},
 	{
+		"code": "0320",
+		"name": "Rise and Shine Toastmasters' Annual Achievement Award",
+		"type": "Annual Scholarship",
+		"description": "One student will be nominated by fellow students from each section of the UFV Communications 235:  Public speaking course offered between May and April.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$600.00",
+		"selectionProcess": "Recipients are selected by the department",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": false,
+		"applicationsAccepted": null,
+		"ceremony": "Original Ceremony",
+		"biography": null,
+		"programName": null
+	},
+	{
 		"code": "0327",
 		"name": "John Petropoulos Memorial Endowment Scholarship",
 		"type": "Endowment Scholarship",
