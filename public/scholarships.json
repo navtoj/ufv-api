@@ -3906,24 +3906,6 @@
 		"programName": null
 	},
 	{
-		"code": "0425",
-		"name": "The Venema & Goodrich Leadership Endowment in Governance and Risk Management",
-		"type": "Endowment Scholarship",
-		"description": "Available to a student who has completed one full term of active participation in University governance as a member of the University Board of Governors or University Senate.  \n•\tStudents may also apply when serving in their final semester of office. \n•\tThrough service to other students, the University, and the communities which it serves, this student will exemplify the highest caliber of leadership and excellence.\n•\tPreference given to students majoring in Political Science or Finance",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": "$500.00",
-		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
-		"applicationMethod": "Leadership application",
-		"applyTo": "Online application through MyUFV",
-		"acceptApplications": true,
-		"applicationsAccepted": [
-			"Mar 15, 2024 to May 10, 2024"
-		],
-		"ceremony": null,
-		"biography": null,
-		"programName": null
-	},
-	{
 		"code": "0435",
 		"name": "UFV Excellence Entrance Scholarship",
 		"type": "Tuition Scholarship",
