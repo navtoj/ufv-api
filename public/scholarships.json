@@ -6256,7 +6256,7 @@
 		"type": "Annual Scholarship",
 		"description": "Available to Indigenous students enrolled in UFV's Faculty of Arts.  First preference to be given out to a St'at'imc student.  Must be Canadian citizen.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$750.00",
 		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
 		"applicationMethod": "Scholarship application",
 		"applyTo": "Online application through MyUFV",
