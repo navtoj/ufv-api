@@ -115,7 +115,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ELTR105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "91574",
+					"displayName": "Trevor Murray",
+					"emailAddress": "Trevor.Murray@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202409"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
