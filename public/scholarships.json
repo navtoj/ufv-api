@@ -7523,6 +7523,24 @@
 		]
 	},
 	{
+		"code": "0726",
+		"name": "Taste of Abby Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "Preference is for a culinary student who has a focus on local food and connecting with local farmers. Student must have demonstrated a level of community involvement/engagement.\nTaste of Abby would like to have the student recipient acknowledged in print and digital communication and would like to offer the opportunity to be involved with the Taste of Abby events that run annually in September.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$1,500.00",
+		"selectionProcess": "Recipients are selected by the department",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": false,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": null,
+		"programName": [
+			"Professional Cook Training"
+		]
+	},
+	{
 		"code": "0727",
 		"name": "Louise Jenny Mide Memorial Annual Bursary",
 		"type": "Annual Bursary",
