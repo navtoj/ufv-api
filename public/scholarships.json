@@ -5796,7 +5796,7 @@
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": "$1,000.00",
 		"selectionProcess": "Recipients are selected by the department",
-		"applicationMethod": "Nomination",
+		"applicationMethod": "Entrance Nomination",
 		"applyTo": "Department Recommendation",
 		"acceptApplications": false,
 		"applicationsAccepted": null,
@@ -7684,5 +7684,23 @@
 		"ceremony": null,
 		"biography": "The UFV Alumni Association fosters a vibrant community that extends far beyond graduation day. As the backbone of the University of the Fraser Valley's alumni network, the association embodies the spirit of connection and lifelong learning, providing a platform for alumni to engage, collaborate, and give back to their alma mater.\n\nIn commemoration of UFV's 50th anniversary, the establishment of an award by the Alumni Association underscores their unwavering commitment to student empowerment. This award not only honours the university's milestone achievement but also exemplifies the enduring legacy of support and encouragement that defines the UFV community. Through this initiative, the Alumni Association reaffirms its dedication to nurturing the potential of UFV students, ensuring that they are equipped with the resources and opportunities needed to thrive academically and beyond.",
 		"programName": null
+	},
+	{
+		"code": "0738",
+		"name": "Michael Woods Memorial Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "Available to a student with a history of volunteer service/demonstrated leadership enrolled in the Master of Education in Educational Leadership and Mentorship Program. Preference is for a student who has a vested interest in conducting research in underserved or marginalized communities. Or alternatively, is interested in research in communities that require transformative change to improve the\nlife chances of students.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$1,300.00",
+		"selectionProcess": "Recipients are selected by the department",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": false,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": "This leadership award is in honour of Michael (Mike) Woods, an instructor who taught EDUC 700 to the inaugural cohort of the newly designed MEd program. He passed away in January 2021. This leadership award is fitting of the person Mike was – supportive, inclusive, inspiring, kind, humble, and a consummate educational leader who believed in everyone and built a strong community wherever he found himself working. He is remembered for his legacy of servant leadership – it was his way of being as an educational leader, one that supported the professional and personal growth of his students and colleagues. In doing so, he opened doors and opportunities for ideas to flourish. His impact was profound and through this leadership award, his memory will continue to support future students in the Master of Education program.",
+		"programName": [
+			"Master of Ed, Leader & Mentor"
+		]
 	}
 ]
