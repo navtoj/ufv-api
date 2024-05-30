@@ -7317,6 +7317,28 @@
 		"programName": null
 	},
 	{
+		"code": "0710",
+		"name": "Dhami Family Endowment Leadership Award (Criminology)",
+		"type": "Endowment Scholarship",
+		"description": "Available to students enrolled in a UFV Criminal Justice program, who demonstrates community involvement/engagement.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$1,000.00",
+		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
+		"applicationMethod": "Leadership application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Mar 15, 2024 to May 10, 2024"
+		],
+		"ceremony": null,
+		"biography": null,
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma",
+			"Masters of Arts (Crim Justice)"
+		]
+	},
+	{
 		"code": "0711",
 		"name": "Gayle Ramsden Annual Prize for a Distinguished Student",
 		"type": "Annual Scholarship",
