@@ -7597,7 +7597,7 @@
 		"type": "Department Funded Awards",
 		"description": "This service award will recognize a UFV History student who has made service contributions at the department level. This may include work with departmental events or work with the Association of History Students.\nGPA is not part of the specific criteria for this award but will be a consideration should there be more than one nominee.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$250.00",
 		"selectionProcess": "Recipients are selected by the department",
 		"applicationMethod": "Nomination",
 		"applyTo": "Department Recommendation",
