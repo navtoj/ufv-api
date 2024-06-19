@@ -124,7 +124,7 @@ export const TimetableData = z.object({
 			maximumEnrollmentReserved: z.number().nonnegative(),
 			maximumEnrollmentUnreserved: z.number().nonnegative(),
 			seatsAvailableReserved: z.number().nonnegative(),
-			seatsAvailableUnreserved: z.number().nonnegative(),
+			seatsAvailableUnreserved: z.number().min(-1),
 			termCode: Terms.element.shape.code,
 			waitAvailableReserved: z.number().nonnegative(),
 			waitAvailableUnreserved: z.number().nonnegative(),

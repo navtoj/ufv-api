@@ -1,5 +1,5 @@
+// deno run --allow-net --allow-read --allow-write --allow-env timetables/run.ts
 console.time('timetables');
-// deno run --allow-env --allow-net --allow-read --allow-write timetables/run.ts
 
 import { ensureDir } from 'https://deno.land/std@0.221.0/fs/ensure_dir.ts';
 import * as core from 'npm:@actions/core';
