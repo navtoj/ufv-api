@@ -116,9 +116,12 @@ async function getTimetableData(
 	if (!validated.success) {
 		core.error('Timetable data failed validation.');
 		console.log(validated.error.issues);
-		core.startGroup('Parsed Data');
-		console.log(parsed);
-		core.endGroup();
+		// only run in github actions
+		if (Deno.env.get('CI') === 'true') {
+			core.startGroup('Parsed Data');
+			console.log(parsed);
+			core.endGroup();
+		}
 		Deno.exit(1);
 	}
 
