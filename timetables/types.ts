@@ -123,7 +123,7 @@ export const TimetableData = z.object({
 			courseReferenceNumber: DigitsString,
 			maximumEnrollmentReserved: z.number().nonnegative(),
 			maximumEnrollmentUnreserved: z.number().nonnegative(),
-			seatsAvailableReserved: z.number().nonnegative(),
+			seatsAvailableReserved: z.number().int(), // was -1 once
 			seatsAvailableUnreserved: z.number().int(), // was -1 once
 			termCode: Terms.element.shape.code,
 			waitAvailableReserved: z.number().nonnegative(),
