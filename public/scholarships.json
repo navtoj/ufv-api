@@ -1450,7 +1450,7 @@
 		"type": "Department Funded Awards",
 		"description": "This award is presented annually for outstanding performance in first-year chemistry courses.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": "$150.00",
+		"amount": "$200.00",
 		"selectionProcess": "Recipients are selected by the department",
 		"applicationMethod": "Nomination",
 		"applyTo": "Department Recommendation",
