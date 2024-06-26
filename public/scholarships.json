@@ -6043,7 +6043,7 @@
 		"type": "Endowment Scholarship",
 		"description": "Applicants enrolled in a program in the College of Arts must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the previous fall and winter semesters of the current academic year in a program.\nStudents with documented disabilities, who require study at a reduced course load, must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the previous 2 academic years.  A \"Verification of Disability\" form available from the Centre for Accessibility Services, must be attached.\nRecipients must apply the tuition scholarship only to the next academic year (which includes fall and winter semesters). The tuition scholarship may not be deferred to future academic years.\nThis award is available to both Canadian and International students.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$1,500.00",
 		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
 		"applicationMethod": "Scholarship application",
 		"applyTo": "Online application through MyUFV",
