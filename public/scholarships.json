@@ -6837,7 +6837,7 @@
 		"type": "Annual Scholarship",
 		"description": "Available to the student with the highest grade point average in any program in the Faculty of Health Sciences.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": "$250.00",
+		"amount": null,
 		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
 		"applicationMethod": "Scholarship application",
 		"applyTo": "Online application through MyUFV",
