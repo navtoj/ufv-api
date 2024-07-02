@@ -7715,7 +7715,7 @@
 		"type": "Annual Bursary",
 		"description": "This bursary is open to registered  attending UFV students demonstrating genuine financial need. A preference for students who identify from groups who have been structurally excluded (Indigenous, Black and Racialized communities, 2SLGBTQIA+ communities, Disability communities, Non-Binary, Trans and Women Identified communities).",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$3,000.00",
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
 		"applicationMethod": "Bursary application",
 		"applyTo": "Online application through MyUFV",
@@ -7741,6 +7741,33 @@
 		"biography": "This leadership award is in honour of Michael (Mike) Woods, an instructor who taught EDUC 700 to the inaugural cohort of the newly designed MEd program. He passed away in January 2021. This leadership award is fitting of the person Mike was – supportive, inclusive, inspiring, kind, humble, and a consummate educational leader who believed in everyone and built a strong community wherever he found himself working. He is remembered for his legacy of servant leadership – it was his way of being as an educational leader, one that supported the professional and personal growth of his students and colleagues. In doing so, he opened doors and opportunities for ideas to flourish. His impact was profound and through this leadership award, his memory will continue to support future students in the Master of Education program.",
 		"programName": [
 			"Master of Ed, Leader & Mentor"
+		]
+	},
+	{
+		"code": "0739",
+		"name": "Forte Workplace Annual Bursary",
+		"type": "Annual Bursary",
+		"description": "This bursary is available to an indigenous student with an interest in law. A preference is given to students enrolled in the Legal Administrative Assistant program, Paralegal program, Indigenous studies, or a Criminal Justice program.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": "$1,000.00",
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2023 to Nov 30, 2023",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": "Forte Workplace Law is a mid-sized law firm with offices in Surrey, British Columbia and Calgary, Alberta, offering legal services exclusively in the areas of labour, employment, and workplace human rights. The team at Forte Workplace Law helps people to resolve conflict at work, and approaches legal advocacy with kindness, courage, and heart. This also applies to the firm's community work, and its support of truth and reconciliation, and diversity in the legal profession.",
+		"programName": [
+			"Criminal Justice Diploma",
+			"Criminal Justice Studies",
+			"Indigenous Studies",
+			"Legal Adm Assistant Cert",
+			"Paralegal Certificate",
+			"Paralegal diploma"
 		]
 	}
 ]
