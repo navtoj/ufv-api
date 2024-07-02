@@ -3278,7 +3278,7 @@
 		"type": "Annual Scholarship",
 		"description": "Full-time UFV students completing their second or third year of a bachelor degree.  Students must have a GPA of 3.0 and be a Canadian citizen or landed immigrant.  Students must be able to demonstrate leadership experience and volunteer commitments.  Preference will be given for a student who is a resident of the Fraser Valley (Langley to Hope).  Students can only receive this award once.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$10,000.00",
 		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
 		"applicationMethod": "Leadership application",
 		"applyTo": "Online application through MyUFV",
