@@ -3430,7 +3430,7 @@
 		"type": "Annual Scholarship",
 		"description": "Available to a student entering full-time studies at UFV immediately following their high school graduation.  Preference will be given to those students entering into business, and/or agriculture.\nCriteria:\n1.  The applicant must be planning to attend UFV as a full-time student (9 post-secondary credits or more per semester) in the academic year immediately following their Grade 12 graduation.\n2.  The applicant must have already submitted an application for admission to UFV.\n3.  The applicant must have a high academic standing with an overall B average (or 3.0 GPA) in all Grade 12 courses, including English 12 and a minimum of two other Approved Grade 12 courses.\n4.  The applicant must meet all entrance requirements and prerequisites for the UFV program that they have applied to.\n5.  The applicant must be able to demonstrate an exceptional level of leadership, citizenship, determination and effort.  He/she should also have made significant contributions to school life and have participated actively in the community.\n6.  This award is not available to students who will be receiving a UFV Excellence Entrance Scholarship for the same academic year.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$12,500.00",
 		"selectionProcess": "Entrance awards recipients are selected by an Awards Adjudication Committee.",
 		"applicationMethod": "Entrance Scholarship",
 		"applyTo": "Paper Application",
