@@ -4207,15 +4207,6 @@
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "10008",
-					"displayName": "Sara Brune",
-					"emailAddress": "Sara.Brune@ufv.ca",
-					"primaryIndicator": false,
-					"term": "202501"
-				},
-				{
-					"category": null,
-					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-					"courseReferenceNumber": "10008",
 					"displayName": "Shellie Steidle",
 					"emailAddress": "Shellie.Steidle@ufv.ca",
 					"primaryIndicator": true,
@@ -4236,6 +4227,24 @@
 					"courseReferenceNumber": "10008",
 					"displayName": "Renette Aubin Boisclair",
 					"emailAddress": "Renette.AubinBoisclair@ufv.ca",
+					"primaryIndicator": false,
+					"term": "202501"
+				},
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10008",
+					"displayName": "Kate McCulloch",
+					"emailAddress": "Kate.McCulloch@ufv.ca",
+					"primaryIndicator": false,
+					"term": "202501"
+				},
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10008",
+					"displayName": "Jacquie Watson",
+					"emailAddress": "jacqueline.watson@ufv.ca",
 					"primaryIndicator": false,
 					"term": "202501"
 				}
