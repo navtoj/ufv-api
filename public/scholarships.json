@@ -147,13 +147,13 @@
 		"biography": "Established in 1999, this award was originally named the Kinsmen of Abbotsford Annual Bursary,  In 2004, the name of this award was changed to the Abbotsford Kinsmen-Kelly Lenihan Memorial Annual Bursary.  This was done in order to honour a member of the club, Kelly Lenihan who tragically passed away in a motor vehicle accident.",
 		"programName": [
 			"Adult Education Studies",
-			"BA(Child & Youth Care)",
-			"Bach of Sci in Nurs Fast-track",
-			"Bach of Sci in Nurs LPN Access",
-			"Bach of Sci in Nursing RNA",
-			"Bach of Sci in Nursing with OU",
 			"Bachelor of Science in Nursing",
 			"Bachelor of Social Work",
+			"BA(Child & Youth Care)",
+			"Bach of Sci in Nurs Fast-track",
+			"Bach of Sci in Nursing RNA",
+			"Bach of Sci in Nursing with OU",
+			"Bach of Sci in Nurs LPN Access",
 			"Early Childhood Ed Cert",
 			"Early Childhood Ed Diploma",
 			"Ext Stud Child Youth Care Cert",
@@ -968,9 +968,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Bach of Sci in Nurs LPN Access",
-			"Bach of Sci in Nursing RNA",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nursing RNA",
+			"Bach of Sci in Nurs LPN Access",
 			"Practical Nursing"
 		]
 	},
@@ -1066,9 +1066,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
+			"Dental Assisting Certificate",
 			"Dental Assisting Cert Lvl 1",
 			"Dental Assisting Cert Lvl 2",
-			"Dental Assisting Certificate",
 			"Dental Hygiene Diploma"
 		]
 	},
@@ -1708,8 +1708,8 @@
 		"programName": [
 			"Library & Info Tech Diploma",
 			"Library Info Tech Studies",
-			"Library Tech Post-diploma Cert",
-			"Library Technician Diploma"
+			"Library Technician Diploma",
+			"Library Tech Post-diploma Cert"
 		]
 	},
 	{
@@ -1731,9 +1731,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"BA(Child & Youth Care)",
 			"Bachelor of Arts in Crim Just",
 			"Bachelor of Social Work",
+			"BA(Child & Youth Care)",
 			"Certificate in Corrections",
 			"Child and Youth Care Studies",
 			"Criminal Justice Studies",
@@ -2157,8 +2157,8 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Bach of Sci in Nursing RNA",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nursing RNA",
 			"Nursing Diploma",
 			"Practical Nursing"
 		]
@@ -3162,8 +3162,8 @@
 		"biography": null,
 		"programName": [
 			"Library & Info Tech Diploma",
-			"Library Tech Post-diploma Cert",
-			"Library Technician Diploma"
+			"Library Technician Diploma",
+			"Library Tech Post-diploma Cert"
 		]
 	},
 	{
@@ -3974,9 +3974,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
+			"Bachelor of Science in Nursing",
 			"Bach of Sci in Nurs Fast-track",
 			"Bach of Sci in Nurs LPN Access",
-			"Bachelor of Science in Nursing",
 			"Nursing Diploma",
 			"Practical Nursing"
 		]
@@ -4418,8 +4418,8 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
-			"Eng Phys Dipl in Mechatronics",
-			"Engineering Transfer"
+			"Engineering Transfer",
+			"Eng Phys Dipl in Mechatronics"
 		]
 	},
 	{
@@ -4543,8 +4543,8 @@
 		"ceremony": null,
 		"biography": "Based in Abbotsford, BC and Seattle, WA, Ecotex specializes in services to the healthcare sector in Canada and the U.S.A. The company services, leases and launders healthcare linens, reusable operating room textiles, uniforms and other textile products, as well as providing related management and support services.",
 		"programName": [
-			"Bach of Sci in Nurs LPN Access",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nurs LPN Access",
 			"Practical Nursing Diploma"
 		]
 	},
@@ -5244,8 +5244,8 @@
 		"biography": "Sandy Brar was known for her kindess, her compassion, and her giving nature.  She was admired for her strength and resilience as she navigated mental illness and the challenges of living as a partially-sighted individual.  Sandy's greatest aspiration in life was to become a teacher.  It is the family's wish that the recipient of this award shares Sandy's career aspirations for teaching and has demonstrated a genuine commitment to physical or mental health advocacy in the community.",
 		"programName": [
 			"Bachelor of Kinesiology",
-			"Teacher Education Program",
 			"Teacher Education-Elem/Middle",
+			"Teacher Education Program",
 			"Teacher Education-Secondary"
 		]
 	},
@@ -5973,10 +5973,10 @@
 		"ceremony": null,
 		"biography": "Gurdev Kaur Parmar was born and raised in Punjab, India. She was a homemaker in India and raised five children.\nShe permanently moved to Canada with her entire family in the year 2000. \nGurdev was a strong believer of education and she worked very hard to ensure that her children received the best education that was available and that they succeeded in every aspect of their lives. \nGurdev passed away on July 15, 2019 in Abbotsford with her family by her side. She left behind her two sons, two daughters and seven grandchildren.\nThe Gurdev Kaur Parmar Memorial Endowment Leadership Award has been set up by the Parmar family to honour and remember Gurdev every year for something that she has always stood for which is unconditional giving and hardwork.",
 		"programName": [
-			"Bach of Sci in Nurs Fast-track",
-			"Bach of Sci in Nurs LPN Access",
-			"Bach of Sci in Nursing RNA",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nurs Fast-track",
+			"Bach of Sci in Nursing RNA",
+			"Bach of Sci in Nurs LPN Access",
 			"Nursing Diploma",
 			"Nursing Studies",
 			"Nursing Track",
@@ -6590,8 +6590,8 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
-			"Bach of Kines-2nd yr entry",
 			"Bachelor of Kinesiology",
+			"Bach of Kines-2nd yr entry",
 			"Fitness & Exercise Mgmt Cert",
 			"Fitness & Exercise Mng Diploma",
 			"Kinesiology Studies"
@@ -6739,8 +6739,8 @@
 		"programName": [
 			"Bachelor of Social Work",
 			"Master of Social Work",
-			"Social Service Worker Diploma",
-			"Social Services Diploma"
+			"Social Services Diploma",
+			"Social Service Worker Diploma"
 		]
 	},
 	{
@@ -7001,8 +7001,8 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
-			"Adult Ed & Workplace Trn Cert",
 			"Adult Education Studies",
+			"Adult Ed & Workplace Trn Cert",
 			"Bachelor of Arts in Adult Educ",
 			"Teaching Eng as a Second Lang",
 			"Workplace Education Assoc Cert",
@@ -7284,10 +7284,10 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
-			"Bach of Sci in Nurs Fast-track",
-			"Bach of Sci in Nurs LPN Access",
-			"Bach of Sci in Nursing RNA",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nurs Fast-track",
+			"Bach of Sci in Nursing RNA",
+			"Bach of Sci in Nurs LPN Access",
 			"Post-LPN pathway to BSN",
 			"Practical Nursing",
 			"Practical Nursing Diploma"
@@ -7482,8 +7482,8 @@
 		"ceremony": null,
 		"biography": "It was my maternal grandfather who had always told us to respect nature and the land for what it is- the land that feeds and provides for us. He was a big man and when he spoke, we listened. It is in memory of this great man who had foresight for his descendants, a love for the land, and what matters, what truly matters in life, and pride in my daughter who was compelled to start a bursary five years after she had convocated from UFV, that this bursary comes to be.\nI have been fortunate to have support and encouragement from my children, family, and friends while achieving my degree.\nIt is now i hope to \"Pay It Forward\", to help support your education. It is my wish that the recipient of this bursary works towards a degree that seeks to benefit the environment for future generations.",
 		"programName": [
-			"Bachelor of Envir Studies NS",
-			"Bachelor of Environmental Stud"
+			"Bachelor of Environmental Stud",
+			"Bachelor of Envir Studies NS"
 		]
 	},
 	{
@@ -7599,9 +7599,9 @@
 		"ceremony": null,
 		"biography": "Louise Jenny Mide grew up in Maple Ridge, B.C. and spent her childhood enjoying the natural beauty of the Fraser Valley. She loved her family, her close friends, her pets, and her horse Sox. She enjoyed riding with her sister through the many trails of Maple Ridge and successfully competed in equestrian events. She was also involved in Canadian Girls in Training (CGIT) and loved to fish at her family’s cabin at Nimpo Lake in the Chilcotin. Diagnosed with a rare and complex condition at birth, Louise’s vital spirit - inspired by her parents’ resilience and determination - helped her defy the medical consensus of the time.\nLouise began her post-secondary journey at Douglas College, earning her Psychiatric Nursing Diploma, then continued her studies for a Registered Nursing Diploma. She worked in healthcare for several years, including the Peace Arch Hospital in White Rock and Haney Intermediate Care in Maple Ridge, before returning to school to earn her Bachelor of Science in Nursing Degree from the University of Victoria. Later, Louise completed her Master of Nursing through Athabasca University.\nIn 2003, Louise moved to the Okanagan to help manage Athens Creek Lodge in Penticton. Because of her congenital heart condition, Louise could not carry a child, but she was able to realize her dream of becoming a mother when she adopted her son Jack at birth in 2004. In 2013, she married her husband Robert and also became a stepmother to Brendan.\nAs the world began to navigate the COVID-19 pandemic, Louise was required to take a medical leave from work in order to preserve her own health. Louise used that time to return to her lifelong passion for education and completed a certificate in online teaching through the University of Calgary, after which she hoped to share her experience and knowledge with a new generation of health care professionals.\nTragically, just as the world was beginning to come out of the pandemic, Louise passed away from complications of her condition on May 7, 2022.\nLouise was an inspiring and courageous woman who fought for life, love, and happiness every day of her 53 years. She was a devoted and tenacious mother, wife, daughter, sister, aunt, niece, cousin, and friend. Louise was also a caring, compassionate, and accomplished professional who valued the transformative power of education.\nLouise cherished her deep roots in the Fraser Valley, and as a tribute to her dream of sharing her lived and professional experience with nursing students, her family has established this bursary. Because she endured so many health challenges while raising her child, Louise’s family would like to honour her memory by ensuring other nursing students can benefit and be inspired by her example for years to come.",
 		"programName": [
-			"Bach of Sci in Nurs LPN Access",
-			"Bach of Sci in Nursing with OU",
 			"Bachelor of Science in Nursing",
+			"Bach of Sci in Nursing with OU",
+			"Bach of Sci in Nurs LPN Access",
 			"Nursing Diploma",
 			"Nursing Track",
 			"Practical Nursing Diploma"
