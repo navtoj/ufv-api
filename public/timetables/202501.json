@@ -32,7 +32,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC421",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10029",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -105,7 +115,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC421",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10030",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -178,7 +198,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC422",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10031",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -251,7 +281,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC422",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10032",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -324,7 +364,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC423",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10033",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -397,7 +447,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC423",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10034",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -470,7 +530,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC425",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10035",
+					"displayName": "John MacCormack",
+					"emailAddress": "John.MacCormack@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -543,7 +613,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC425",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10036",
+					"displayName": "John MacCormack",
+					"emailAddress": "John.MacCormack@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -616,7 +696,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC440",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10037",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -689,7 +779,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC448",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10038",
+					"displayName": "Barbara Salingre",
+					"emailAddress": "Barbara.Salingre@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -762,7 +862,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC448",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10039",
+					"displayName": "Barbara Salingre",
+					"emailAddress": "Barbara.Salingre@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -835,7 +945,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC448",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10040",
+					"displayName": "Barbara Salingre",
+					"emailAddress": "Barbara.Salingre@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -908,7 +1028,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC450",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10041",
+					"displayName": "Joanne Robertson",
+					"emailAddress": "Joanne.Robertson@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -981,7 +1111,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC450",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10042",
+					"displayName": "Joanne Robertson",
+					"emailAddress": "Joanne.Robertson@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1054,7 +1194,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC450",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10043",
+					"displayName": "Amrit Cojocaru",
+					"emailAddress": "Amrit.Cojocaru@student.ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1127,7 +1277,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC452",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10044",
+					"displayName": "Amrit Cojocaru",
+					"emailAddress": "Amrit.Cojocaru@student.ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1200,7 +1360,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC452",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10045",
+					"displayName": "Amrit Cojocaru",
+					"emailAddress": "Amrit.Cojocaru@student.ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1273,7 +1443,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC452",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10046",
+					"displayName": "Chuck Charles",
+					"emailAddress": "Chuck.Charles@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1346,7 +1526,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC454",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10047",
+					"displayName": "Nikki Yee",
+					"emailAddress": "Nikki.Yee@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1419,7 +1609,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC454",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10048",
+					"displayName": "Nikki Yee",
+					"emailAddress": "Nikki.Yee@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1492,7 +1692,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC454",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10049",
+					"displayName": "Christine Abbot",
+					"emailAddress": "Christine.Abbot@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1565,7 +1775,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC455",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10050",
+					"displayName": "Stefan Stipp",
+					"emailAddress": "stefan.stipp@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1638,7 +1858,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC456",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10051",
+					"displayName": "Stefan Stipp",
+					"emailAddress": "stefan.stipp@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1711,7 +1941,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC457",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10052",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1784,7 +2024,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC458",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10053",
+					"displayName": "Judy Larsen",
+					"emailAddress": "Judy.Larsen@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1857,7 +2107,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC492A",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10054",
+					"displayName": "Vandy Britton",
+					"emailAddress": "vandy.britton@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1930,7 +2190,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC495B",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10055",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -2003,7 +2273,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC495B",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10056",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -2076,7 +2356,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC495B",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10057",
+					"displayName": "Jas Uppal",
+					"emailAddress": "Jas.Uppal@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -2149,7 +2439,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "EDUC498",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10058",
+					"displayName": "Vandy Britton",
+					"emailAddress": "vandy.britton@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202501"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
