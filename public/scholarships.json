@@ -7385,6 +7385,33 @@
 		"programName": null
 	},
 	{
+		"code": "0715",
+		"name": "Poignant Family Memorial Endowment Bursary",
+		"type": "Endowment Bursary",
+		"description": "Available to a UFV student in a program in the UFV School of Creative Arts. Must be a Canadian citizen or Permanent Resident.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2024 to Nov 30, 2024",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": "This endowment bursary is in memory of Ernie and Rose Poignant, an Abbotsford couple who loved the Lord, loved giving back and loved the creative side of life. Ernie was a renowned cartoonist and sketch artist who performed chalk talks and Initial Drawings for people of all ages for decades. Born on the Matsqui Prairie in 1919, Ernie published three cartoon books after the age of 75 with all proceeds going to charity. Rose, his wife of 67 years, was his biggest fan and was described by Ernie as \"my critic, my inspiration and my best friend.\" The couple lived in Abbotsford from 2003 until their passing in 2021.\nThrough this endowment the Poignant family wants to foster aspiring artists at UFV.",
+		"programName": [
+			"Assoc of Arts: Media & Comm",
+			"Bachelor of Fine Arts",
+			"Bachelor of Media Arts",
+			"Fine Arts Diploma",
+			"Fine Arts:Graphic Dsgn Diploma",
+			"Media & Communications Diploma"
+		]
+	},
+	{
 		"code": "0717",
 		"name": "Women in Need Annual Bursary",
 		"type": "Annual Bursary",
