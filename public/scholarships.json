@@ -3347,22 +3347,6 @@
 		"programName": null
 	},
 	{
-		"code": "0363",
-		"name": "Doug Nicol Annual Geography Department Scholarship",
-		"type": "Department Funded Awards",
-		"description": "Available to a student who portrays an enthusiastic interest in human and physical geography, contributes to department life and functions, participates in student activities, and maintains a high GPA.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": "$250.00",
-		"selectionProcess": "Recipients are selected by the department",
-		"applicationMethod": "Nomination",
-		"applyTo": "Department Recommendation",
-		"acceptApplications": false,
-		"applicationsAccepted": null,
-		"ceremony": null,
-		"biography": null,
-		"programName": null
-	},
-	{
 		"code": "0365",
 		"name": "High Achievement in First Year Biology",
 		"type": "Department Funded Awards",
@@ -7390,7 +7374,7 @@
 		"type": "Endowment Bursary",
 		"description": "Available to a UFV student in a program in the UFV School of Creative Arts. Must be a Canadian citizen or Permanent Resident.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$750.00",
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
 		"applicationMethod": "Bursary application",
 		"applyTo": "Online application through MyUFV",
