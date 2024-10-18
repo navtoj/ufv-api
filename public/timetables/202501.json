@@ -2405,8 +2405,8 @@
 			],
 			"reservedSeatSummary": null,
 			"sectionAttributes": null,
-			"instructionalMethod": null,
-			"instructionalMethodDescription": null
+			"instructionalMethod": "TRD",
+			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
 		},
 		{
 			"id": 167863,
