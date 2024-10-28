@@ -2386,7 +2386,7 @@
 		"type": "Endowment Bursary",
 		"description": "Available to a UFV student who has committed to volunteer work and demonstrates financial need.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": "$750.00",
+		"amount": null,
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
 		"applicationMethod": "Bursary application",
 		"applyTo": "Online application through MyUFV",
