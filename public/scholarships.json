@@ -7660,7 +7660,7 @@
 		"selectionProcess": "Entrance awards recipients are selected by an Awards Adjudication Committee.",
 		"applicationMethod": "Entrance Scholarship",
 		"applyTo": "Paper Application",
-		"acceptApplications": false,
+		"acceptApplications": true,
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
