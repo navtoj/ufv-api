@@ -54,10 +54,9 @@ jobs:
             - name: Run Deno Script
               run: deno run --allow-net --allow-read --allow-write --allow-env timetables/run.ts
 
-            - run: |
-                git pull
-                git add public/timetables/*.json
-                git commit --author="Service Account <191417166+navtoj-robot@users.noreply.github.com>"
+            - run: git pull
+            - run: git add public/timetables/*.json
+            - run: git commit --author="Service Account <191417166+navtoj-robot@users.noreply.github.com>"
             - uses: stefanzweifel/git-auto-commit-action@v5
               with:
                   commit_message: Update Timetables
