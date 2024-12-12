@@ -44,9 +44,6 @@ jobs:
               uses: actions/checkout@v4
               with:
                   token: ${{ steps.app-token.outputs.token }}
-            - run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
 
             - uses: denoland/setup-deno@v1
               with:
@@ -55,12 +52,11 @@ jobs:
               run: deno run --allow-net --allow-read --allow-write --allow-env timetables/run.ts
 
             - run: git pull
-            - run: git add public/timetables/*.json
-            - run: git commit --author="Service Account <191417166+navtoj-robot@users.noreply.github.com>"
             - uses: stefanzweifel/git-auto-commit-action@v5
               with:
                   commit_message: Update Timetables
                   file_pattern: 'public/timetables/*.json'
+                  commit_author: Service Account <191417166+navtoj-robot@users.noreply.github.com> # defaults to "username <username@users.noreply.github.com>", where "username" belongs to the author of the commit that triggered the run
 
             - name: Setup Pages
               uses: actions/configure-pages@v4
