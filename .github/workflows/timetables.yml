@@ -56,7 +56,7 @@ jobs:
               with:
                   commit_message: Update Timetables
                   file_pattern: 'public/timetables/*.json'
-                  commit_author: Service Account <191417166+navtoj-robot@users.noreply.github.com> # defaults to "username <username@users.noreply.github.com>", where "username" belongs to the author of the commit that triggered the run
+                  commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
             - name: Setup Pages
               uses: actions/configure-pages@v4
