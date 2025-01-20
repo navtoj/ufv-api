@@ -7478,6 +7478,32 @@
 		]
 	},
 	{
+		"code": "0721",
+		"name": "Bradley Menard Annual Bursary in Adult Education",
+		"type": "Annual Bursary",
+		"description": "A student in a program within the Department of Adult Education (incl. Bachelor of Arts in Adult Education, Integrated Learning Design associate certificate, Mindfulness-Based Teaching and Learning certificate, Teaching English as a Second Language certificate, Workplace Education association certificate).",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2024 to Nov 30, 2024",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": null,
+		"programName": [
+			"Bachelor of Arts in Adult Educ",
+			"Grad Cert Mdflnss-bas Tch&Lrng",
+			"Integrated Lrng Dsn Assoc Cert",
+			"Teaching Eng as a Second Lang",
+			"Workplace Education Cert"
+		]
+	},
+	{
 		"code": "0722",
 		"name": "MOLA French Immersion Annual Entrance Scholarship",
 		"type": "Department Funded Awards",
