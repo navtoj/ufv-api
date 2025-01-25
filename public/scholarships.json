@@ -7050,18 +7050,18 @@
 	},
 	{
 		"code": "0696",
-		"name": "BC Paralegal Association Annual Scholarship",
+		"name": "Paralegal Program Annual Scholarship",
 		"type": "Annual Scholarship",
-		"description": "Available to a student enrolled in the Paralegal Diploma or Certificate Program.  Preference will be given to a student who currently holds a BCPA Student membership.  Students must self-disclose.",
+		"description": "Available to a student enrolled in the Paralegal Diploma or Certificate Program.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$2,000.00",
 		"selectionProcess": "Recipients are selected by the department",
 		"applicationMethod": "Nomination",
 		"applyTo": "Department Recommendation",
 		"acceptApplications": false,
 		"applicationsAccepted": null,
 		"ceremony": null,
-		"biography": "The BC Paralegal Association (BCPA) is a not-for-profit organization made up of over 900+ paralegals, paralegal students and industry related organizations in British Columbia and run by a board of volunteers.  The BCPA was formed in 1979 to promote the growth and professional development, continuing education and networking of paralegals in British Columbia.  Their goal is to support and advocate for the paralegal profession.",
+		"biography": null,
 		"programName": [
 			"Paralegal diploma"
 		]
