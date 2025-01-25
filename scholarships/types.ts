@@ -8,7 +8,7 @@ const YesNoBoolean = z.union([z.literal('Yes'), z.literal('No')]).transform((
 // getAwardList
 
 const Award = z.object({
-	class: z.literal('net.hedtech.banner.finaid.SyvawgiDecorator'),
+	class: z.literal('net.hedtech.banner.finaid.SyvawgiDecorator').optional(),
 	syvawgiAwrdCode: z.string().min(4),
 	syvawgiAwrdDesc: z.string().min(1),
 	syvawgiAtypDesc: z.string().min(1),
