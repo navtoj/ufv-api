@@ -2678,7 +2678,7 @@
 		"code": "0283",
 		"name": "Amanda Allemeersch Annual Bursary for Family Assistance",
 		"type": "Annual Bursary",
-		"description": "Available to a student enrolled within any UFV program and who is a single parent with dependent children at home.  The student must also maintain a minimum 2.0 GPA and are enrolled in a minimum of 9 credits per semester.",
+		"description": "Available to a student who, in pursuit of their studies, makes personal sacrifices for the wellbeing of their family, whether they provide care or support to parents, siblings or dependents. The student must be enrolled in a minimum of 9 credits per semester.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
@@ -2692,7 +2692,7 @@
 			"May 30, 2024 to Jun 30, 2024"
 		],
 		"ceremony": null,
-		"biography": null,
+		"biography": "This award is for a student who, in pursuit of their studies, makes personal sacrifices for the wellbeing of their family, whether they provide care or support to parents, siblings or dependents. This award honours individuals committed to furthering their education while balancing family responsibilities, regardless of household structure or primary provider status.",
 		"programName": null
 	},
 	{
@@ -6339,7 +6339,7 @@
 		"code": "0654",
 		"name": "First West Credit Union Annual Bursary",
 		"type": "Annual Bursary",
-		"description": "This award is available to a student in the Faculty of Business and Computing, Faculty of Arts or Indigenous studies. Must be a Canadian citizen. Preference is for a student living in British Columbia.",
+		"description": "This award is available to a student in the Faculty of Business and Computing, Faculty of Arts or Indigenous studies. Must be a Canadian citizen, preferably living in British Columbia. Preference given to a student enrolled in the Finance, Human Resources, Business Administration, Marketing or Computer Information Systems program. Secondary preference is for a student enrolled in Indigenous Studies including Halq̓eméylem programs, Power and Place program, Social Service Worker- Indigenous Focus and Stó:lō Studies program",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
@@ -6352,7 +6352,7 @@
 			"May 30, 2024 to Jun 30, 2024"
 		],
 		"ceremony": null,
-		"biography": "First West Credit Union and its brands Envision Financial, Valley First, Island Savings, Enderby & District Financial, First West Capital and the First West Foundation exist to help our members and communities thrive.\nOur foundational values, better known as our Big Ideals - to succeed together, act local, create remarkable experiences and lead with courage - demand that we, as an organization, actively strive for equity, inclusion and diversity.  We also believe that community-based organizations like First West have an opportunity to contribute to creating a more equitable, inclusive and diverse future for everyone.  We believe in cultivating an environment in which every First West employee, member and community partner - both present and future - is valued for their uniqueness and is empowered to thrive.\nCompelled by our Big Ideals and our longstanding cooperative ethos, we took our first steps as an organization in 2017 to embark on a journey actively pursuing equity, inclusion and diversity.  We challenged ourselves to begin moving beyond aspiration toward genuine commitment - of our time, our talent and our resources as an organization.\nOur commitment to equity, inclusion and diversity is ongoing, and there is much more to do.  We are striving to sharpen our awareness and our focus, actively working to educate ourselves on how we can continually be better.  The kind of systemic change we want to be part of can only be realized through a deliberate, long-term investment in relationship building backed by meaningful action.  In 2020. First West Credit Union created a new First West Indigenous Scholarship & Bursary program.  First West is pleased to provide a three-year commitment o UFV to provide a $1,000 bursary to an Indigenous student enrolled in Faculty of Professional Studies program.  In alignment with First West Credit Union's EDI Commitment, First West continues to develop partnerships with local universities to encourage members of underrepresented groups to apply and join their organization.",
+		"biography": "First West Credit Union and its brands Envision Financial, Valley First, Island Savings, Enderby & District Financial, First West Capital and the First West Foundation exist to help our members and communities thrive.\nOur foundational values, better known as our Big Ideals - to succeed together, act local, create remarkable experiences and lead with courage - demand that we, as an organization, actively strive for equity, inclusion and diversity.  We also believe that community-based organizations like First West have an opportunity to contribute to creating a more equitable, inclusive and diverse future for everyone.  We believe in cultivating an environment in which every First West employee, member and community partner - both present and future - is valued for their uniqueness and is empowered to thrive.\nCompelled by our Big Ideals and our longstanding cooperative ethos, we took our first steps as an organization in 2017 to embark on a journey actively pursuing equity, inclusion and diversity.  We challenged ourselves to begin moving beyond aspiration toward genuine commitment - of our time, our talent and our resources as an organization.\nOur commitment to equity, inclusion and diversity is ongoing, and there is much more to do.  We are striving to sharpen our awareness and our focus, actively working to educate ourselves on how we can continually be better.  The kind of systemic change we want to be part of can only be realized through a deliberate, long-term investment in relationship building backed by meaningful action.  In 2020. First West Credit Union created a new First West Indigenous Scholarship & Bursary program.  First West is pleased to provide a three-year commitment o UFV to provide a $1,000 bursary to an Indigenous student enrolled in Faculty of Business and Computing, Faculty of Arts and/or Indigenous Studies program.  In alignment with First West Credit Union's EDI Commitment, First West continues to develop partnerships with local universities to encourage members of underrepresented groups to apply and join their organization.",
 		"programName": [
 			"Bachelor of Business Admin",
 			"Bachelor of Computer Info Sys",
