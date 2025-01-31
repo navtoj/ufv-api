@@ -32,7 +32,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ACTA80",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "40226",
+					"displayName": "Charlene Brace",
+					"emailAddress": "Charlene.Brace@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202504"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
