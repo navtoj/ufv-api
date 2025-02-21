@@ -1539,7 +1539,7 @@
 		"type": "Department Funded Awards",
 		"description": "A graduating Geography major.  Candidates must honour academic achievement, leadership and participation in department, university and community activities.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$250.00",
 		"selectionProcess": "Recipients are selected by the department",
 		"applicationMethod": "Nomination",
 		"applyTo": "Department Recommendation",
