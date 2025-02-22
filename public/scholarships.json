@@ -7770,5 +7770,21 @@
 			"Paralegal Certificate",
 			"Paralegal diploma"
 		]
+	},
+	{
+		"code": "0745",
+		"name": "Langley Allstar's Tanner Mikesh Memorial Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "Available to a deserving student athlete participating in the Men’s Basketball team.\n•\t2.0 GPA for returning students\n•\tDemonstrate leadership experience and volunteer commitments to the Athletic department or team and community\nPreference is for recipient residing in the City of Langley or the Township of Langely, secondary preference is from the Fraser Valley.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Athletics selects the recipients.",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": false,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": null,
+		"programName": null
 	}
 ]
