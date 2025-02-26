@@ -36896,7 +36896,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PSYC110",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50148",
+					"displayName": "Hasrat Dhillon",
+					"emailAddress": "Hasrat.Dhillon@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -36904,7 +36914,7 @@
 					"courseReferenceNumber": "50148",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "1300",
+						"beginTime": "1600",
 						"building": "ABD",
 						"buildingDescription": "Abbotsford Bldg D",
 						"campus": "A",
@@ -36914,21 +36924,21 @@
 						"courseReferenceNumber": "50148",
 						"creditHourSession": 3,
 						"endDate": "08/08/2025",
-						"endTime": "1550",
-						"friday": true,
+						"endTime": "1850",
+						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "136",
+						"room": "121",
 						"saturday": false,
 						"startDate": "05/12/2025",
 						"sunday": false,
 						"term": "202505",
 						"thursday": false,
 						"tuesday": false,
-						"wednesday": false
+						"wednesday": true
 					},
 					"term": "202505"
 				}
