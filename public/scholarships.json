@@ -5825,22 +5825,6 @@
 		]
 	},
 	{
-		"code": "0618",
-		"name": "Xpera Risk Mitigation & Investigation Annual Scholarship",
-		"type": "Annual Scholarship",
-		"description": "Available to a 4th year Criminology student who has made an exceptional contribution towards public safety/crime prevention during their practicum placement.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Recipients are selected by the department",
-		"applicationMethod": "Nomination",
-		"applyTo": "Department Recommendation",
-		"acceptApplications": false,
-		"applicationsAccepted": null,
-		"ceremony": null,
-		"biography": null,
-		"programName": null
-	},
-	{
 		"code": "0619",
 		"name": "UFV Men's Golf Team Alumni Endowment Leadership Award",
 		"type": "Endowment Scholarship",
