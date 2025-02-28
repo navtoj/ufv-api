@@ -26203,7 +26203,7 @@
 						"endDate": "06/24/2025",
 						"endTime": "1420",
 						"friday": false,
-						"hoursWeek": 2.83,
+						"hoursWeek": 5.66,
 						"meetingScheduleType": "E",
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
@@ -26215,7 +26215,7 @@
 						"term": "202505",
 						"thursday": false,
 						"tuesday": false,
-						"wednesday": false
+						"wednesday": true
 					},
 					"term": "202505"
 				}
