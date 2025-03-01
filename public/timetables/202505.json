@@ -10074,17 +10074,7 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BUS404",
-			"faculty": [
-				{
-					"category": null,
-					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-					"courseReferenceNumber": "50240",
-					"displayName": "Sha Liao",
-					"emailAddress": "Sha.Liao@ufv.ca",
-					"primaryIndicator": true,
-					"term": "202505"
-				}
-			],
+			"faculty": [],
 			"meetingsFaculty": [
 				{
 					"category": "01",
