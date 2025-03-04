@@ -7770,5 +7770,25 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": null
+	},
+	{
+		"code": "0749",
+		"name": "Melinda Dempster Memorial Educator Endowment Bursary",
+		"type": "Endowment Bursary",
+		"description": "This bursary is for a mature student in a School of Education Program including Bachelor of Education and Master of Education. Must be a Canadian citizen and preference is for a BC resident. Preference is for a student who is a single parent.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2024 to Nov 30, 2024",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": null,
+		"programName": null
 	}
 ]
