@@ -7756,6 +7756,65 @@
 		]
 	},
 	{
+		"code": "0740",
+		"name": "Bradley Menard Annual Scholarship in Adult Education",
+		"type": "Annual Scholarship",
+		"description": "This award is for a student in a program under the Department of Adult Education (including Bachelor of Arts in Adult Education, Integrated Learning Design associate certificate, Mindfulness-Based Teaching and Learning certificate, Teaching English as a Second Language certificate, Workplace Education associate certificate)",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
+		"applicationMethod": "Scholarship application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": null,
+		"programName": null
+	},
+	{
+		"code": "0743",
+		"name": "Janie Bion Memorial Annual Bursary",
+		"type": "Annual Bursary",
+		"description": "This award is for a student who in the Bachelor of Science in Nursing or Practical Nursing diploma. Preference is for a student with an interest in geriatric care and/or palliative care living in the lower mainland.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
+		"applicationMethod": "Bursary application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Sep 30, 2024 to Nov 30, 2024",
+			"Jan 15, 2024 to Mar 15, 2024",
+			"May 30, 2024 to Jun 30, 2024"
+		],
+		"ceremony": null,
+		"biography": "Janie Bion was a respected nursing instructor for over twenty years at the University of the Fraser Valley. Her dedication and instructional skill earned her high regard with peers and her students in the Nursing and Health Care Assistant programs.\n\nJanie was a lifetime learner and had a passionate commitment to improving the lives of the elderly through high quality care. Her completion of the BScN, diploma in Gerontology, BA, MA and years of practical experience gave her the knowledge and skills to educate her students. Furthermore, Janie was known as being warm, kind and sincere with her students. With her supportive and encouraging interactions, Janie helped develop their confidence and skillset so they could successfully enter careers in health care well prepared.\n\nJanie's career spanned over 30 years and this bursary is meant to support students entering the BScN or PN program and participate in the legacy she helped create.",
+		"programName": null
+	},
+	{
+		"code": "0744",
+		"name": "Walter Dyck & Chilliwack Mt. Cheam Rotary Agriculture Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "This award is for a student in an Agriculture program. Preference is for a student residing in the Fraser Valley. Must be a Canadian citizen.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Recipients are selected by the department",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Mar 15, 2024 to May 10, 2024"
+		],
+		"ceremony": null,
+		"biography": "The Chilliwack Mount Cheam Rotary Club is proud to offer the annual $1000 Walter Dyck & Chilliwack Mt. Cheam Rotary Agriculture Annual Leadership award to students enrolled in the Agriculture program at University of the Fraser Valley. This scholarship honors Walter Dyck, a lifelong farmer who dedicated his life to agriculture and community service. Walter began farming on a family-owned grain farm in Manitoba, eventually moving to the Fraser Valley, where he and his wife Margaret built a successful farm. His legacy of hard work, love for farming, and commitment to the community continues through his family and his contributions to the Mount Cheam Rotary Club.",
+		"programName": [
+			"Agricultural Marketing Cert",
+			"Agriculture Technology Cert",
+			"Agriculture Technology Diploma",
+			"Horticulture Crop Prod Cert"
+		]
+	},
+	{
 		"code": "0745",
 		"name": "Langley Allstar's Tanner Mikesh Memorial Annual Leadership Award",
 		"type": "Annual Scholarship",
