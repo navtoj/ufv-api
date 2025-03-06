@@ -130,7 +130,7 @@ export const TimetableData = z.object({
 			waitAvailableUnreserved: z.number().int(), // was -2 once
 			waitCapacityReserved: z.number().nonnegative(),
 			waitCapacityUnreserved: z.number().nonnegative(),
-		}).nullable(),
+		}).strict().nullable(),
 		sectionAttributes: z.literal(null),
 		instructionalMethod: NonEmptyString.nullable(),
 		instructionalMethodDescription: NonEmptyString.nullable(),
