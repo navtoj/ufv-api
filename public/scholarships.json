@@ -6476,22 +6476,6 @@
 		]
 	},
 	{
-		"code": "0663",
-		"name": "Brodie Hansen Memorial Annual Scholarship",
-		"type": "Annual Scholarship",
-		"description": "Available to students enrolled in the Welding Program.  Must be a Canadian Citizen.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Recipients are selected by the department",
-		"applicationMethod": "Nomination",
-		"applyTo": "Department Recommendation",
-		"acceptApplications": false,
-		"applicationsAccepted": null,
-		"ceremony": null,
-		"biography": "In Memory of Brodie Hansen who completed his Welding foundation course at UFV in 2012 through our partnership with SD33, and returned in 2013-2014 for his B level program.  This scholarship is presented each year to a student who embodies Brodie's unwavering and inquisitive passion for the trade, humility, generosity and all-around excellence.  Brodie also understood the value of education and knew that teaching was more than topics, facts, skills and applications - he knew there was always a \"big picture\".  Although he wasn't an educator in the formal sense, Brodie used his talent and generosity at TYCROP Trailers to coach and mentor people in the trade over the years all with what seemed like a perpetual smile and a great sense of adventure.  Brodie embodied the traits and skills of an ideal trades person and in everyway exemplified what it means to be a UFV trades alumni and program supporter.  He had a way of becoming everyone's friend and was always charitable and kind with his time.  We will miss you Brodie - you are gone but not forgotten.",
-		"programName": null
-	},
-	{
 		"code": "0664",
 		"name": "Leard Robertson Memorial Endowment Leadership Award in Golf",
 		"type": "Endowment Scholarship",
@@ -6651,29 +6635,6 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": null
-	},
-	{
-		"code": "0674",
-		"name": "Christie Burton Memorial Annual Leadership Award in Social Work",
-		"type": "Annual Scholarship",
-		"description": "Available to a student in the 2nd year or higher in the School of Social Work and Human Services.  Student has demonstrated/overcome personal challenges in the face of adversity; holds a minimum of 3.0 GPA.  Has volunteer service/demonstrated leadership in the community or UFV.  Must be and Canadian citizen or a Permanent Resident",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
-		"applicationMethod": "Leadership application",
-		"applyTo": "Online application through MyUFV",
-		"acceptApplications": true,
-		"applicationsAccepted": [
-			"Mar 15, 2024 to May 10, 2024"
-		],
-		"ceremony": null,
-		"biography": null,
-		"programName": [
-			"Bachelor of Social Work",
-			"Master of Social Work",
-			"Social Service Worker Diploma",
-			"Social Services Diploma"
-		]
 	},
 	{
 		"code": "0675",
