@@ -1932,19 +1932,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50186",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 13,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 297,
-				"waitAvailableUnreserved": 70,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -2231,19 +2219,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50187",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 15,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 297,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -2692,19 +2668,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50188",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 7,
-				"termCode": "202505",
-				"waitAvailableReserved": 89,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -2787,19 +2751,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50189",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 31,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 19,
-				"termCode": "202505",
-				"waitAvailableReserved": 88,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -4073,8 +4025,8 @@
 			"courseTitle": "Prof Practices for Int Studies",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 7,
-			"seatsAvailable": 29,
+			"enrollment": 8,
+			"seatsAvailable": 28,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -5085,19 +5037,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50201",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 88,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -5180,19 +5120,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50202",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -5275,19 +5203,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50203",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 95,
-				"waitAvailableUnreserved": 73,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -5370,19 +5286,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50204",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 87,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -5455,19 +5359,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50205",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -5701,19 +5593,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50207",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 6,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 101,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -5796,19 +5676,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50208",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 10,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 101,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -6110,19 +5978,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50210",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 179,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -6239,19 +6095,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50211",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 88,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -6500,8 +6344,8 @@
 			"courseTitle": "Methods in Science Cmns",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 21,
-			"seatsAvailable": 3,
+			"enrollment": 22,
+			"seatsAvailable": 2,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -6563,19 +6407,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50016",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 3,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -6658,19 +6490,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50442",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -6753,19 +6573,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50212",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -6931,8 +6739,8 @@
 			"courseTitle": "Introduction to Business",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 32,
-			"seatsAvailable": 4,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 495,
 			"waitCount": 1,
 			"waitAvailable": 197,
@@ -6984,19 +6792,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50213",
-				"maximumEnrollmentReserved": 14,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7069,19 +6865,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50019",
-				"maximumEnrollmentReserved": 14,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7154,19 +6938,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50214",
-				"maximumEnrollmentReserved": 14,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 10,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7249,19 +7021,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50216",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7344,19 +7104,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50020",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 197,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7376,8 +7124,8 @@
 			"courseTitle": "Intro Financial Accounting",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 27,
-			"seatsAvailable": 9,
+			"enrollment": 28,
+			"seatsAvailable": 8,
 			"waitCapacity": 495,
 			"waitCount": 8,
 			"waitAvailable": 289,
@@ -7439,19 +7187,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50217",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 9,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7534,19 +7270,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50021",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 186,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7629,19 +7353,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50022",
-				"maximumEnrollmentReserved": 2,
-				"maximumEnrollmentUnreserved": 33,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -7724,19 +7436,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50218",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 16,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 194,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7819,19 +7519,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50219",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 17,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7914,19 +7602,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50220",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 23,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -7946,8 +7622,8 @@
 			"courseTitle": "Organizational Behaviour",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 36,
-			"seatsAvailable": 0,
+			"enrollment": 35,
+			"seatsAvailable": 1,
 			"waitCapacity": 495,
 			"waitCount": 46,
 			"waitAvailable": 251,
@@ -8009,19 +7685,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50221",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 194,
-				"waitAvailableUnreserved": 57,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -8104,19 +7768,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50222",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 185,
-				"waitAvailableUnreserved": 87,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8141,10 +7793,10 @@
 			"waitCapacity": 495,
 			"waitCount": 0,
 			"waitAvailable": 297,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "01",
+			"crossListCapacity": 36,
+			"crossListCount": 27,
+			"crossListAvailable": 9,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -8199,19 +7851,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50223",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 8,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8294,19 +7934,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50224",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 176,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8389,19 +8017,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50226",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 181,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8484,19 +8100,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50227",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 179,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8579,19 +8183,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50228",
-				"maximumEnrollmentReserved": 32,
-				"maximumEnrollmentUnreserved": 4,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 191,
-				"waitAvailableUnreserved": 86,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8674,19 +8266,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50230",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 95,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8769,19 +8349,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50231",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -8864,19 +8432,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50232",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 166,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -9017,19 +8573,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50025",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 185,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -9180,19 +8724,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50233",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -9377,19 +8909,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50234",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 3,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -9574,19 +9094,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50235",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -9611,10 +9119,10 @@
 			"waitCapacity": 495,
 			"waitCount": 24,
 			"waitAvailable": 273,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "02",
+			"crossListCapacity": 25,
+			"crossListCount": 24,
+			"crossListAvailable": 1,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -9669,19 +9177,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50236",
-				"maximumEnrollmentReserved": 24,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 176,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -9764,19 +9260,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50237",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -9942,19 +9426,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50239",
-				"maximumEnrollmentReserved": 37,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10027,19 +9499,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50240",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 192,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10122,19 +9582,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50026",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 193,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -10417,19 +9865,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50241",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10512,19 +9948,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50242",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10724,19 +10148,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50244",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 81,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10819,19 +10231,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50245",
-				"maximumEnrollmentReserved": 4,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -10971,8 +10371,8 @@
 			"enrollment": 24,
 			"seatsAvailable": 0,
 			"waitCapacity": 300,
-			"waitCount": 14,
-			"waitAvailable": 286,
+			"waitCount": 15,
+			"waitAvailable": 285,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -11074,19 +10474,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50247",
-				"maximumEnrollmentReserved": 21,
-				"maximumEnrollmentUnreserved": 3,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 87,
-				"waitAvailableUnreserved": 199,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 201
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -11417,19 +10805,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50048",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 10,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -12010,19 +11386,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50253",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 9,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -12105,19 +11469,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50254",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 7,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -12268,19 +11620,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50255",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 15,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -12363,19 +11703,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50256",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -12448,19 +11776,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50257",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 9,
-				"seatsAvailableUnreserved": 8,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -12543,19 +11859,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50049",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 87,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -12575,8 +11879,8 @@
 			"courseTitle": "Professional Communications",
 			"creditHours": 3,
 			"maximumEnrollment": 26,
-			"enrollment": 15,
-			"seatsAvailable": 11,
+			"enrollment": 17,
+			"seatsAvailable": 9,
 			"waitCapacity": 495,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -12774,19 +12078,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50050",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -12869,19 +12161,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50258",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 2,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -12964,19 +12244,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50051",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -13059,19 +12327,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50052",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -13154,19 +12410,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50380",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 10,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -13249,19 +12493,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50053",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -13344,19 +12576,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50259",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 82,
-				"waitAvailableUnreserved": 54,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -13439,19 +12659,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50054",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 77,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -13534,19 +12742,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50055",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 87,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -13629,19 +12825,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50056",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 84,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -13724,19 +12908,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50057",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 86,
-				"waitAvailableUnreserved": 86,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -13819,19 +12991,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50260",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 5,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -13914,19 +13074,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50058",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 71,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -14009,19 +13157,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50261",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 92,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -14041,8 +13177,8 @@
 			"courseTitle": "Professional Report Writing",
 			"creditHours": 3,
 			"maximumEnrollment": 26,
-			"enrollment": 14,
-			"seatsAvailable": 12,
+			"enrollment": 15,
+			"seatsAvailable": 11,
 			"waitCapacity": 495,
 			"waitCount": 8,
 			"waitAvailable": 190,
@@ -14104,19 +13240,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50059",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 12,
-				"termCode": "202505",
-				"waitAvailableReserved": 91,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -14233,19 +13357,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50060",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 87,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -14328,19 +13440,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50262",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 86,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -14423,19 +13523,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50263",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 92,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -14518,19 +13606,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50061",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 89,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -14613,19 +13689,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50062",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -14708,19 +13772,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50063",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 16,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -14837,19 +13889,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50478",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -14932,19 +13972,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50479",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 13,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 7,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -15027,19 +14055,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50028",
-				"maximumEnrollmentReserved": 17,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 8,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -15122,19 +14138,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50029",
-				"maximumEnrollmentReserved": 20,
-				"maximumEnrollmentUnreserved": 15,
-				"seatsAvailableReserved": 12,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -15217,19 +14221,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50031",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -15312,19 +14304,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50248",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 32,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 396,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 396,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -15407,19 +14387,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50034",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 387,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 396,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -15502,19 +14470,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50038",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 12,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -15597,19 +14553,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50040",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 31,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 93,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -15692,19 +14636,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50041",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 22,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -15787,19 +14719,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50042",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 14,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -15882,19 +14802,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50043",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 5,
-				"termCode": "202505",
-				"waitAvailableReserved": 190,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -15977,19 +14885,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50249",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 10,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 196,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -16072,19 +14968,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50044",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 23,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -16104,8 +14988,8 @@
 			"courseTitle": "Intermediate Web Programming",
 			"creditHours": 4,
 			"maximumEnrollment": 35,
-			"enrollment": 12,
-			"seatsAvailable": 23,
+			"enrollment": 13,
+			"seatsAvailable": 22,
 			"waitCapacity": 495,
 			"waitCount": 5,
 			"waitAvailable": 292,
@@ -16167,19 +15051,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50250",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 23,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -16262,19 +15134,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50045",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 179,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -16357,19 +15217,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50047",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 15,
-				"seatsAvailableUnreserved": 9,
-				"termCode": "202505",
-				"waitAvailableReserved": 297,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -16452,19 +15300,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50379",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 12,
-				"seatsAvailableUnreserved": 10,
-				"termCode": "202505",
-				"waitAvailableReserved": 291,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -16633,15 +15469,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50065",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
+				"maximumEnrollmentReserved": 10,
+				"maximumEnrollmentUnreserved": 25,
 				"seatsAvailableReserved": 7,
 				"seatsAvailableUnreserved": 0,
 				"termCode": "202505",
-				"waitAvailableReserved": 287,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 279,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 297
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
@@ -16728,15 +15564,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50066",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
+				"maximumEnrollmentReserved": 8,
+				"maximumEnrollmentUnreserved": 27,
 				"seatsAvailableReserved": 2,
 				"seatsAvailableUnreserved": 0,
 				"termCode": "202505",
-				"waitAvailableReserved": 484,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 495,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 480,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 495
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
@@ -16823,15 +15659,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50264",
-				"maximumEnrollmentReserved": 34,
-				"maximumEnrollmentUnreserved": 1,
-				"seatsAvailableReserved": 32,
-				"seatsAvailableUnreserved": 0,
+				"maximumEnrollmentReserved": 10,
+				"maximumEnrollmentUnreserved": 25,
+				"seatsAvailableReserved": 10,
+				"seatsAvailableUnreserved": 22,
 				"termCode": "202505",
-				"waitAvailableReserved": 495,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 495,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 493,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 495
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
@@ -16918,15 +15754,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50070",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 23,
-				"seatsAvailableUnreserved": 0,
+				"maximumEnrollmentReserved": 8,
+				"maximumEnrollmentUnreserved": 27,
+				"seatsAvailableReserved": 6,
+				"seatsAvailableUnreserved": 17,
 				"termCode": "202505",
-				"waitAvailableReserved": 495,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 495,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 495,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 495
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
@@ -17013,15 +15849,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50071",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 17,
-				"seatsAvailableUnreserved": 0,
+				"maximumEnrollmentReserved": 8,
+				"maximumEnrollmentUnreserved": 27,
+				"seatsAvailableReserved": 0,
+				"seatsAvailableUnreserved": 17,
 				"termCode": "202505",
-				"waitAvailableReserved": 488,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 495,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 95,
+				"waitAvailableUnreserved": 484,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 495
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
@@ -17108,15 +15944,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50072",
-				"maximumEnrollmentReserved": 30,
-				"maximumEnrollmentUnreserved": 5,
+				"maximumEnrollmentReserved": 10,
+				"maximumEnrollmentUnreserved": 25,
 				"seatsAvailableReserved": 5,
 				"seatsAvailableUnreserved": 0,
 				"termCode": "202505",
-				"waitAvailableReserved": 186,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 185,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 198
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
@@ -17203,15 +16039,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50073",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 16,
-				"seatsAvailableUnreserved": 0,
+				"maximumEnrollmentReserved": 10,
+				"maximumEnrollmentUnreserved": 25,
+				"seatsAvailableReserved": 8,
+				"seatsAvailableUnreserved": 8,
 				"termCode": "202505",
-				"waitAvailableReserved": 297,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 289,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 297
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
@@ -17536,15 +16372,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50265",
-				"maximumEnrollmentReserved": 35,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 21,
-				"seatsAvailableUnreserved": 0,
+				"maximumEnrollmentReserved": 10,
+				"maximumEnrollmentUnreserved": 25,
+				"seatsAvailableReserved": 5,
+				"seatsAvailableUnreserved": 16,
 				"termCode": "202505",
-				"waitAvailableReserved": 297,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 99,
+				"waitAvailableUnreserved": 288,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 297
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
@@ -17631,15 +16467,15 @@
 			"reservedSeatSummary": {
 				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
 				"courseReferenceNumber": "50266",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 17,
+				"maximumEnrollmentReserved": 5,
+				"maximumEnrollmentUnreserved": 30,
 				"seatsAvailableReserved": 0,
 				"seatsAvailableUnreserved": 10,
 				"termCode": "202505",
-				"waitAvailableReserved": 181,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
+				"waitAvailableReserved": 86,
+				"waitAvailableUnreserved": 194,
+				"waitCapacityReserved": 99,
+				"waitCapacityUnreserved": 198
 			},
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
@@ -17806,19 +16642,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50075",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 93,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -17901,19 +16725,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50076",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -17996,19 +16808,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50077",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 92,
-				"waitAvailableUnreserved": 73,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18091,19 +16891,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50078",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18186,19 +16974,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50079",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18281,19 +17057,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50080",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18376,19 +17140,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50081",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 74,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18471,19 +17223,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50082",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18566,19 +17306,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50083",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 90,
-				"waitAvailableUnreserved": 62,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -18661,19 +17389,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50084",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 93,
-				"waitAvailableUnreserved": 74,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -21145,19 +19861,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50268",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 47,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 23,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -21274,19 +19978,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50092",
-				"maximumEnrollmentReserved": 40,
-				"maximumEnrollmentUnreserved": 32,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -21403,19 +20095,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50269",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 47,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 16,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -21440,10 +20120,10 @@
 			"waitCapacity": 495,
 			"waitCount": 2,
 			"waitAvailable": 196,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "01",
+			"crossListCapacity": 36,
+			"crossListCount": 27,
+			"crossListAvailable": 9,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -21498,19 +20178,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50270",
-				"maximumEnrollmentReserved": 1,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -21652,10 +20320,10 @@
 			"waitCapacity": 495,
 			"waitCount": 4,
 			"waitAvailable": 194,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "02",
+			"crossListCapacity": 25,
+			"crossListCount": 24,
+			"crossListAvailable": 1,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -21710,19 +20378,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50272",
-				"maximumEnrollmentReserved": 1,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -21825,8 +20481,8 @@
 			"courseTitle": "Intro to Action Research",
 			"creditHours": 1,
 			"maximumEnrollment": 33,
-			"enrollment": 29,
-			"seatsAvailable": 4,
+			"enrollment": 30,
+			"seatsAvailable": 3,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -22074,8 +20730,8 @@
 			"courseTitle": "Reform in Education",
 			"creditHours": 1,
 			"maximumEnrollment": 33,
-			"enrollment": 29,
-			"seatsAvailable": 4,
+			"enrollment": 30,
+			"seatsAvailable": 3,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -22240,8 +20896,8 @@
 			"courseTitle": "Long Practicum: Part II",
 			"creditHours": 6,
 			"maximumEnrollment": 98,
-			"enrollment": 72,
-			"seatsAvailable": 26,
+			"enrollment": 73,
+			"seatsAvailable": 25,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -22406,8 +21062,8 @@
 			"courseTitle": "Reflective Practice III",
 			"creditHours": 1,
 			"maximumEnrollment": 33,
-			"enrollment": 29,
-			"seatsAvailable": 4,
+			"enrollment": 30,
+			"seatsAvailable": 3,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -23293,19 +21949,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50095",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 89,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23378,19 +22022,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50096",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23473,19 +22105,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50097",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 15,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23558,19 +22178,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50098",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23653,19 +22261,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50099",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 95,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23685,8 +22281,8 @@
 			"courseTitle": "Academic Writing",
 			"creditHours": 3,
 			"maximumEnrollment": 26,
-			"enrollment": 14,
-			"seatsAvailable": 12,
+			"enrollment": 15,
+			"seatsAvailable": 11,
 			"waitCapacity": 495,
 			"waitCount": 3,
 			"waitAvailable": 195,
@@ -23748,19 +22344,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50100",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 12,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23843,19 +22427,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50101",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 14,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -23938,19 +22510,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50102",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -24033,19 +22593,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50103",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -24128,19 +22676,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50273",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -24223,19 +22759,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50104",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 21,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -26280,19 +24804,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50288",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 2,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -26312,15 +24824,15 @@
 			"courseTitle": "A World of Development",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 17,
-			"seatsAvailable": 19,
+			"enrollment": 18,
+			"seatsAvailable": 18,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "07",
+			"crossListCapacity": 72,
+			"crossListCount": 44,
+			"crossListAvailable": 28,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -26375,19 +24887,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50289",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 16,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -26470,19 +24970,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50290",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 8,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -26565,19 +25053,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50114",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 95,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -26660,19 +25136,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50115",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 13,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 78,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -27038,10 +25502,10 @@
 			"waitCapacity": 495,
 			"waitCount": 6,
 			"waitAvailable": 192,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "07",
+			"crossListCapacity": 72,
+			"crossListCount": 44,
+			"crossListAvailable": 28,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -27096,19 +25560,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50285",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 10,
-				"termCode": "202505",
-				"waitAvailableReserved": 93,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -27225,19 +25677,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50382",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -27852,19 +26292,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50294",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 89,
-				"waitAvailableUnreserved": 77,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -27947,19 +26375,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50117",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -28062,11 +26478,11 @@
 			"courseTitle": "Europe 500-1600",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 34,
-			"seatsAvailable": 2,
+			"enrollment": 33,
+			"seatsAvailable": 3,
 			"waitCapacity": 495,
-			"waitCount": 10,
-			"waitAvailable": 188,
+			"waitCount": 12,
+			"waitAvailable": 186,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -28125,19 +26541,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50118",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -28926,8 +27330,8 @@
 			"enrollment": 21,
 			"seatsAvailable": 3,
 			"waitCapacity": 495,
-			"waitCount": 11,
-			"waitAvailable": 385,
+			"waitCount": 12,
+			"waitAvailable": 384,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -28986,19 +27390,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50300",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 296,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 297,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -29101,8 +27493,8 @@
 			"courseTitle": "Intro to Indigenous Knowledges",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 21,
-			"seatsAvailable": 15,
+			"enrollment": 22,
+			"seatsAvailable": 14,
 			"waitCapacity": 495,
 			"waitCount": 12,
 			"waitAvailable": 186,
@@ -29198,19 +27590,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50302",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 15,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 87,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -29565,8 +27945,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 1,
 			"waitCapacity": 99,
-			"waitCount": 62,
-			"waitAvailable": 37,
+			"waitCount": 63,
+			"waitAvailable": 36,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -29645,8 +28025,8 @@
 			"courseTitle": "Introduction to Kinesiology",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 35,
-			"seatsAvailable": 1,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -29894,8 +28274,8 @@
 			"courseTitle": "Basic Human Anatomy",
 			"creditHours": 0,
 			"maximumEnrollment": 18,
-			"enrollment": 17,
-			"seatsAvailable": 1,
+			"enrollment": 16,
+			"seatsAvailable": 2,
 			"waitCapacity": 0,
 			"waitCount": 0,
 			"waitAvailable": 0,
@@ -30143,8 +28523,8 @@
 			"courseTitle": "Basic Human Anatomy",
 			"creditHours": 4,
 			"maximumEnrollment": 36,
-			"enrollment": 35,
-			"seatsAvailable": 1,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 99,
 			"waitCount": 4,
 			"waitAvailable": 95,
@@ -30727,19 +29107,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50409",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 15,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -31586,19 +29954,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50312",
-				"maximumEnrollmentReserved": 36,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 13,
-				"seatsAvailableUnreserved": -2,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 74,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -31866,19 +30222,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50314",
-				"maximumEnrollmentReserved": 36,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": -2,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -31961,19 +30305,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50315",
-				"maximumEnrollmentReserved": 36,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -32944,8 +31276,8 @@
 			"courseTitle": "Interm. Algebra &amp; Trigonometry",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 23,
-			"seatsAvailable": 1,
+			"enrollment": 24,
+			"seatsAvailable": 0,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -33426,19 +31758,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50131",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -33521,19 +31841,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50132",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 8,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -33616,19 +31924,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50388",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -33711,19 +32007,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50133",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 95,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -33840,19 +32124,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50134",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -33875,8 +32147,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 495,
-			"waitCount": 2,
-			"waitAvailable": 196,
+			"waitCount": 4,
+			"waitAvailable": 194,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -33969,19 +32241,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50135",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34064,19 +32324,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50317",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 13,
-				"termCode": "202505",
-				"waitAvailableReserved": 86,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34159,19 +32407,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50318",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 81,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34254,19 +32490,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50129",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": -2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 54,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34432,19 +32656,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50320",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 24,
-				"termCode": "202505",
-				"waitAvailableReserved": 84,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34810,19 +33022,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50323",
-				"maximumEnrollmentReserved": 22,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 193,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -34939,19 +33139,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50324",
-				"maximumEnrollmentReserved": 22,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 16,
-				"seatsAvailableUnreserved": 10,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -35034,19 +33222,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50325",
-				"maximumEnrollmentReserved": 22,
-				"maximumEnrollmentUnreserved": 14,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 175,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -36486,19 +34662,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50326",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -36581,19 +34745,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50327",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 7,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -36676,19 +34828,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50328",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -36771,19 +34911,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50389",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 98,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -36866,19 +34994,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50390",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 86,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -36961,19 +35077,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50391",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -37056,19 +35160,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50329",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 22,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 93,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -37340,8 +35432,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 495,
-			"waitCount": 6,
-			"waitAvailable": 192,
+			"waitCount": 7,
+			"waitAvailable": 191,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -37400,19 +35492,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50331",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 96,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -37495,19 +35575,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50332",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 2,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -37610,8 +35678,8 @@
 			"courseTitle": "Int&#39;l Rel &amp; Global Politics",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 21,
-			"seatsAvailable": 15,
+			"enrollment": 23,
+			"seatsAvailable": 13,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -37922,19 +35990,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50141",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 10,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -38017,19 +36073,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50142",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -38112,19 +36156,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50336",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 86,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -38207,19 +36239,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50143",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 80,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -38302,19 +36322,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50145",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 94,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -38397,19 +36405,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50146",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -38492,19 +36488,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50147",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 79,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -38587,19 +36571,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50337",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 66,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -38682,19 +36654,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50148",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 7,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -38777,19 +36737,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50149",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 81,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -38872,19 +36820,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50475",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 80,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -39050,19 +36986,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50151",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 197,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39145,19 +37069,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50152",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 97,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39240,19 +37152,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50153",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 79,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -39335,19 +37235,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50154",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 16,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39430,19 +37318,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50338",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 6,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39525,19 +37401,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50339",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 177,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -39620,19 +37484,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50155",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 184,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -39715,19 +37567,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50156",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 12,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39810,19 +37650,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50157",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 191,
-				"waitAvailableUnreserved": 86,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -39905,19 +37733,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50158",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 188,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -40000,19 +37816,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50159",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 174,
-				"waitAvailableUnreserved": 82,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -40095,19 +37899,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50160",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 13,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 171,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -40190,19 +37982,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50161",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -40285,19 +38065,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50162",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 86,
-				"waitAvailableUnreserved": 91,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -40482,19 +38250,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50163",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 88,
-				"waitAvailableUnreserved": 94,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -40577,19 +38333,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50164",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 81,
-				"waitAvailableUnreserved": 93,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -40993,19 +38737,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50341",
-				"maximumEnrollmentReserved": 18,
-				"maximumEnrollmentUnreserved": 18,
-				"seatsAvailableReserved": 18,
-				"seatsAvailableUnreserved": 12,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -41088,19 +38820,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50349",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 25,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 5,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -41120,8 +38840,8 @@
 			"courseTitle": "Introduction to Social Welfare",
 			"creditHours": 3,
 			"maximumEnrollment": 32,
-			"enrollment": 15,
-			"seatsAvailable": 17,
+			"enrollment": 16,
+			"seatsAvailable": 16,
 			"waitCapacity": 495,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -41173,19 +38893,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50395",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 13,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLM",
 			"instructionalMethodDescription": "Online w/meeting times (OLM)"
@@ -42340,19 +40048,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50342",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 18,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -42372,8 +40068,8 @@
 			"courseTitle": "Introductory Sociology",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 16,
-			"seatsAvailable": 20,
+			"enrollment": 17,
+			"seatsAvailable": 19,
 			"waitCapacity": 495,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -42435,19 +40131,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50165",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 20,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -42530,19 +40214,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50343",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 90,
-				"waitAvailableUnreserved": 80,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -42625,19 +40297,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50166",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -42660,8 +40320,8 @@
 			"enrollment": 29,
 			"seatsAvailable": 7,
 			"waitCapacity": 495,
-			"waitCount": 4,
-			"waitAvailable": 194,
+			"waitCount": 5,
+			"waitAvailable": 193,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -42720,19 +40380,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50167",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -42835,8 +40483,8 @@
 			"courseTitle": "The Individual and Society",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 25,
-			"seatsAvailable": 11,
+			"enrollment": 26,
+			"seatsAvailable": 10,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -42981,19 +40629,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50345",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 17,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 85,
-				"waitAvailableUnreserved": 73,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -44269,19 +41905,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50362",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -44398,19 +42022,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50363",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 83,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -44527,19 +42139,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50364",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 93,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -44656,19 +42256,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50175",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202505",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -44785,19 +42373,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50397",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 16,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -44914,19 +42490,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50176",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45009,19 +42573,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50365",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 12,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 83,
-				"waitAvailableUnreserved": 96,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45044,8 +42596,8 @@
 			"enrollment": 68,
 			"seatsAvailable": 7,
 			"waitCapacity": 495,
-			"waitCount": 27,
-			"waitAvailable": 270,
+			"waitCount": 28,
+			"waitAvailable": 269,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -45104,19 +42656,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50367",
-				"maximumEnrollmentReserved": 45,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 182,
-				"waitAvailableUnreserved": 88,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -45199,19 +42739,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50368",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 8,
-				"termCode": "202505",
-				"waitAvailableReserved": 187,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45294,19 +42822,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50369",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 3,
-				"termCode": "202505",
-				"waitAvailableReserved": 189,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45389,19 +42905,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50370",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 194,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45484,19 +42988,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50371",
-				"maximumEnrollmentReserved": 15,
-				"maximumEnrollmentUnreserved": 10,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 192,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -45613,19 +43105,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50372",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 12,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 77,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -45648,8 +43128,8 @@
 			"enrollment": 22,
 			"seatsAvailable": 3,
 			"waitCapacity": 495,
-			"waitCount": 25,
-			"waitAvailable": 272,
+			"waitCount": 26,
+			"waitAvailable": 271,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -45708,19 +43188,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50373",
-				"maximumEnrollmentReserved": 13,
-				"maximumEnrollmentUnreserved": 12,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202505",
-				"waitAvailableReserved": 180,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -45803,19 +43271,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50374",
-				"maximumEnrollmentReserved": 13,
-				"maximumEnrollmentUnreserved": 12,
-				"seatsAvailableReserved": 3,
-				"seatsAvailableUnreserved": 4,
-				"termCode": "202505",
-				"waitAvailableReserved": 183,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -46064,19 +43520,7 @@
 					"term": "202505"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50376",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 12,
-				"termCode": "202505",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": null,
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
