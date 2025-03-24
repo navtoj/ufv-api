@@ -7792,6 +7792,22 @@
 		"programName": null
 	},
 	{
+		"code": "0748",
+		"name": "Russ Walsh Memorial Annual Scholarship presented by CFCF",
+		"type": "Annual Scholarship",
+		"description": "This award is for a student in the Faculty of Applied and Technical Studies, with a preference for a student in the School of Trades. Recipient is selected by the department.\nMust be a Canadian citizen and preference is for a resident of the Fraser Valley.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Recipients are selected by the department",
+		"applicationMethod": "Nomination",
+		"applyTo": "Department Recommendation",
+		"acceptApplications": false,
+		"applicationsAccepted": null,
+		"ceremony": null,
+		"biography": "The Russ Walsh Memorial Annual Scholarship presented by the Chilliwack Fraser Charitable Foundation recognizes a student's exemplary achievement in the Faculty of Applied and Technical Studies.",
+		"programName": null
+	},
+	{
 		"code": "0749",
 		"name": "Melinda Dempster Memorial Educator Endowment Bursary",
 		"type": "Endowment Bursary",
