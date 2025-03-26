@@ -4400,8 +4400,8 @@
 			"courseTitle": "Prof Practices for Int Studies",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 15,
-			"seatsAvailable": 21,
+			"enrollment": 16,
+			"seatsAvailable": 20,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -5601,8 +5601,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 8,
-			"waitAvailable": 91,
+			"waitCount": 7,
+			"waitAvailable": 92,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -5674,8 +5674,8 @@
 			"enrollment": 17,
 			"seatsAvailable": 1,
 			"waitCapacity": 200,
-			"waitCount": 4,
-			"waitAvailable": 196,
+			"waitCount": 3,
+			"waitAvailable": 197,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -5837,8 +5837,8 @@
 			"courseTitle": "Introductory Biology I",
 			"creditHours": 0,
 			"maximumEnrollment": 18,
-			"enrollment": 13,
-			"seatsAvailable": 5,
+			"enrollment": 14,
+			"seatsAvailable": 4,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -5920,8 +5920,8 @@
 			"courseTitle": "Introductory Biology I",
 			"creditHours": 5,
 			"maximumEnrollment": 54,
-			"enrollment": 48,
-			"seatsAvailable": 6,
+			"enrollment": 49,
+			"seatsAvailable": 5,
 			"waitCapacity": 0,
 			"waitCount": 0,
 			"waitAvailable": 0,
@@ -11309,7 +11309,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CIVI200",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50048",
+					"displayName": "Taryn Hubbard",
+					"emailAddress": "Taryn.Hubbard@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -16113,8 +16123,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 0,
 			"waitCapacity": 594,
-			"waitCount": 12,
-			"waitAvailable": 582,
+			"waitCount": 11,
+			"waitAvailable": 583,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -17178,11 +17188,11 @@
 			"courseTitle": "Introduction to Criminology",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 33,
-			"seatsAvailable": 3,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 495,
-			"waitCount": 18,
-			"waitAvailable": 180,
+			"waitCount": 17,
+			"waitAvailable": 181,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -17264,8 +17274,8 @@
 			"enrollment": 72,
 			"seatsAvailable": 0,
 			"waitCapacity": 495,
-			"waitCount": 3,
-			"waitAvailable": 195,
+			"waitCount": 4,
+			"waitAvailable": 194,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -24065,8 +24075,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 11,
-			"waitAvailable": 88,
+			"waitCount": 12,
+			"waitAvailable": 87,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -28666,8 +28676,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 1,
 			"waitCapacity": 99,
-			"waitCount": 66,
-			"waitAvailable": 33,
+			"waitCount": 67,
+			"waitAvailable": 32,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -29851,8 +29861,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 1,
 			"waitCapacity": 99,
-			"waitCount": 43,
-			"waitAvailable": 56,
+			"waitCount": 44,
+			"waitAvailable": 55,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -32668,8 +32678,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 1,
 			"waitCapacity": 495,
-			"waitCount": 1,
-			"waitAvailable": 197,
+			"waitCount": 0,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -33566,8 +33576,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 5,
-			"waitAvailable": 94,
+			"waitCount": 6,
+			"waitAvailable": 93,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -34469,8 +34479,8 @@
 			"courseTitle": "Nurs Practice: Preceptorship",
 			"creditHours": 15,
 			"maximumEnrollment": 24,
-			"enrollment": 6,
-			"seatsAvailable": 18,
+			"enrollment": 7,
+			"seatsAvailable": 17,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -34908,7 +34918,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50335",
+					"displayName": "Cristina Phillips",
+					"emailAddress": "Cristina.Phillips@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -34981,7 +35001,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG110",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50394",
+					"displayName": "Cristina Phillips",
+					"emailAddress": "Cristina.Phillips@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -35054,7 +35084,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG115",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50136",
+					"displayName": "Cristina Phillips",
+					"emailAddress": "Cristina.Phillips@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -35127,7 +35167,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG125",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50137",
+					"displayName": "Katie Long",
+					"emailAddress": "Katie.Long@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -35273,7 +35323,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG135",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50139",
+					"displayName": "Terry Becker",
+					"emailAddress": "Terry.Becker@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -35346,7 +35406,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PRLG240",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50140",
+					"displayName": "Sabrina Ngo",
+					"emailAddress": "Sabrina.Ngo@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202505"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -39575,8 +39645,8 @@
 			"enrollment": 24,
 			"seatsAvailable": 1,
 			"waitCapacity": 495,
-			"waitCount": 8,
-			"waitAvailable": 190,
+			"waitCount": 7,
+			"waitAvailable": 191,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -39655,8 +39725,8 @@
 			"courseTitle": "Social Influence &amp; Persuasion",
 			"creditHours": 3,
 			"maximumEnrollment": 25,
-			"enrollment": 19,
-			"seatsAvailable": 6,
+			"enrollment": 20,
+			"seatsAvailable": 5,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -42200,8 +42270,8 @@
 			"courseTitle": "Sociology of Prison Culture",
 			"creditHours": 4,
 			"maximumEnrollment": 50,
-			"enrollment": 49,
-			"seatsAvailable": 1,
+			"enrollment": 50,
+			"seatsAvailable": 0,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
