@@ -1995,26 +1995,6 @@
 		"programName": null
 	},
 	{
-		"code": "0203",
-		"name": "DuBois Chemicals Annual Scholarship in Chemistry",
-		"type": "Annual Scholarship",
-		"description": "Available to a UFV student in the Department of Chemistry with the highest GPA.  Preference will be given to a student in third year.  Should no appropriate student apply the award will be made available to a second year student. Must be a Canadian or Permanent Resident.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
-		"applicationMethod": "Scholarship application",
-		"applyTo": "Online application through MyUFV",
-		"acceptApplications": true,
-		"applicationsAccepted": [
-			"Mar 15, 2025 to May 10, 2025"
-		],
-		"ceremony": "Original Ceremony",
-		"biography": "DuBois Chemicals Canada Inc. provides customized solution for water treatment, dust control, wastewater, industrial cleaning and sanitation.  We offer a number of proprietary water treatment formulations to prevent corrosion, scale, deposit and biological fouling in steam boilers, chillers, open recirculating cooling water systems, and other industrial process equipment.  Ultimately, the goal is to enhance the efficiency of your process while extending the lifespan of your equipment.  Other products included specialty chemicals to improve air quality and environmental safety, industrial cleaners and degreasers for transportation and food processing plants, and flocculants and coagulants for wastewater.",
-		"programName": [
-			"Bachelor of Science"
-		]
-	},
-	{
 		"code": "0205",
 		"name": "Matt Pedersen Memorial Endowment Scholarship in Aviation",
 		"type": "Endowment Scholarship",
