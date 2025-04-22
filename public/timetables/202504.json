@@ -216,8 +216,8 @@
 			"courseTitle": "Drum making",
 			"creditHours": 0,
 			"maximumEnrollment": 50,
-			"enrollment": 7,
-			"seatsAvailable": 43,
+			"enrollment": 8,
+			"seatsAvailable": 42,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -474,8 +474,8 @@
 			"courseTitle": "Bookkeeping Level I",
 			"creditHours": null,
 			"maximumEnrollment": 24,
-			"enrollment": 1,
-			"seatsAvailable": 23,
+			"enrollment": 2,
+			"seatsAvailable": 22,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -773,7 +773,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BSBCA01",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "40129",
+					"displayName": "Robyn Maltais",
+					"emailAddress": "Robyn.Maltais@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202504"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -963,7 +973,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BSBCA02",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "40130",
+					"displayName": "Robyn Maltais",
+					"emailAddress": "Robyn.Maltais@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202504"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -3374,8 +3394,8 @@
 			"courseTitle": "Mother&#39;s Day Baking",
 			"creditHours": 0,
 			"maximumEnrollment": 12,
-			"enrollment": 5,
-			"seatsAvailable": 7,
+			"enrollment": 6,
+			"seatsAvailable": 6,
 			"waitCapacity": 0,
 			"waitCount": 0,
 			"waitAvailable": 0,
@@ -3613,8 +3633,8 @@
 			"courseTitle": "Motorcycle Training- Ride",
 			"creditHours": null,
 			"maximumEnrollment": 10,
-			"enrollment": 2,
-			"seatsAvailable": 8,
+			"enrollment": 3,
+			"seatsAvailable": 7,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -4683,8 +4703,8 @@
 			"courseTitle": "Motorcycle Training- Theory",
 			"creditHours": 0,
 			"maximumEnrollment": 10,
-			"enrollment": 2,
-			"seatsAvailable": 8,
+			"enrollment": 3,
+			"seatsAvailable": 7,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
