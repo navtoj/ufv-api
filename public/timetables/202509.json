@@ -1,4 +1,43 @@
 {
 	"term": "Fall 2025",
-	"courses": []
+	"courses": [
+		{
+			"id": 177222,
+			"term": "202509",
+			"termDesc": "Fall 2025",
+			"courseReferenceNumber": "91570",
+			"partOfTerm": "E2F",
+			"courseNumber": "100",
+			"subject": "BUS",
+			"subjectDescription": "Business Administration",
+			"sequenceNumber": "SD1",
+			"campusDescription": "Off-site Sanatan Dharma Colleg",
+			"scheduleTypeDescription": "Lecture/Lab",
+			"courseTitle": "Intro to Business",
+			"creditHours": null,
+			"maximumEnrollment": 0,
+			"enrollment": 0,
+			"seatsAvailable": 0,
+			"waitCapacity": 0,
+			"waitCount": 0,
+			"waitAvailable": 0,
+			"crossList": null,
+			"crossListCapacity": null,
+			"crossListCount": null,
+			"crossListAvailable": null,
+			"creditHourHigh": null,
+			"creditHourLow": 3,
+			"creditHourIndicator": null,
+			"openSection": false,
+			"linkIdentifier": null,
+			"isSectionLinked": false,
+			"subjectCourse": "BUS100",
+			"faculty": [],
+			"meetingsFaculty": [],
+			"reservedSeatSummary": null,
+			"sectionAttributes": null,
+			"instructionalMethod": null,
+			"instructionalMethodDescription": null
+		}
+	]
 }
