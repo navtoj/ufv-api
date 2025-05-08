@@ -2547,26 +2547,6 @@
 		"programName": null
 	},
 	{
-		"code": "0263",
-		"name": "Sonny Satbant Singh Moore Memorial Annual Bursary",
-		"type": "Annual Bursary",
-		"description": "Available to a UFV student that meets the following criteria:\n  1.  Demonstrate genuine financial need\n  2.  Enrolled in a UFV English as a Second Language (ESL) or Upgrading and University Prep (UUP) course\n  3.  Show satisfactory academic achievement",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
-		"applicationMethod": "Bursary application",
-		"applyTo": "Online application through MyUFV",
-		"acceptApplications": true,
-		"applicationsAccepted": [
-			"Sep 30, 2025 to Nov 30, 2025",
-			"Jan 30, 2025 to Mar 15, 2025",
-			"May 30, 2025 to Jun 30, 2025"
-		],
-		"ceremony": "Original Ceremony",
-		"biography": "This bursary was established in memory of Sonny Moore of Burnaby, who passed away suddenly in 2011.  This bursary commemorates his generosity by supporting a UFV student in need.",
-		"programName": null
-	},
-	{
 		"code": "0270",
 		"name": "Fortins Supply Endowment Bursary in Trades",
 		"type": "Endowment Bursary",
@@ -6331,28 +6311,6 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": null
-	},
-	{
-		"code": "0657",
-		"name": "Langley Endodontics Annual Bursary",
-		"type": "Annual Bursary",
-		"description": "Available to a student enrolled in the CDA Program, who demonstrates financial need.  Must be a Canadian citizen.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
-		"applicationMethod": "Bursary application",
-		"applyTo": "Online application through MyUFV",
-		"acceptApplications": true,
-		"applicationsAccepted": [
-			"Sep 30, 2025 to Nov 30, 2025",
-			"Jan 30, 2025 to Mar 15, 2025",
-			"May 30, 2025 to Jun 30, 2025"
-		],
-		"ceremony": null,
-		"biography": "Dr. Jason Conn and Dr. Howard Bittner are specialists in saving teeth.  Their goal at Langley Endodontics is to provide exceptional care in a professional and comforting patient environment supported by a dedicated and highly skilled team.  We value education and continued growth and support our staff to achieve their career goals.",
-		"programName": [
-			"Certified Dental Asst Cert"
-		]
 	},
 	{
 		"code": "0658",
