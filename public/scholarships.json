@@ -4678,22 +4678,6 @@
 		"programName": null
 	},
 	{
-		"code": "0535",
-		"name": "UFV Wrestling Annual Leadership Award",
-		"type": "Annual Scholarship",
-		"description": "Available to a deserving student athlete participating on the wrestling team.\n• 2.0 GPA for returning students\n• Demonstrate leadership experience and volunteer commitments to the Athletic department or team",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Athletics selects the recipients.",
-		"applicationMethod": "Nomination",
-		"applyTo": "Department Recommendation",
-		"acceptApplications": false,
-		"applicationsAccepted": null,
-		"ceremony": null,
-		"biography": null,
-		"programName": null
-	},
-	{
 		"code": "0536",
 		"name": "Mary & William Dow Memorial Endowment Leadership Award (Theatre)",
 		"type": "Endowment Scholarship",
@@ -5945,6 +5929,24 @@
 		],
 		"ceremony": null,
 		"biography": null,
+		"programName": null
+	},
+	{
+		"code": "0631",
+		"name": "Be the Change Reconciliation and Peacemaking Annual Leadership Award",
+		"type": "Annual Scholarship",
+		"description": "Preference is to support a student who is investing in demonstrating leadership in the area of reconciliation and peacemaking.  This leadership is to be shown through paid or volunteer work experience, courses taken at UFV, and/or support or reconciliation and peacemaking initiatives and solutions.  The student should demonstrate that they live the value of reconciliation and peacemaking.  They may be in the Peace and Conflict Studies program, but it is not required.\nThe student will articulate participation in activities such as:\n\n•\tFeatured in media (TV, newspaper) promoting reconciliation efforts or peacemaking initiatives\n•\tVolunteered or worked in efforts such as: reconciliation with Canadian Indigenous peoples; partnership with peacemaking organizations; gang prevention task forces; or relief for refugees or citizens from/in countries that are at war\n•\tOrganized initiatives or events on campus promoting reconciliation or peacemaking\n\nMust be Canadian or a Permanent resident.  Preference is for students from British Columbia, then Canada.",
+		"applicationRequiresAdditionalDocumentation": false,
+		"amount": null,
+		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
+		"applicationMethod": "Leadership application",
+		"applyTo": "Online application through MyUFV",
+		"acceptApplications": true,
+		"applicationsAccepted": [
+			"Mar 15, 2025 to May 10, 2025"
+		],
+		"ceremony": null,
+		"biography": "Mahatma Gandhi said, \"Be the change that you wish to see in the world.\"  This not only means that we need to have good character, but also that we need to intentionally act in a way which influences the society we live in. Through our actions we seek to bring healthy change and make the world a better place.  This award is intended to empower and inspire a student who lives these values and intends to act as an agent of change to improve the area of reconciliation and peacemaking.",
 		"programName": null
 	},
 	{
