@@ -1,5 +1,5 @@
 {
-	"term": "Winter 2026 (View Only)",
+	"term": "Winter 2026",
 	"courses": [
 		{
 			"id": 177622,
@@ -6345,9 +6345,9 @@
 						"courseReferenceNumber": "10013",
 						"creditHourSession": 5,
 						"endDate": "01/08/2026",
-						"endTime": "1330",
+						"endTime": "1320",
 						"friday": false,
-						"hoursWeek": 5,
+						"hoursWeek": 4.83,
 						"meetingScheduleType": "E",
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
@@ -8076,9 +8076,9 @@
 						"courseReferenceNumber": "10016",
 						"creditHourSession": 0,
 						"endDate": "01/29/2026",
-						"endTime": "1300",
+						"endTime": "1250",
 						"friday": false,
-						"hoursWeek": 1,
+						"hoursWeek": 0.83,
 						"meetingScheduleType": "E",
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
