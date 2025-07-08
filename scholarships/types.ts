@@ -16,7 +16,12 @@ const Award = z.object({
 	syvawgiApplAddDocInd: z.boolean(),
 	addDocDesc: YesNoBoolean,
 	syvawgiFundAmt: z.preprocess(
-		(v) => v === '' ? null : v,
+		(v) => {
+			if (typeof v !== 'string') return v;
+			if (v === '') return null;
+			if (v.startsWith('&curren;')) return v.replace('&curren;', '$');
+			return v;
+		},
 		z.string().startsWith('$').nullable(),
 	),
 }).strict();
