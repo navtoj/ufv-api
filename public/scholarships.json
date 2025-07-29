@@ -554,7 +554,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Agriculture Technology Cert"
+		]
 	},
 	{
 		"code": "0046",
@@ -831,7 +833,7 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Accounting Diploma",
+			"Accounting Certificate",
 			"Bachelor of Business Admin",
 			"Bachelor of Business Admin Av",
 			"Bachelor of Computer Info Sys",
@@ -841,7 +843,6 @@
 			"Fine Arts:Graphic Dsgn Diploma",
 			"Graphic Design & Comm Diploma",
 			"Library & Info Tech Diploma",
-			"Library Technician Diploma",
 			"Visual Arts Diploma"
 		]
 	},
@@ -1733,13 +1734,8 @@
 			"BA(Child & Youth Care)",
 			"Bachelor of Arts in Crim Just",
 			"Bachelor of Social Work",
-			"Certificate in Corrections",
-			"Child and Youth Care Studies",
-			"Criminal Justice Studies",
 			"Masters of Arts (Crim Justice)",
-			"Social Service: Chldrn Diploma",
-			"Social Services Diploma",
-			"Social Services Studies"
+			"Social Service Worker Diploma"
 		]
 	},
 	{
@@ -1806,12 +1802,10 @@
 		"programName": [
 			"Accounting Certificate",
 			"Accounting Diploma",
-			"Administration Certificate",
 			"Bachelor of Business Admin",
 			"Bachelor of Business Admin Av",
 			"Business Admin Certificate",
 			"Business Admin Diploma",
-			"Business Admin Studies",
 			"Marketing and Sales Cert"
 		]
 	},
@@ -2397,7 +2391,8 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Bachelor of Arts"
+			"Bachelor of Arts",
+			"Bachelor of Integrated Studies"
 		]
 	},
 	{
@@ -2435,7 +2430,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Adult Basic Education"
+		]
 	},
 	{
 		"code": "0256",
@@ -2601,9 +2598,9 @@
 	},
 	{
 		"code": "0279",
-		"name": "Evelyn McKenzie Memorial Endowment Scholarship for TEP",
+		"name": "Evelyn McKenzie Memorial Endowment Scholarship for Bachelor of Education",
 		"type": "Endowment Scholarship",
-		"description": "Available to students currently enrolled in TEP at UFV with preference to those who have shown measurable growth within the TEP program.",
+		"description": "Available to students currently enrolled in the Bachelor of Education at UFV with preference to those who have shown measurable growth within the BEd program.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -2613,13 +2610,15 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Education"
+		]
 	},
 	{
 		"code": "0281",
-		"name": "Evelyn McKenzie Memorial Endowment Bursary for TEP",
+		"name": "Evelyn McKenzie Memorial Endowment Bursary for Bachelor of Education",
 		"type": "Endowment Bursary",
-		"description": "Students who are currently enrolled in the TEP at UFV.",
+		"description": "Students who are currently enrolled in the Bachelor of Education at UFV.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Bursary applications are assessed by Financial Aid and Awards",
@@ -2633,7 +2632,9 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Education"
+		]
 	},
 	{
 		"code": "0283",
@@ -2691,7 +2692,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Fine Arts"
+		]
 	},
 	{
 		"code": "0291",
