@@ -2047,7 +2047,9 @@
 		],
 		"ceremony": "Original Ceremony",
 		"biography": "Every day, the Chartered Professionals in Human Resources of British Columbia and Yukon (CPHR BC & Yukon) propels the HR profession forward by supporting its members with education and advocacy.  We are the Voice of the HR Profession.  Founded in 1942, CPHR & Yukon has grown to include more than 5,700 members encompassing CEOs, VPs, directors of HR, HR generalists, HR advisors, consultants, educators, students and small-business owners in BC and the Yukon.  CPHR &Yukon offers profressional development and networking opportunities as well as resources for every stage of your career.  The association is the grantor of the Chartered Professional in Human Resouces (CPHR) designation in BC and the Yukon.\nAs a member of the CPHR Canada, CPHR BC & Yukon contributes to setting and upholding the national standards for the CPHR.",
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin"
+		]
 	},
 	{
 		"code": "0214",
