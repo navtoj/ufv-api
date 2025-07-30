@@ -328,7 +328,6 @@
 		"biography": null,
 		"programName": [
 			"Bachelor of Arts in Crim Just",
-			"Certificate in Corrections",
 			"Criminal Justice Diploma",
 			"Masters of Arts (Crim Justice)"
 		]
@@ -478,7 +477,12 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
+			"Hort Crop Prod & Protection Cr",
+			"Livestock Production Cert"
+		]
 	},
 	{
 		"code": "0042",
@@ -495,7 +499,8 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Bachelor of Business Admin Av"
+			"Bachelor of Business Admin Av",
+			"Business Admin Aviation Dipl"
 		]
 	},
 	{
@@ -555,7 +560,10 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Agriculture Technology Cert"
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
+			"Livestock Production Cert",
+			"Ornamental Hort Certificate"
 		]
 	},
 	{
@@ -644,7 +652,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0051",
@@ -678,7 +689,12 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
+			"Hort Crop Prod & Protection Cr",
+			"Livestock Production Cert"
+		]
 	},
 	{
 		"code": "0053",
@@ -694,7 +710,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Automotive Service Tech Apprnt"
+		]
 	},
 	{
 		"code": "0054",
@@ -746,7 +764,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0057",
@@ -762,7 +783,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Auto Service Technician Cert"
+		]
 	},
 	{
 		"code": "0059",
@@ -779,6 +802,7 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
+			"Bachelor of Fine Arts",
 			"Visual Arts Diploma"
 		]
 	},
@@ -814,7 +838,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0062",
@@ -862,9 +889,10 @@
 		"biography": null,
 		"programName": [
 			"Assoc of Arts: Theatre",
+			"Bachelor of Arts",
+			"Bachelor of Fine Arts",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
