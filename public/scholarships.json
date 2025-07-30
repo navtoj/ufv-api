@@ -4121,7 +4121,11 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Computer Info Sys",
+			"Computer Info Sys Diploma",
+			"Computer Info Systems Cert"
+		]
 	},
 	{
 		"code": "0483",
