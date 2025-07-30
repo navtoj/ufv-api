@@ -2238,7 +2238,7 @@
 		"code": "0222",
 		"name": "Bill Harris Endowment Scholarship",
 		"type": "Endowment Scholarship",
-		"description": "UFV Horticulture student.  Preference will be given to a student going into second year.  Student must have a high GPA and have definite career aspirations in the horticulture industry.",
+		"description": "Available to a UFV Horticulture student.  Preference will be given to a student going into second year.  Student must have a high GPA and have definite career aspirations in the horticulture industry.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -2380,7 +2380,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0241",
@@ -2396,7 +2398,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Science in Nursing"
+		]
 	},
 	{
 		"code": "0243",
@@ -2499,7 +2503,7 @@
 		"code": "0256",
 		"name": "Cloverdale Paint Inc. Annual Leadership Award",
 		"type": "Annual Scholarship",
-		"description": "Available to a full-time student who are a Canadian citizen and resident of BC.  The recipient must have demonstrated a commitment to community service, career and/or entrepreneurial objectives.  Preference will be given to students related to employees of Cloverdale Paint (documentation required).",
+		"description": "Available to a full-time student who is a Canadian citizen and a resident of BC.  The recipient must have demonstrated a commitment to community service, career and/or entrepreneurial objectives.  Preference will be given to students related to employees of Cloverdale Paint (documentation required).",
 		"applicationRequiresAdditionalDocumentation": true,
 		"amount": null,
 		"selectionProcess": "Scholarship applications are reviewed by the Awards Adjudication Committee.",
@@ -2529,7 +2533,13 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bach of Sci in Nurs LPN Access",
+			"Bachelor of Kinesiology",
+			"Bachelor of Science in Nursing",
+			"Certified Dental Asst Cert",
+			"Practical Nursing Diploma"
+		]
 	},
 	{
 		"code": "0258",
@@ -2547,7 +2557,12 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bach of Sci in Nurs LPN Access",
+			"Bachelor of Kinesiology",
+			"Bachelor of Science in Nursing",
+			"Practical Nursing Diploma"
+		]
 	},
 	{
 		"code": "0259",
@@ -2565,7 +2580,12 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bach of Sci in Nurs LPN Access",
+			"Bachelor of Kinesiology",
+			"Bachelor of Science in Nursing",
+			"Practical Nursing Diploma"
+		]
 	},
 	{
 		"code": "0260",
@@ -2637,7 +2657,11 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts",
+			"Bachelor of Fine Arts",
+			"Theatre Diploma"
+		]
 	},
 	{
 		"code": "0277",
@@ -2661,7 +2685,7 @@
 		"code": "0279",
 		"name": "Evelyn McKenzie Memorial Endowment Scholarship for Bachelor of Education",
 		"type": "Endowment Scholarship",
-		"description": "Available to students currently enrolled in the Bachelor of Education at UFV with preference to those who have shown measurable growth within the BEd program.",
+		"description": "Available to students currently enrolled in the Bachelor of Education at UFV with preference for those who have shown measurable growth within the BEd program.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -2773,7 +2797,21 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Assoc of Arts Degree",
+			"Bach of Arts: Global Dev Stud",
+			"Bachelor of Arts",
+			"Bachelor of Arts in Crim Just",
+			"Bachelor of Fine Arts",
+			"Bachelor of Integrated Studies",
+			"Bachelor of Media Arts",
+			"Criminal Justice Diploma",
+			"General Studies Diploma",
+			"Graphic & Digital Design Dipl",
+			"Liberal Arts Diploma",
+			"Theatre Diploma",
+			"Visual Arts Diploma"
+		]
 	},
 	{
 		"code": "0293",
@@ -2811,7 +2849,21 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Assoc of Arts Degree",
+			"Bach of Arts: Global Dev Stud",
+			"Bachelor of Arts",
+			"Bachelor of Arts in Crim Just",
+			"Bachelor of Fine Arts",
+			"Bachelor of Integrated Studies",
+			"Bachelor of Media Arts",
+			"Criminal Justice Diploma",
+			"General Studies Diploma",
+			"Graphic & Digital Design Dipl",
+			"Liberal Arts Diploma",
+			"Theatre Diploma",
+			"Visual Arts Diploma"
+		]
 	},
 	{
 		"code": "0297",
@@ -2829,7 +2881,15 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Assoc of Arts Degree",
+			"Bach of Arts: Global Dev Stud",
+			"Bachelor of Arts",
+			"Bachelor of Arts in Crim Just",
+			"Bachelor of Fine Arts",
+			"Bachelor of Integrated Studies",
+			"Bachelor of Media Arts"
+		]
 	},
 	{
 		"code": "0298",
@@ -2847,7 +2907,14 @@
 		],
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Assoc of Science Degree",
+			"Bachelor of Agricultural Sci",
+			"Bachelor of Envir Studies NS",
+			"Bachelor of Environmental Stud",
+			"Bachelor of Reg'l, Comnty Plan",
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0300",
@@ -2865,7 +2932,14 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Assoc of Science Degree",
+			"Bachelor of Agricultural Sci",
+			"Bachelor of Envir Studies NS",
+			"Bachelor of Environmental Stud",
+			"Bachelor of Reg'l, Comnty Plan",
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0301",
