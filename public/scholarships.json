@@ -917,7 +917,7 @@
 		"code": "0065",
 		"name": "Philip Walter Memorial Endowment Scholarship",
 		"type": "Endowment Scholarship",
-		"description": "Available to a UFV student who has completed and achieved top marks in the Agriculture program's Livestock Production diploma offered on the Chilliwack campus of UFV.",
+		"description": "Available to a UFV student who has completed and achieved top marks in UFV's Agriculture Livestock certificate program.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -926,14 +926,14 @@
 		"acceptApplications": false,
 		"applicationsAccepted": null,
 		"ceremony": null,
-		"biography": null,
+		"biography": "This award was established in memory of Philip Walter, originally of Chilliwack, who had established and operated an elk farm in Alberta.  Previously he had worked on dairy farms.  Farming has been a long tradition in the Walter family, including Philip's grandfather, Arthur Rundle, who farmed in the Chilliwack area.",
 		"programName": null
 	},
 	{
 		"code": "0066",
 		"name": "Procor Endowment Scholarship in Welding",
 		"type": "Endowment Scholarship",
-		"description": "A Level 'C' Welding student attending full-time at UFV.  The recipient will be selected on top grades for the year (theory and practical), attitude, work habits, and completion of the program in a reasonable expected time frame.",
+		"description": "Available to a Welding Foundations student attending full-time at UFV.  The recipient will be selected on top grades for the year (theory and practical), attitude, work habits, and completion of the program in a reasonable expected time frame.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -943,7 +943,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Welding Foundation"
+		]
 	},
 	{
 		"code": "0067",
@@ -979,7 +981,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0069",
@@ -1037,8 +1042,7 @@
 		"programName": [
 			"Assoc of Arts: Theatre",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -1094,10 +1098,7 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Dental Assisting Cert Lvl 1",
-			"Dental Assisting Cert Lvl 2",
-			"Dental Assisting Certificate",
-			"Dental Hygiene Diploma"
+			"Certified Dental Asst Cert"
 		]
 	},
 	{
