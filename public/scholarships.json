@@ -1297,7 +1297,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0094",
@@ -1331,7 +1333,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts",
+			"Bachelor of Fine Arts"
+		]
 	},
 	{
 		"code": "0102",
@@ -1391,7 +1396,7 @@
 		"code": "0117",
 		"name": "Summit View Dental Centre Annual CDA Award",
 		"type": "Annual Scholarship",
-		"description": "A UFV Dental Assisting student who has achieved the highest overall mark academically.\nNote:  The award is NOT necessarily for the top academic student but to the \"BEST\" CDA student.  Ask yourself:  Is this person someone who you would want to work with in the same office?",
+		"description": "A UFV Dental Assisting student who has achieved the highest overall mark academically.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -1402,7 +1407,7 @@
 		"ceremony": "Original Ceremony",
 		"biography": "Summit View Dental Centre is a dental clinic that has served Chilliwack for decades. Summit View Dental Centre offers a multitude of patient centered dental care.  The office is headed by Dr. Jadvinder Dhesi and the office philosophy is based upon us getting to know the person behind the patient.  The team accomplishes this through compassion, empathy and delivering the best possible dental care tailored to the patient's needs.  This scholarship award goes to CDA student who best exemplifies these qualities, who displays leadership and works well in a team to provide top dental care.",
 		"programName": [
-			"Dental Assisting Certificate"
+			"Certified Dental Asst Cert"
 		]
 	},
 	{
@@ -1435,7 +1440,13 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Architectural Drafting Tech Cr",
+			"Carpentry Certificate",
+			"Joinery Certificate",
+			"Plumbing & Piping Cert-25 wks",
+			"Welding Foundation"
+		]
 	},
 	{
 		"code": "0125",
@@ -1452,8 +1463,10 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Agriculture Certificate",
-			"Agriculture Technology Diploma"
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
+			"Hort Crop Prod & Protection Cr",
+			"Livestock Production Cert"
 		]
 	},
 	{
@@ -1488,7 +1501,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0138",
@@ -1504,7 +1519,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0141",
@@ -1523,8 +1540,7 @@
 		"programName": [
 			"Assoc of Arts: Theatre",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -1609,7 +1625,10 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts",
+			"Bachelor of Integrated Studies"
+		]
 	},
 	{
 		"code": "0149",
@@ -1626,9 +1645,7 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Hort Crop Prod & Protection Cr",
-			"Horticulture Crop Prod Cert",
-			"Ornamental Hort Certificate"
+			"Hort Crop Prod & Protection Cr"
 		]
 	},
 	{
@@ -1737,9 +1754,7 @@
 		"biography": null,
 		"programName": [
 			"Library & Info Tech Diploma",
-			"Library Info Tech Studies",
-			"Library Tech Post-diploma Cert",
-			"Library Technician Diploma"
+			"Library Tech Post-diploma Cert"
 		]
 	},
 	{
@@ -1853,7 +1868,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0185",
@@ -1869,7 +1887,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0186",
@@ -1888,8 +1909,7 @@
 		"programName": [
 			"Assoc of Arts: Theatre",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -1949,9 +1969,10 @@
 			"Mar 15, 2025 to May 10, 2025"
 		],
 		"ceremony": "Original Ceremony",
-		"biography": null,
+		"biography": "Heather McMullan was a loving wife to Rick, devoted mother to Kylie and Chelsea and a dedicated student who believed that education is a lifelong endeavour.\nAmong other important roles, Heather served two terms as an elected councillor on Langley Township Council.  However, it wasn't until she graduated in 2002 with her Bachelor of Social Work degree from UFV that she found her true calling:  acting as an advocate for children in need.  Heather worked as a child protection social worker with the British Columbia Ministry of Children and Families and then with the Aboriginal Children and Family Services team where she worked until a few month prior to August 1, 2009 when she lost her brief but courageous battle with cancer.\nIn early 2009, Heather's colleagues selected her to receive the Social Worker of the Year Award for her dedication and tireless efforts on behalf of the children she was assigned to protect and assist.\nHeather possessed true leadership traits and a passion for fighting for the underdog, which she has instilled in her two daughters.  She was an excellent student, as well as a community-minded volunteer who served on many boards and committees.",
 		"programName": [
-			"Bachelor of Social Work"
+			"Bachelor of Social Work",
+			"Master of Social Work"
 		]
 	},
 	{
@@ -1970,7 +1991,14 @@
 		],
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bach of Sci in Nurs LPN Access",
+			"Bachelor of Kinesiology",
+			"Bachelor of Science in Nursing",
+			"Certified Dental Asst Cert",
+			"Health Care Assistant Cert",
+			"Practical Nursing Diploma"
+		]
 	},
 	{
 		"code": "0199",
@@ -2144,6 +2172,8 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
 			"Bachelor of Business Admin"
 		]
 	},
@@ -2162,10 +2192,9 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Bach of Sci in Nursing RNA",
+			"Bach of Sci in Nurs LPN Access",
 			"Bachelor of Science in Nursing",
-			"Nursing Diploma",
-			"Practical Nursing"
+			"Practical Nursing Diploma"
 		]
 	},
 	{
@@ -2219,7 +2248,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Hort Crop Prod & Protection Cr"
+		]
 	},
 	{
 		"code": "0224",
