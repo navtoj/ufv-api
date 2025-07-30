@@ -2957,7 +2957,13 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Agricultural Sci",
+			"Bachelor of Envir Studies NS",
+			"Bachelor of Environmental Stud",
+			"Bachelor of Reg'l, Comnty Plan",
+			"Bachelor of Science"
+		]
 	},
 	{
 		"code": "0302",
@@ -2975,7 +2981,13 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin",
+			"Bachelor of Computer Info Sys",
+			"Business Admin Aviation Dipl",
+			"Business Admin Diploma",
+			"Computer Info Sys Diploma"
+		]
 	},
 	{
 		"code": "0303",
@@ -2993,7 +3005,13 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin",
+			"Bachelor of Computer Info Sys",
+			"Business Admin Aviation Dipl",
+			"Business Admin Diploma",
+			"Computer Info Sys Diploma"
+		]
 	},
 	{
 		"code": "0304",
@@ -3011,13 +3029,16 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin",
+			"Bachelor of Computer Info Sys"
+		]
 	},
 	{
 		"code": "0305",
 		"name": "UFV Academic Scholarship - Faculty of Applied and Technical Studies",
 		"type": "Tuition Scholarship",
-		"description": "Faculty of Trades and Technology  (Engineering Physics in Mechatronics) students who have completed one year and continuing studies at UFV.  \n\nUFV provides a number of academic scholarships every year to continuing students in the instructional divisions.  The intent of these awards is to recognize and support exceptional academic performance. \n   Applicants must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the fall and winter semesters of the current academic year.  \n   Students with documented disabilities, who require study at a reduced course load, must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the previous academic years.  A “Verification of Disability” form available from Disability Services, must be attached.\n   Recipients must apply the tuition scholarship to the next academic year (which includes fall and winter semesters).  The tuition scholarship may not be deferred to future academic years.\n   These awards are available to both Canadian and International students.",
+		"description": "Faculty of Trades and Technology  (Engineering Physics in Mechatronics/Automation and Robotics) students who have completed one year and are continuing into second year of the program.\n\nUFV provides a number of academic scholarships every year to continuing students in the instructional divisions.  The intent of these awards is to recognize and support exceptional academic performance. \n   Applicants must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the fall and winter semesters of the current academic year.  \n   Students with documented disabilities, who require study at a reduced course load, must have achieved a minimum 3.5 GPA in a minimum of 24 course credits over the previous academic years.  A “Verification of Disability” form available from Disability Services, must be attached.\n   Recipients must apply the tuition scholarship to the next academic year (which includes fall and winter semesters).  The tuition scholarship may not be deferred to future academic years.\n   These awards are available to both Canadian and International students.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -3029,7 +3050,10 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Automation & Robotics Tech Dip",
+			"Eng Phys Dipl in Mechatronics"
+		]
 	},
 	{
 		"code": "0308",
@@ -3045,7 +3069,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"BA(Child & Youth Care)"
+		]
 	},
 	{
 		"code": "0309",
@@ -3061,7 +3087,10 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts",
+			"Bachelor of Integrated Studies"
+		]
 	},
 	{
 		"code": "0310",
@@ -3093,7 +3122,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Agriculture Technology Diploma"
+		]
 	},
 	{
 		"code": "0314",
@@ -3109,7 +3140,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0315",
@@ -3125,29 +3159,16 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
-	},
-	{
-		"code": "0318",
-		"name": "Children & Families Research Award for Master of Arts in Criminal Justice",
-		"type": "Endowment Scholarship",
-		"description": "Available to students currently enrolled in the Master of Arts degree in Criminal Justice program and whose work, research, and/or major paper is related to children and families.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Recipients are selected by the department",
-		"applicationMethod": "Nomination",
-		"applyTo": "Department Recommendation",
-		"acceptApplications": false,
-		"applicationsAccepted": null,
-		"ceremony": "Original Ceremony",
-		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin Av",
+			"Business Admin Aviation Dipl"
+		]
 	},
 	{
 		"code": "0319",
 		"name": "Children & Families Research for Graduate Studies Endowment Award",
 		"type": "Endowment Scholarship",
-		"description": "Available to students currently enrolled in the Master of Social Work or Education program and whose work, research, and/or paper is related to children and families.",
+		"description": "Available to students currently enrolled in the Master of Social Work or Education program and whose work, research, and/or paper is related to children and families.\nRecipient is selected by the department.",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": null,
 		"selectionProcess": "Recipients are selected by the department",
@@ -3157,7 +3178,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Master of Ed, Leader & Mentor",
+			"Master of Social Work"
+		]
 	},
 	{
 		"code": "0320",
@@ -3189,7 +3213,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0328",
@@ -3261,8 +3288,7 @@
 		"biography": null,
 		"programName": [
 			"Library & Info Tech Diploma",
-			"Library Tech Post-diploma Cert",
-			"Library Technician Diploma"
+			"Library Tech Post-diploma Cert"
 		]
 	},
 	{
@@ -3319,7 +3345,9 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts"
+		]
 	},
 	{
 		"code": "0347",
@@ -3479,7 +3507,7 @@
 		"biography": null,
 		"programName": [
 			"Bachelor of Arts",
-			"Bachelor of General Studies"
+			"Bachelor of Integrated Studies"
 		]
 	},
 	{
@@ -3612,7 +3640,6 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Aviation-one yr Diploma",
 			"Aviation-two yr Diploma"
 		]
 	},
@@ -3666,10 +3693,7 @@
 		"biography": null,
 		"programName": [
 			"Bachelor of Arts in Crim Just",
-			"Certificate in Corrections",
-			"Criminal Justice Diploma",
-			"Criminal Justice Studies",
-			"Masters of Arts (Crim Justice)"
+			"Criminal Justice Diploma"
 		]
 	},
 	{
@@ -3688,9 +3712,7 @@
 		"biography": null,
 		"programName": [
 			"Bachelor of Arts in Crim Just",
-			"Criminal Justice Diploma",
-			"Criminal Justice Studies",
-			"Masters of Arts (Crim Justice)"
+			"Criminal Justice Diploma"
 		]
 	},
 	{
@@ -3726,16 +3748,11 @@
 		"ceremony": "Original Ceremony",
 		"biography": null,
 		"programName": [
-			"Agricultural Marketing Cert",
-			"Agriculture Technology Cert",
 			"Agriculture Technology Diploma",
 			"Bachelor of Agricultural Sci",
 			"Hort Crop Prod & Protection Cr",
 			"Horticulture Crop Prod Cert",
-			"Integrated Pest Managemnt Cert",
-			"Integrated Pest Mgmt Essential",
-			"Livestock Production Cert",
-			"Ornamental Hort Certificate"
+			"Livestock Production Cert"
 		]
 	},
 	{
