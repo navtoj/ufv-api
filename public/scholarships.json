@@ -3830,8 +3830,7 @@
 		"programName": [
 			"Assoc of Arts: Theatre",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -3888,8 +3887,7 @@
 		"programName": [
 			"Assoc of Arts: Theatre",
 			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -3924,7 +3922,10 @@
 		"applicationsAccepted": null,
 		"ceremony": "Original Ceremony",
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Arts in Crim Just",
+			"Criminal Justice Diploma"
+		]
 	},
 	{
 		"code": "0409",
