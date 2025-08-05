@@ -4303,7 +4303,9 @@
 		],
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Teaching Eng as a Second Lang"
+		]
 	},
 	{
 		"code": "0486",
@@ -4323,11 +4325,8 @@
 		"biography": null,
 		"programName": [
 			"Bachelor of Social Work",
-			"Human Services Diploma",
 			"Master of Social Work",
-			"Social Service: Chldrn Diploma",
-			"Social Services Diploma",
-			"Social Services Studies"
+			"Social Service Worker Diploma"
 		]
 	},
 	{
@@ -4393,7 +4392,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Early Childhood Ed Cert"
+		]
 	},
 	{
 		"code": "0493",
