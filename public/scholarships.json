@@ -4097,7 +4097,10 @@
 		"ceremony": "Original Ceremony",
 		"biography": "The award is in honour of Linda Riva, pioneer member of the mathematics department, who served UFV for 29 years with great intelligence, wit and kindness.",
 		"programName": [
-			"Bachelor of Arts"
+			"Assoc of Arts Degree",
+			"Bachelor of Arts",
+			"Bachelor of Integrated Studies",
+			"General Studies Diploma"
 		]
 	},
 	{
@@ -4238,7 +4241,11 @@
 		],
 		"ceremony": null,
 		"biography": "Dr. Abebe Teklu joined the School of Social Work and Human Services with the Faculty of Professional Studies on August 2, 2011, and was with the department until his death on January 9, 2013.  Abebe was a model of self-determination, a value held highly in social work.  He had completed his doctoral studies in less than three years; he was fluent in seven languages; he was a poet, a musician, and a philosopher.  Abebe had overcome high obstacles in his life.  He was blinded at nine years of age due to smallpox.  He was tortured and imprisoned for over a year.  He fled his home in Ethiopia in 1985, leaving a teaching position, and walked about 2100 km to Sudan to escape the brutality of the military junta, the Dergue.  Peace, harmony, and respect for human rights is a legacy that Abebe Abay Teklu lived and died by.  He was a man filled with Grace.  He \"walked his talk\".  The Dr. Abebe Abay Teklu Leadership Award is grounded in the African philosophy of Ubuntu which focuses on the allegiances and interconnectedness of all peoples.",
-		"programName": null
+		"programName": [
+			"Bachelor of Social Work",
+			"Master of Social Work",
+			"Social Service Worker Diploma"
+		]
 	},
 	{
 		"code": "0479",
