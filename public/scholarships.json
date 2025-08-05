@@ -4489,9 +4489,9 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
+			"Agriculture Technology Diploma",
 			"Hort Crop Prod & Protection Cr",
-			"Horticulture Crop Prod Cert",
-			"Ornamental Hort Certificate"
+			"Livestock Production Cert"
 		]
 	},
 	{
@@ -4531,6 +4531,7 @@
 		"ceremony": null,
 		"biography": null,
 		"programName": [
+			"Bachelor of Science",
 			"Eng Phys Dipl in Mechatronics",
 			"Engineering Transfer"
 		]
@@ -4539,7 +4540,7 @@
 		"code": "0509",
 		"name": "Dr. Khalideen Internationalization Annual Leadership Award",
 		"type": "Annual Scholarship",
-		"description": "Available to a student in the Teacher Education Program.\nThe recipient must meet one of the following criteria:\n•\tWork with a local or international community to promote the acceptance of diverse peoples and culture\n•\tCollaborate in an internationally focused teaching/learning activity\n•\tIncrease international learning opportunities for students",
+		"description": "Available to a student in the Bachelor or Education Program.\nThe recipient must meet one of the following criteria:\n•\tWork with a local or international community to promote the acceptance of diverse peoples and culture\n•\tCollaborate in an internationally focused teaching/learning activity\n•\tIncrease international learning opportunities for students",
 		"applicationRequiresAdditionalDocumentation": false,
 		"amount": "$500.00",
 		"selectionProcess": "Recipients are selected by the department",
@@ -4549,7 +4550,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Education"
+		]
 	},
 	{
 		"code": "0510",
@@ -4565,7 +4568,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Powerline Technician"
+		]
 	},
 	{
 		"code": "0511",
@@ -4581,7 +4586,10 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"BA(Child & Youth Care)",
+			"Early Childhood Ed Diploma"
+		]
 	},
 	{
 		"code": "0512",
@@ -4598,7 +4606,9 @@
 		"ceremony": null,
 		"biography": "Sam Sussel emigrated to Canada in 1936 with his wife and children, a fugitive from the Nazi regime in Germany, where he could no longer continue to practice as a lawyer.  Settling in Chilliwack, in 1940, Sam started to farm and due to his legal and business background, soon became a highly respected resource to the agricultural community in business matters.  In 1949, he gave up farming to become a full time accounting and agri-business consultant.  He continued serving his clients until he was 80 years of age.  This scholarship is awarded by his family to commemorate Sam Sussel’s many years of dedicated service to the Chilliwack Business and agricultural community.",
 		"programName": [
-			"Bachelor of Agricultural Sci"
+			"Agriculture Technology Diploma",
+			"Bachelor of Agricultural Sci",
+			"Bachelor of Business Admin"
 		]
 	},
 	{
@@ -4675,7 +4685,10 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": "The Dhami family believes in education and in helping others pursue their educational goals.  As a recipient of the Dhami Family Endowment Leadership Award, you are being assisted to pursue an excellent education at UFV.  Dr, Malwinder Singh Dhami, the visionary behind this generous endowment and described by many as rich in heart, stepped forward to create this award.  His request to you, the recipient:  \"When you achieve your goals, my desire is that you help other in their journey.  Let this be our joint legacy to pass it on.\"  Congratulations on receiving this award and best wishes to you in your future endeavors.",
-		"programName": null
+		"programName": [
+			"Grad Cert in Halq’eméylem",
+			"Grad Dipl in Halq’eméylem"
+		]
 	},
 	{
 		"code": "0519",
@@ -4707,7 +4720,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": "The Dhami family believes in education and in helping others pursue their educational goals.  As a recipient of the Dhami Family Endowment Leadership Award, you are being assisted to pursue an excellent education at UFV.  Dr, Malwinder Singh Dhami, the visionary behind this generous endowment and described by many as rich in heart, stepped forward to create this award.  His request to you, the recipient:  \"When you achieve your goals, my desire is that you help other in their journey.  Let this be our joint legacy to pass it on.\"  Congratulations on receiving this award and best wishes to you in your future endeavors.",
-		"programName": null
+		"programName": [
+			"Dental Assisting Certificate"
+		]
 	},
 	{
 		"code": "0522",
@@ -4862,9 +4877,8 @@
 		"biography": null,
 		"programName": [
 			"Assoc of Arts: Theatre",
-			"Theatre Arts Diploma",
-			"Theatre Diploma",
-			"Theatre Technician Diploma"
+			"Bachelor of Arts",
+			"Theatre Diploma"
 		]
 	},
 	{
@@ -4881,7 +4895,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Bachelor of Fine Arts"
+		]
 	},
 	{
 		"code": "0538",
@@ -4901,8 +4917,7 @@
 		"biography": "Securiguard is a leading security provider in Western Canada, recognized for their customer service programs, community engagement, high visibility uniforms and vehicles.  Their service package focuses on delivering exceptional customer service, making people feel safe and ensuring that every security officer \"believes they can make a difference\".  With over 42 years of experience in the BC Lower Mainland, Securiguard provides services to a wide range of clients including university campuses and government buildings, airports and ports, malls and corporate offices.\nSecuriguard staff are recognized for their commitment to core values (Respect, Empathy, Accountability, Courtesy and Honesty), values which ensure a culture of service excellence at UFV.  They are also proud to give back to the community through the Securiguard Cares fund, and are excited to contribute to UFV's educational programs through the awarding of annual student awards.",
 		"programName": [
 			"Bachelor of Arts in Crim Just",
-			"Criminal Justice Diploma",
-			"Masters of Arts (Crim Justice)"
+			"Criminal Justice Diploma"
 		]
 	},
 	{
@@ -4943,8 +4958,7 @@
 		"biography": "Securiguard is a leading security provider in Western Canada, recognized for their customer service programs, community engagement, high visibility uniforms and vehicles.  Their service package focuses on delivering exceptional customer service, making people feel safe and ensuring that every security officer \"believes they can make a difference\".  With over 42 years of experience in the BC Lower Mainland, Securiguard provides services to a wide range of clients including university campuses and government buildings, airports and ports, malls and corporate offices.\nSecuriguard staff are recognized for their commitment to core values (Respect, Empathy, Accountability, Courtesy and Honesty), values which ensure a culture of service excellence at UFV.  They are also proud to give back to the community through the Securiguard Cares fund, and are excited to contribute to UFV's educational programs through the awarding of annual student awards.",
 		"programName": [
 			"Bachelor of Arts in Crim Just",
-			"Criminal Justice Diploma",
-			"Masters of Arts (Crim Justice)"
+			"Criminal Justice Diploma"
 		]
 	},
 	{
@@ -4984,7 +4998,10 @@
 		],
 		"ceremony": null,
 		"biography": "Mr. Parminder Parmar, his wife Mrs. Mandeep Parmar and family wish to honor and celebrate Mr. Pirthi Singh Parmar by establishing this endowment.  Mr. Pirthi S. Parmar was very supportive and extremely proud of Parminder’s accomplishments as a UFV Alumnus and CA.  Mr. Parminder Parmar expressed that he had a wonderful experience at UFV and has since gone onto become a successful Chartered Accountant and Business Advisor. The Parmar family wishes to honour Pirthi, and celebrate his dedication to family, community and education by establishing an endowment to fund a leadership award in Mr. Pirthi S. Parmar’s name.",
-		"programName": null
+		"programName": [
+			"Bachelor of Business Admin",
+			"Business Admin Diploma"
+		]
 	},
 	{
 		"code": "0544",
@@ -5036,7 +5053,9 @@
 		"applicationsAccepted": null,
 		"ceremony": null,
 		"biography": null,
-		"programName": null
+		"programName": [
+			"Dental Assisting Certificate"
+		]
 	},
 	{
 		"code": "0547",
