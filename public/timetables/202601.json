@@ -32,7 +32,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CHEM116",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10069",
+					"displayName": "Vinay Choytun",
+					"emailAddress": "Vinay.Choytun@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -1961,7 +1971,7 @@
 					"courseReferenceNumber": "10059",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "0900",
+						"beginTime": "0830",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -1971,7 +1981,7 @@
 						"courseReferenceNumber": "10059",
 						"creditHourSession": 1.5,
 						"endDate": "04/10/2026",
-						"endTime": "1150",
+						"endTime": "1120",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
@@ -1995,7 +2005,7 @@
 					"courseReferenceNumber": "10059",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "0900",
+						"beginTime": "0830",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -2005,7 +2015,7 @@
 						"courseReferenceNumber": "10059",
 						"creditHourSession": 0,
 						"endDate": "04/10/2026",
-						"endTime": "1150",
+						"endTime": "1120",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
@@ -2029,7 +2039,7 @@
 					"courseReferenceNumber": "10059",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "0900",
+						"beginTime": "0830",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -2039,7 +2049,7 @@
 						"courseReferenceNumber": "10059",
 						"creditHourSession": 0,
 						"endDate": "04/10/2026",
-						"endTime": "1150",
+						"endTime": "1120",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
@@ -2112,7 +2122,7 @@
 					"courseReferenceNumber": "10060",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "1300",
+						"beginTime": "1230",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -2122,7 +2132,7 @@
 						"courseReferenceNumber": "10060",
 						"creditHourSession": 1.5,
 						"endDate": "04/10/2026",
-						"endTime": "1550",
+						"endTime": "1520",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
@@ -2146,7 +2156,7 @@
 					"courseReferenceNumber": "10060",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "1300",
+						"beginTime": "1230",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -2156,7 +2166,7 @@
 						"courseReferenceNumber": "10060",
 						"creditHourSession": 0,
 						"endDate": "04/10/2026",
-						"endTime": "1550",
+						"endTime": "1520",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
@@ -2180,7 +2190,7 @@
 					"courseReferenceNumber": "10060",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "1300",
+						"beginTime": "1230",
 						"building": "MID",
 						"buildingDescription": "Mission Bldg D",
 						"campus": "M",
@@ -2190,7 +2200,7 @@
 						"courseReferenceNumber": "10060",
 						"creditHourSession": 0,
 						"endDate": "04/10/2026",
-						"endTime": "1550",
+						"endTime": "1520",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
