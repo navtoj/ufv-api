@@ -3117,7 +3117,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGR113",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10071",
+					"displayName": "Peter Mulhern",
+					"emailAddress": "Peter.Mulhern@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -3220,8 +3230,8 @@
 			"courseTitle": "Engineering Optics",
 			"creditHours": 1,
 			"maximumEnrollment": 36,
-			"enrollment": 15,
-			"seatsAvailable": 21,
+			"enrollment": 16,
+			"seatsAvailable": 20,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -3236,7 +3246,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGR115",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10072",
+					"displayName": "Peter Mulhern",
+					"emailAddress": "Peter.Mulhern@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -3278,7 +3298,7 @@
 				"courseReferenceNumber": "10072",
 				"maximumEnrollmentReserved": 30,
 				"maximumEnrollmentUnreserved": 6,
-				"seatsAvailableReserved": 15,
+				"seatsAvailableReserved": 14,
 				"seatsAvailableUnreserved": 6,
 				"termCode": "202601",
 				"waitAvailableReserved": 99,
@@ -3321,7 +3341,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGR124",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10073",
+					"displayName": "Trevor Beugeling",
+					"emailAddress": "Trevor.Beugeling@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -3440,7 +3470,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGR124",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10074",
+					"displayName": "Trevor Beugeling",
+					"emailAddress": "Trevor.Beugeling@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -15390,7 +15430,17 @@
 			"linkIdentifier": "B1",
 			"isSectionLinked": true,
 			"subjectCourse": "PHYS112",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10078",
+					"displayName": "Carmen Herman",
+					"emailAddress": "Carmen.Herman@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -15459,8 +15509,8 @@
 			"courseTitle": "Electricity and Magnetism",
 			"creditHours": 0,
 			"maximumEnrollment": 18,
-			"enrollment": 8,
-			"seatsAvailable": 10,
+			"enrollment": 9,
+			"seatsAvailable": 9,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -15475,7 +15525,17 @@
 			"linkIdentifier": "B1",
 			"isSectionLinked": true,
 			"subjectCourse": "PHYS112",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10079",
+					"displayName": "Carmen Herman",
+					"emailAddress": "Carmen.Herman@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -15517,7 +15577,7 @@
 				"courseReferenceNumber": "10079",
 				"maximumEnrollmentReserved": 15,
 				"maximumEnrollmentUnreserved": 3,
-				"seatsAvailableReserved": 7,
+				"seatsAvailableReserved": 6,
 				"seatsAvailableUnreserved": 3,
 				"termCode": "202601",
 				"waitAvailableReserved": 99,
@@ -15544,8 +15604,8 @@
 			"courseTitle": "Electricity and Magnetism",
 			"creditHours": 5,
 			"maximumEnrollment": 54,
-			"enrollment": 17,
-			"seatsAvailable": 37,
+			"enrollment": 18,
+			"seatsAvailable": 36,
 			"waitCapacity": 0,
 			"waitCount": 0,
 			"waitAvailable": 0,
@@ -15612,7 +15672,7 @@
 				"courseReferenceNumber": "10077",
 				"maximumEnrollmentReserved": 30,
 				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 14,
+				"seatsAvailableReserved": 13,
 				"seatsAvailableUnreserved": 23,
 				"termCode": "202601",
 				"waitAvailableReserved": 0,
