@@ -4580,7 +4580,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "MATH112",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10076",
+					"displayName": "Eugene Yablonski",
+					"emailAddress": "Eugene.Yablonsky@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -4665,7 +4675,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "MATH152",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "10075",
+					"displayName": "Tariq Nuruddin",
+					"emailAddress": "Tariq.Nuruddin@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202601"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
