@@ -90,13 +90,12 @@ async function getTimetableData(
 		},
 ) {
 	// get timetable data
-	const response = await fetch(
+	const url =
 		'https://apps.ban.ufv.ca/StudentRegistrationSsb/ssb/searchResults/searchResults' +
-			'?pageMaxSize=500' +
-			`&txt_term=${term}` +
-			`&pageOffset=${pageOffset ?? -1}`,
-		requestOptions,
-	);
+		'?pageMaxSize=500' +
+		`&txt_term=${term}` +
+		`&pageOffset=${pageOffset ?? -1}`;
+	const response = await fetch(url, requestOptions);
 	handleResponseError(
 		{
 			response,
@@ -115,7 +114,7 @@ async function getTimetableData(
 		: TimetableData.safeParse(parsed);
 	if (!validated.success) {
 		core.error('Timetable data failed validation.');
-		console.log(validated.error.issues);
+		console.log(url, validated.error.issues);
 		// only run in github actions
 		if (Deno.env.get('CI') === 'true') {
 			core.startGroup('Parsed Data');
