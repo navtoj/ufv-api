@@ -1675,7 +1675,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BSBBK02",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20082",
+					"displayName": "Devinder Schotel",
+					"emailAddress": "Devinder.Schotel@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -2103,7 +2113,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BSBBK02",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20105",
+					"displayName": "Patti Lamusse",
+					"emailAddress": "Patti.Lamusse@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -4341,7 +4361,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BISCHRM11",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20010",
+					"displayName": "Sophia Barton-Bucknor",
+					"emailAddress": "Sophia.Barton-Bucknor@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10025,7 +10055,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "STTVAA01",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20205",
+					"displayName": "Margr&eacute; Boer",
+					"emailAddress": "Margre.Boer@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10298,7 +10338,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "STTVAA09",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20095",
+					"displayName": "Devinder Schotel",
+					"emailAddress": "Devinder.Schotel@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10454,7 +10504,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "STTVAA11",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20079",
+					"displayName": "Margr&eacute; Boer",
+					"emailAddress": "Margre.Boer@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10976,7 +11036,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "TECHEXADV",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20194",
+					"displayName": "Courtney Boisvert",
+					"emailAddress": "Courtney.Boisvert@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
