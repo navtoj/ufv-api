@@ -1217,7 +1217,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BSBBK01",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20029",
+					"displayName": "Winston McNicol",
+					"emailAddress": "Winston.McNicol@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -9956,8 +9966,8 @@
 			"courseTitle": "Word-Processing: Word",
 			"creditHours": null,
 			"maximumEnrollment": 24,
-			"enrollment": 1,
-			"seatsAvailable": 23,
+			"enrollment": 2,
+			"seatsAvailable": 22,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
