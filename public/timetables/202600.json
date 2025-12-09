@@ -4006,7 +4006,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BISCHRM08",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20107",
+					"displayName": "Leanne Woelke",
+					"emailAddress": "Leanne.Woelke@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
