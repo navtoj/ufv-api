@@ -28,7 +28,14 @@ async function getAwardList(requestOptions: RequestInit) {
 	);
 
 	// parse award list
-	const parsed = await response.json();
+	let parsed;
+	try {
+		parsed = await response.json();
+	} catch (error) {
+		const responseText = await response.text();
+		core.debug(`Award list response: ${responseText}`);
+		throw error;
+	}
 
 	// validate response
 	const validated = AwardListResponse.safeParse(parsed);
