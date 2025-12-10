@@ -46,6 +46,7 @@ export const TimetableData = z.object({
 		courseReferenceNumber: DigitsString,
 		partOfTerm: NonEmptyString,
 		courseNumber: NonEmptyString,
+		courseDisplay: NonEmptyString,
 		subject: NonEmptyString,
 		subjectDescription: NonEmptyString,
 		sequenceNumber: NonEmptyString,
