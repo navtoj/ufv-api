@@ -3601,7 +3601,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BISCHRM03",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20096",
+					"displayName": "Navdipak Kaur",
+					"emailAddress": "Navdipak.Kaur@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -5661,7 +5671,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BISCMSS12",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20077",
+					"displayName": "Navdipak Kaur",
+					"emailAddress": "Navdipak.Kaur@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -7518,7 +7538,7 @@
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "20238",
 					"displayName": "Andrea Bryson",
-					"emailAddress": "Andrea.Vollans@ufv.ca",
+					"emailAddress": "Andrea.Bryson@ufv.ca",
 					"primaryIndicator": true,
 					"term": "202600"
 				},
@@ -7620,7 +7640,7 @@
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "20237",
 					"displayName": "Andrea Bryson",
-					"emailAddress": "Andrea.Vollans@ufv.ca",
+					"emailAddress": "Andrea.Bryson@ufv.ca",
 					"primaryIndicator": false,
 					"term": "202600"
 				},
@@ -15041,8 +15061,8 @@
 			"courseTitle": "Commercial Vehicle Inspection Program Heavy Mechanical",
 			"creditHours": null,
 			"maximumEnrollment": 12,
-			"enrollment": 1,
-			"seatsAvailable": 11,
+			"enrollment": 2,
+			"seatsAvailable": 10,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
