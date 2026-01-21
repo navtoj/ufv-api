@@ -7517,8 +7517,8 @@
 			"courseTitle": "Community Law Advocacy Train",
 			"creditHours": null,
 			"maximumEnrollment": 30,
-			"enrollment": 20,
-			"seatsAvailable": 10,
+			"enrollment": 22,
+			"seatsAvailable": 8,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -10129,7 +10129,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "STTCASH",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "20276",
+					"displayName": "Devinder Schotel",
+					"emailAddress": "Devinder.Schotel@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202600"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -15287,8 +15297,8 @@
 			"courseTitle": "Commercial Vehicle Inspection Program Heavy Mechanical",
 			"creditHours": null,
 			"maximumEnrollment": 12,
-			"enrollment": 4,
-			"seatsAvailable": 8,
+			"enrollment": 5,
+			"seatsAvailable": 7,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
