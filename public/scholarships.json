@@ -7750,22 +7750,6 @@
 		"programName": null
 	},
 	{
-		"code": "0733",
-		"name": "\"50th Anniversary\" High School Entrance Scholarship",
-		"type": "Tuition Scholarship",
-		"description": "Limited to students graduating from a high school in the Abbotsford, Mission, Chilliwack and Fraser Cascade School districts.",
-		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
-		"selectionProcess": "Entrance awards recipients are selected by an Awards Adjudication Committee.",
-		"applicationMethod": "Entrance Scholarship",
-		"applyTo": "Paper Application",
-		"acceptApplications": true,
-		"applicationsAccepted": null,
-		"ceremony": null,
-		"biography": null,
-		"programName": null
-	},
-	{
 		"code": "0734",
 		"name": "The AU BAK LING/Auguston Town Development Inc. Annual Leadership Award for Indigenous Students",
 		"type": "Annual Scholarship",
