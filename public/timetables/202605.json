@@ -13232,14 +13232,14 @@
 						"meetingScheduleType": "I",
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
-						"monday": true,
+						"monday": false,
 						"room": "UFV",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
 						"term": "202605",
 						"thursday": false,
-						"tuesday": false,
+						"tuesday": true,
 						"wednesday": false
 					},
 					"term": "202605"
@@ -13686,10 +13686,10 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1430",
-						"building": null,
-						"buildingDescription": null,
-						"campus": null,
-						"campusDescription": null,
+						"building": "ABD",
+						"buildingDescription": "Abbotsford Bldg D",
+						"campus": "A",
+						"campusDescription": "Abbotsford",
 						"category": "01",
 						"class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
 						"courseReferenceNumber": "50037",
@@ -13702,7 +13702,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": null,
+						"room": "242",
 						"saturday": false,
 						"startDate": "05/06/2026",
 						"sunday": false,
@@ -15612,16 +15612,7 @@
 				"waitCapacityReserved": 99,
 				"waitCapacityUnreserved": 99
 			},
-			"sectionAttributes": [
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "ZTC",
-					"courseReferenceNumber": "50392",
-					"description": "Zero Textbook Cost",
-					"isZTCAttribute": true,
-					"termCode": "202605"
-				}
-			],
+			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
 		},
