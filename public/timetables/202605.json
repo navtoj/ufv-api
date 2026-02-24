@@ -7739,6 +7739,14 @@
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+					"code": "ZTC",
+					"courseReferenceNumber": "50024",
+					"description": "Zero Textbook Cost",
+					"isZTCAttribute": true,
+					"termCode": "202605"
+				},
+				{
+					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
 					"code": "UPLV",
 					"courseReferenceNumber": "50024",
 					"description": "Upper level course",
