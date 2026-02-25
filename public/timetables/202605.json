@@ -7323,7 +7323,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BUS304",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50209",
+					"displayName": "Masud Khawaja",
+					"emailAddress": "Masud.Khawaja@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -7418,7 +7428,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BUS306",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50210",
+					"displayName": "Masud Khawaja",
+					"emailAddress": "Masud.Khawaja@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -7513,7 +7533,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BUS315",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50211",
+					"displayName": "Donna Derksen",
+					"emailAddress": "Donna.Derksen@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -8598,7 +8628,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "BUS405",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50220",
+					"displayName": "Chang Lu",
+					"emailAddress": "Chang.Lu@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -28882,14 +28922,6 @@
 			],
 			"reservedSeatSummary": null,
 			"sectionAttributes": [
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "ZTC",
-					"courseReferenceNumber": "50360",
-					"description": "Zero Textbook Cost",
-					"isZTCAttribute": true,
-					"termCode": "202605"
-				},
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
 					"code": "LIBT",
