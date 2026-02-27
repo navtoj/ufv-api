@@ -1735,7 +1735,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "AIS299",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50176",
+					"displayName": "Rita Atake",
+					"emailAddress": "Rita.Atake@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -23551,8 +23561,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1600",
-						"building": "ABA",
-						"buildingDescription": "Abbotsford Bldg A",
+						"building": "ABC",
+						"buildingDescription": "Abbotsford Bldg C",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -23567,7 +23577,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "416",
+						"room": "1422",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
@@ -24063,8 +24073,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1730",
-						"building": "ABA",
-						"buildingDescription": "Abbotsford Bldg A",
+						"building": "ABC",
+						"buildingDescription": "Abbotsford Bldg C",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -24079,7 +24089,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "416",
+						"room": "1422",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
@@ -33738,8 +33748,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1730",
-						"building": "ABA",
-						"buildingDescription": "Abbotsford Bldg A",
+						"building": "ABC",
+						"buildingDescription": "Abbotsford Bldg C",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -33754,7 +33764,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "416",
+						"room": "1422",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
