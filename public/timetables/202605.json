@@ -36609,9 +36609,9 @@
 			"maximumEnrollment": 25,
 			"enrollment": 0,
 			"seatsAvailable": 25,
-			"waitCapacity": 99,
+			"waitCapacity": 297,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 297,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -36623,7 +36623,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "PSYC385",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50406",
+					"displayName": "Kevin Smith",
+					"emailAddress": "Kevin.Smith@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -36660,7 +36670,19 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": null,
+			"reservedSeatSummary": {
+				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
+				"courseReferenceNumber": "50406",
+				"maximumEnrollmentReserved": 25,
+				"maximumEnrollmentUnreserved": 0,
+				"seatsAvailableReserved": 25,
+				"seatsAvailableUnreserved": 0,
+				"termCode": "202605",
+				"waitAvailableReserved": 198,
+				"waitAvailableUnreserved": 99,
+				"waitCapacityReserved": 198,
+				"waitCapacityUnreserved": 99
+			},
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
