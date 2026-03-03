@@ -10478,7 +10478,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS125",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50231",
+					"displayName": "Lara Jongedijk",
+					"emailAddress": "Lara.Jongedijk@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10564,7 +10574,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS125",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50233",
+					"displayName": "Cheryl Maranda",
+					"emailAddress": "Cheryl.Maranda@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -10650,7 +10670,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS125",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50042",
+					"displayName": "Christopher Towler",
+					"emailAddress": "Christopher.Towler@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -11600,7 +11630,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS251",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50237",
+					"displayName": "John Bermingham",
+					"emailAddress": "John.Bermingham@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -11686,7 +11726,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS251",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50238",
+					"displayName": "John Bermingham",
+					"emailAddress": "John.Bermingham@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -11772,7 +11822,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CMNS251",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50053",
+					"displayName": "Shoaib Nasir",
+					"emailAddress": "Shoaib.Nasir@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
