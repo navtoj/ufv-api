@@ -42,6 +42,15 @@
 					"emailAddress": "Kevin.Dewolde@ufv.ca",
 					"primaryIndicator": true,
 					"term": "202604"
+				},
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "40199",
+					"displayName": "Mark Breedveld",
+					"emailAddress": "Mark.Breedveld@ufv.ca",
+					"primaryIndicator": false,
+					"term": "202604"
 				}
 			],
 			"meetingsFaculty": [
