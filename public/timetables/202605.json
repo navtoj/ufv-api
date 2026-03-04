@@ -7830,6 +7830,108 @@
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
 		},
 		{
+			"id": 184144,
+			"term": "202605",
+			"termDesc": "Summer 2026",
+			"courseReferenceNumber": "50412",
+			"partOfTerm": "2",
+			"courseNumber": "390M",
+			"courseDisplay": "390M",
+			"subject": "BUS",
+			"subjectDescription": "Business Administration",
+			"sequenceNumber": "IS1",
+			"campusDescription": "Off-campus location",
+			"scheduleTypeDescription": "Directed/Independent Studies",
+			"courseTitle": "Business in Europe",
+			"creditHours": 3,
+			"maximumEnrollment": 6,
+			"enrollment": 0,
+			"seatsAvailable": 6,
+			"waitCapacity": 0,
+			"waitCount": 0,
+			"waitAvailable": 0,
+			"crossList": null,
+			"crossListCapacity": null,
+			"crossListCount": null,
+			"crossListAvailable": null,
+			"creditHourHigh": null,
+			"creditHourLow": 3,
+			"creditHourIndicator": null,
+			"openSection": true,
+			"linkIdentifier": null,
+			"isSectionLinked": false,
+			"subjectCourse": "BUS390M",
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50412",
+					"displayName": "Kevin Dewolde",
+					"emailAddress": "Kevin.Dewolde@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				},
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50412",
+					"displayName": "Mark Breedveld",
+					"emailAddress": "Mark.Breedveld@ufv.ca",
+					"primaryIndicator": false,
+					"term": "202605"
+				}
+			],
+			"meetingsFaculty": [
+				{
+					"category": "01",
+					"class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+					"courseReferenceNumber": "50412",
+					"faculty": [],
+					"meetingTime": {
+						"beginTime": null,
+						"building": null,
+						"buildingDescription": null,
+						"campus": null,
+						"campusDescription": null,
+						"category": "01",
+						"class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+						"courseReferenceNumber": "50412",
+						"creditHourSession": 3,
+						"endDate": "06/19/2026",
+						"endTime": null,
+						"friday": false,
+						"hoursWeek": 0,
+						"meetingScheduleType": "D",
+						"meetingType": "CLAS",
+						"meetingTypeDescription": "Class",
+						"monday": false,
+						"room": null,
+						"saturday": false,
+						"startDate": "05/04/2026",
+						"sunday": false,
+						"term": "202605",
+						"thursday": false,
+						"tuesday": false,
+						"wednesday": false
+					},
+					"term": "202605"
+				}
+			],
+			"reservedSeatSummary": null,
+			"sectionAttributes": [
+				{
+					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+					"code": "UPLV",
+					"courseReferenceNumber": "50412",
+					"description": "Upper level course",
+					"isZTCAttribute": false,
+					"termCode": "202605"
+				}
+			],
+			"instructionalMethod": null,
+			"instructionalMethodDescription": null
+		},
+		{
 			"id": 183758,
 			"term": "202605",
 			"termDesc": "Summer 2026",
