@@ -2372,7 +2372,7 @@
 		"type": "Department Funded Awards",
 		"description": "Awarded to the student in their 3rd or penultimate year who achieves the highest academic standing in three upper-level chemistry or biochemistry courses.",
 		"applicationRequiresAdditionalDocumentation": false,
-		"amount": null,
+		"amount": "$100.00",
 		"selectionProcess": "Recipients are selected by the department",
 		"applicationMethod": "Nomination",
 		"applyTo": "Department Recommendation",
