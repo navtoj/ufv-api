@@ -13132,7 +13132,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "CIS270",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50035",
+					"displayName": "Jerry Ang",
+					"emailAddress": "Jerry.Ang@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20034,7 +20044,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50090",
+					"displayName": "Rachel Bodnariuc",
+					"emailAddress": "Rachel.Bodnariuc@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20388,7 +20408,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50096",
+					"displayName": "Jacqueline Taylor",
+					"emailAddress": "jacqueline.taylor@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20570,7 +20600,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50098",
+					"displayName": "Sanja Garic-Komnenic",
+					"emailAddress": "Sanja.GaricKomnenic@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20656,7 +20696,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL105",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50099",
+					"displayName": "Carl Peters",
+					"emailAddress": "Carl.Peters@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20742,7 +20792,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL108",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50101",
+					"displayName": "Adrea Johnson",
+					"emailAddress": "Adrea.Johnson@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -20816,7 +20876,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "ENGL108",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "50252",
+					"displayName": "Heather McAlpine",
+					"emailAddress": "Heather.McAlpine@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202605"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
