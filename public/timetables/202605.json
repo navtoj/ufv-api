@@ -40859,14 +40859,6 @@
 				},
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "SLG",
-					"courseReferenceNumber": "50162",
-					"description": "SLG Supported Section",
-					"isZTCAttribute": false,
-					"termCode": "202605"
-				},
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
 					"code": "FOU2",
 					"courseReferenceNumber": "50162",
 					"description": "Foundations Level II course",
@@ -41278,6 +41270,14 @@
 					"code": "FOU2",
 					"courseReferenceNumber": "50347",
 					"description": "Foundations Level II course",
+					"isZTCAttribute": false,
+					"termCode": "202605"
+				},
+				{
+					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+					"code": "SLG",
+					"courseReferenceNumber": "50347",
+					"description": "SLG Supported Section",
 					"isZTCAttribute": false,
 					"termCode": "202605"
 				}
