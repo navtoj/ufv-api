@@ -27768,9 +27768,9 @@
 			"maximumEnrollment": 36,
 			"enrollment": 0,
 			"seatsAvailable": 36,
-			"waitCapacity": 297,
+			"waitCapacity": 396,
 			"waitCount": 0,
-			"waitAvailable": 297,
+			"waitAvailable": 396,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -27871,9 +27871,9 @@
 				"seatsAvailableReserved": 34,
 				"seatsAvailableUnreserved": 2,
 				"termCode": "202605",
-				"waitAvailableReserved": 198,
+				"waitAvailableReserved": 297,
 				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
+				"waitCapacityReserved": 297,
 				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
