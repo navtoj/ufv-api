@@ -3240,9 +3240,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 200,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 200,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3310,9 +3310,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 101,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -3781,9 +3781,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3851,9 +3851,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
@@ -3877,9 +3877,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3947,9 +3947,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
@@ -4468,9 +4468,9 @@
 			"maximumEnrollment": 24,
 			"enrollment": 0,
 			"seatsAvailable": 24,
-			"waitCapacity": 200,
+			"waitCapacity": 297,
 			"waitCount": 0,
-			"waitAvailable": 200,
+			"waitAvailable": 297,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -4572,9 +4572,9 @@
 				"seatsAvailableUnreserved": 4,
 				"termCode": "202605",
 				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 2,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 2
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
@@ -4976,9 +4976,9 @@
 			"maximumEnrollment": 24,
 			"enrollment": 0,
 			"seatsAvailable": 24,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -5046,9 +5046,9 @@
 				"seatsAvailableUnreserved": 4,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -8498,9 +8498,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -8568,9 +8568,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -8603,9 +8603,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -8673,9 +8673,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -8843,9 +8843,9 @@
 			"maximumEnrollment": 24,
 			"enrollment": 0,
 			"seatsAvailable": 24,
-			"waitCapacity": 300,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 300,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -8956,9 +8956,9 @@
 				"seatsAvailableUnreserved": 3,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 201,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 201
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
@@ -13383,7 +13383,7 @@
 						"monday": false,
 						"room": "242",
 						"saturday": false,
-						"startDate": "05/06/2026",
+						"startDate": "05/04/2026",
 						"sunday": false,
 						"term": "202605",
 						"thursday": false,
@@ -36091,9 +36091,9 @@
 			"maximumEnrollment": 36,
 			"enrollment": 0,
 			"seatsAvailable": 36,
-			"waitCapacity": 99,
+			"waitCapacity": 0,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 0,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
