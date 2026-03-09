@@ -3345,9 +3345,9 @@
 			"maximumEnrollment": 18,
 			"enrollment": 0,
 			"seatsAvailable": 18,
-			"waitCapacity": 200,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 200,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3415,9 +3415,9 @@
 				"seatsAvailableUnreserved": 14,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 101,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 101
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -4871,9 +4871,9 @@
 			"maximumEnrollment": 24,
 			"enrollment": 0,
 			"seatsAvailable": 24,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -4941,9 +4941,9 @@
 				"seatsAvailableUnreserved": 4,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -13364,7 +13364,7 @@
 					"courseReferenceNumber": "50037",
 					"faculty": [],
 					"meetingTime": {
-						"beginTime": "1430",
+						"beginTime": "1730",
 						"building": "ABD",
 						"buildingDescription": "Abbotsford Bldg D",
 						"campus": "A",
@@ -13374,7 +13374,7 @@
 						"courseReferenceNumber": "50037",
 						"creditHourSession": 3,
 						"endDate": "07/31/2026",
-						"endTime": "1720",
+						"endTime": "2020",
 						"friday": false,
 						"hoursWeek": 2.83,
 						"meetingScheduleType": "E",
