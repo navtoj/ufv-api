@@ -6488,8 +6488,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1730",
-						"building": "ABA",
-						"buildingDescription": "Abbotsford Bldg A",
+						"building": "ABD",
+						"buildingDescription": "Abbotsford Bldg D",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -6504,7 +6504,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": true,
-						"room": "261",
+						"room": "217",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
@@ -7090,8 +7090,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1730",
-						"building": "ABD",
-						"buildingDescription": "Abbotsford Bldg D",
+						"building": "ABA",
+						"buildingDescription": "Abbotsford Bldg A",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -7106,7 +7106,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "217",
+						"room": "261",
 						"saturday": false,
 						"startDate": "05/04/2026",
 						"sunday": false,
@@ -7124,8 +7124,8 @@
 					"faculty": [],
 					"meetingTime": {
 						"beginTime": "1730",
-						"building": "ABD",
-						"buildingDescription": "Abbotsford Bldg D",
+						"building": "ABA",
+						"buildingDescription": "Abbotsford Bldg A",
 						"campus": "A",
 						"campusDescription": "Abbotsford",
 						"category": "01",
@@ -7140,7 +7140,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": "217",
+						"room": "261",
 						"saturday": false,
 						"startDate": "07/22/2026",
 						"sunday": false,
@@ -8952,7 +8952,16 @@
 				"waitCapacityReserved": 99,
 				"waitCapacityUnreserved": 99
 			},
-			"sectionAttributes": [],
+			"sectionAttributes": [
+				{
+					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+					"code": "SLG",
+					"courseReferenceNumber": "50224",
+					"description": "SLG Supported Section",
+					"isZTCAttribute": false,
+					"termCode": "202605"
+				}
+			],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
 		},
