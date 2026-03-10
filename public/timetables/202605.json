@@ -2955,9 +2955,9 @@
 			"maximumEnrollment": 36,
 			"enrollment": 0,
 			"seatsAvailable": 36,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3015,9 +3015,9 @@
 				"seatsAvailableUnreserved": 30,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -3050,9 +3050,9 @@
 			"maximumEnrollment": 36,
 			"enrollment": 0,
 			"seatsAvailable": 36,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3110,9 +3110,9 @@
 				"seatsAvailableUnreserved": 30,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -3145,9 +3145,9 @@
 			"maximumEnrollment": 36,
 			"enrollment": 0,
 			"seatsAvailable": 36,
-			"waitCapacity": 99,
+			"waitCapacity": 198,
 			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitAvailable": 198,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3205,9 +3205,9 @@
 				"seatsAvailableUnreserved": 30,
 				"termCode": "202605",
 				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 0,
+				"waitAvailableUnreserved": 99,
 				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 0
+				"waitCapacityUnreserved": 99
 			},
 			"sectionAttributes": [
 				{
@@ -5667,119 +5667,6 @@
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
 					"code": "FOU2",
 					"courseReferenceNumber": "50196",
-					"description": "Foundations Level II course",
-					"isZTCAttribute": false,
-					"termCode": "202605"
-				}
-			],
-			"instructionalMethod": "TRD",
-			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
-		},
-		{
-			"id": 183690,
-			"term": "202605",
-			"termDesc": "Summer 2026",
-			"courseReferenceNumber": "50021",
-			"partOfTerm": "1",
-			"courseNumber": "120",
-			"courseDisplay": "120",
-			"subject": "BUS",
-			"subjectDescription": "Business Administration",
-			"sequenceNumber": "AB2",
-			"campusDescription": "Abbotsford",
-			"scheduleTypeDescription": "Lecture/Lab",
-			"courseTitle": "Essentials of Marketing",
-			"creditHours": 3,
-			"maximumEnrollment": 36,
-			"enrollment": 0,
-			"seatsAvailable": 36,
-			"waitCapacity": 297,
-			"waitCount": 0,
-			"waitAvailable": 297,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
-			"creditHourHigh": null,
-			"creditHourLow": 3,
-			"creditHourIndicator": null,
-			"openSection": true,
-			"linkIdentifier": null,
-			"isSectionLinked": false,
-			"subjectCourse": "BUS120",
-			"faculty": [
-				{
-					"category": null,
-					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
-					"courseReferenceNumber": "50021",
-					"displayName": "Benny Jeyekumar Davidson",
-					"emailAddress": "Benny.JeyekumarDavidson@ufv.ca",
-					"primaryIndicator": true,
-					"term": "202605"
-				}
-			],
-			"meetingsFaculty": [
-				{
-					"category": "01",
-					"class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
-					"courseReferenceNumber": "50021",
-					"faculty": [],
-					"meetingTime": {
-						"beginTime": "1130",
-						"building": "ABA",
-						"buildingDescription": "Abbotsford Bldg A",
-						"campus": "A",
-						"campusDescription": "Abbotsford",
-						"category": "01",
-						"class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
-						"courseReferenceNumber": "50021",
-						"creditHourSession": 3,
-						"endDate": "07/31/2026",
-						"endTime": "1420",
-						"friday": false,
-						"hoursWeek": 2.83,
-						"meetingScheduleType": "E",
-						"meetingType": "CLAS",
-						"meetingTypeDescription": "Class",
-						"monday": false,
-						"room": "362",
-						"saturday": false,
-						"startDate": "05/04/2026",
-						"sunday": false,
-						"term": "202605",
-						"thursday": true,
-						"tuesday": false,
-						"wednesday": false
-					},
-					"term": "202605"
-				}
-			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50021",
-				"maximumEnrollmentReserved": 9,
-				"maximumEnrollmentUnreserved": 27,
-				"seatsAvailableReserved": 9,
-				"seatsAvailableUnreserved": 27,
-				"termCode": "202605",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
-			"sectionAttributes": [
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "FOU1",
-					"courseReferenceNumber": "50021",
-					"description": "Foundations Level I course",
-					"isZTCAttribute": false,
-					"termCode": "202605"
-				},
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "FOU2",
-					"courseReferenceNumber": "50021",
 					"description": "Foundations Level II course",
 					"isZTCAttribute": false,
 					"termCode": "202605"
@@ -14833,7 +14720,16 @@
 				"waitCapacityReserved": 99,
 				"waitCapacityUnreserved": 99
 			},
-			"sectionAttributes": [],
+			"sectionAttributes": [
+				{
+					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+					"code": "ZTC",
+					"courseReferenceNumber": "50073",
+					"description": "Zero Textbook Cost",
+					"isZTCAttribute": true,
+					"termCode": "202605"
+				}
+			],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
 		},
