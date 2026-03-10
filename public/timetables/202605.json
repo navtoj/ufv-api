@@ -8807,14 +8807,6 @@
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
-					"code": "SLG",
-					"courseReferenceNumber": "50223",
-					"description": "SLG Supported Section",
-					"isZTCAttribute": false,
-					"termCode": "202605"
-				},
-				{
-					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
 					"code": "FOU2",
 					"courseReferenceNumber": "50223",
 					"description": "Foundations Level II course",
