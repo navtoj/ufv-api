@@ -20,8 +20,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 63,
-			"waitAvailable": 135,
+			"waitCount": 65,
+			"waitAvailable": 133,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -215,8 +215,8 @@
 			"enrollment": 26,
 			"seatsAvailable": 10,
 			"waitCapacity": 198,
-			"waitCount": 47,
-			"waitAvailable": 151,
+			"waitCount": 48,
+			"waitAvailable": 150,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -612,8 +612,8 @@
 			"enrollment": 18,
 			"seatsAvailable": 7,
 			"waitCapacity": 198,
-			"waitCount": 64,
-			"waitAvailable": 134,
+			"waitCount": 65,
+			"waitAvailable": 133,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -747,8 +747,8 @@
 			"enrollment": 17,
 			"seatsAvailable": 8,
 			"waitCapacity": 198,
-			"waitCount": 26,
-			"waitAvailable": 172,
+			"waitCount": 27,
+			"waitAvailable": 171,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -1082,11 +1082,11 @@
 			"courseTitle": "Religions and Cultures",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 35,
-			"seatsAvailable": 1,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 99,
-			"waitCount": 17,
-			"waitAvailable": 82,
+			"waitCount": 18,
+			"waitAvailable": 81,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -1380,8 +1380,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 53,
-			"waitAvailable": 46,
+			"waitCount": 54,
+			"waitAvailable": 45,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -1734,8 +1734,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 35,
-			"waitAvailable": 64,
+			"waitCount": 37,
+			"waitAvailable": 62,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -2977,8 +2977,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 11,
-			"waitAvailable": 187,
+			"waitCount": 12,
+			"waitAvailable": 186,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -3153,8 +3153,8 @@
 			"enrollment": 18,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 11,
-			"waitAvailable": 187,
+			"waitCount": 12,
+			"waitAvailable": 186,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -5523,8 +5523,8 @@
 			"courseTitle": "Intro to Business",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 26,
-			"seatsAvailable": 10,
+			"enrollment": 27,
+			"seatsAvailable": 9,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -5792,8 +5792,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 7,
-			"waitAvailable": 191,
+			"waitCount": 8,
+			"waitAvailable": 190,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -6249,10 +6249,10 @@
 			"waitCapacity": 297,
 			"waitCount": 17,
 			"waitAvailable": 280,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "01",
+			"crossListCapacity": 36,
+			"crossListCount": 28,
+			"crossListAvailable": 8,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -6395,8 +6395,8 @@
 			"enrollment": 29,
 			"seatsAvailable": 7,
 			"waitCapacity": 297,
-			"waitCount": 25,
-			"waitAvailable": 272,
+			"waitCount": 26,
+			"waitAvailable": 271,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -6469,8 +6469,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 297,
-			"waitCount": 23,
-			"waitAvailable": 274,
+			"waitCount": 24,
+			"waitAvailable": 273,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -6915,8 +6915,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 297,
-			"waitCount": 15,
-			"waitAvailable": 282,
+			"waitCount": 16,
+			"waitAvailable": 281,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -7245,8 +7245,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 5,
-			"waitAvailable": 193,
+			"waitCount": 6,
+			"waitAvailable": 192,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -7444,15 +7444,15 @@
 			"courseTitle": "Financial Management I",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 25,
-			"seatsAvailable": -1,
+			"enrollment": 24,
+			"seatsAvailable": 0,
 			"waitCapacity": 297,
-			"waitCount": 8,
-			"waitAvailable": 289,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"waitCount": 9,
+			"waitAvailable": 288,
+			"crossList": "02",
+			"crossListCapacity": 25,
+			"crossListCount": 1,
+			"crossListAvailable": 24,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -10691,8 +10691,8 @@
 			"enrollment": 16,
 			"seatsAvailable": 10,
 			"waitCapacity": 198,
-			"waitCount": 17,
-			"waitAvailable": 181,
+			"waitCount": 19,
+			"waitAvailable": 179,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -11276,8 +11276,8 @@
 			"courseTitle": "Professional Report Writing",
 			"creditHours": 3,
 			"maximumEnrollment": 26,
-			"enrollment": 13,
-			"seatsAvailable": 13,
+			"enrollment": 14,
+			"seatsAvailable": 12,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -11783,8 +11783,8 @@
 			"enrollment": 18,
 			"seatsAvailable": 8,
 			"waitCapacity": 198,
-			"waitCount": 15,
-			"waitAvailable": 183,
+			"waitCount": 16,
+			"waitAvailable": 182,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -11867,8 +11867,8 @@
 			"enrollment": 19,
 			"seatsAvailable": 7,
 			"waitCapacity": 198,
-			"waitCount": 11,
-			"waitAvailable": 187,
+			"waitCount": 12,
+			"waitAvailable": 186,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -12504,8 +12504,8 @@
 			"courseTitle": "Intermediate Web Programming",
 			"creditHours": 4,
 			"maximumEnrollment": 35,
-			"enrollment": 13,
-			"seatsAvailable": 22,
+			"enrollment": 14,
+			"seatsAvailable": 21,
 			"waitCapacity": 297,
 			"waitCount": 3,
 			"waitAvailable": 294,
@@ -12933,8 +12933,8 @@
 			"courseTitle": "Principles of Computing",
 			"creditHours": 3,
 			"maximumEnrollment": 35,
-			"enrollment": 29,
-			"seatsAvailable": 6,
+			"enrollment": 30,
+			"seatsAvailable": 5,
 			"waitCapacity": 396,
 			"waitCount": 5,
 			"waitAvailable": 391,
@@ -13034,8 +13034,8 @@
 			"courseTitle": "Introduction to Programming",
 			"creditHours": 4,
 			"maximumEnrollment": 35,
-			"enrollment": 18,
-			"seatsAvailable": 17,
+			"enrollment": 19,
+			"seatsAvailable": 16,
 			"waitCapacity": 699,
 			"waitCount": 11,
 			"waitAvailable": 688,
@@ -13127,8 +13127,8 @@
 			"courseTitle": "Object-oriented Programming",
 			"creditHours": 4,
 			"maximumEnrollment": 35,
-			"enrollment": 17,
-			"seatsAvailable": 18,
+			"enrollment": 18,
+			"seatsAvailable": 17,
 			"waitCapacity": 699,
 			"waitCount": 9,
 			"waitAvailable": 690,
@@ -13382,8 +13382,8 @@
 			"enrollment": 34,
 			"seatsAvailable": 1,
 			"waitCapacity": 297,
-			"waitCount": 4,
-			"waitAvailable": 293,
+			"waitCount": 5,
+			"waitAvailable": 292,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -13847,8 +13847,8 @@
 			"enrollment": 31,
 			"seatsAvailable": 5,
 			"waitCapacity": 198,
-			"waitCount": 6,
-			"waitAvailable": 192,
+			"waitCount": 7,
+			"waitAvailable": 191,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -14041,8 +14041,8 @@
 			"enrollment": 30,
 			"seatsAvailable": 6,
 			"waitCapacity": 198,
-			"waitCount": 15,
-			"waitAvailable": 183,
+			"waitCount": 16,
+			"waitAvailable": 182,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -14134,8 +14134,8 @@
 			"enrollment": 32,
 			"seatsAvailable": 4,
 			"waitCapacity": 198,
-			"waitCount": 38,
-			"waitAvailable": 160,
+			"waitCount": 40,
+			"waitAvailable": 158,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -17434,10 +17434,10 @@
 			"waitCapacity": 198,
 			"waitCount": 3,
 			"waitAvailable": 195,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "01",
+			"crossListCapacity": 36,
+			"crossListCount": 28,
+			"crossListAvailable": 8,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -17635,10 +17635,10 @@
 			"waitCapacity": 198,
 			"waitCount": 1,
 			"waitAvailable": 197,
-			"crossList": null,
-			"crossListCapacity": null,
-			"crossListCount": null,
-			"crossListAvailable": null,
+			"crossList": "02",
+			"crossListCapacity": 25,
+			"crossListCount": 1,
+			"crossListAvailable": 24,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -17744,8 +17744,8 @@
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "50361",
-					"displayName": "Jas Uppal",
-					"emailAddress": "Jas.Uppal@ufv.ca",
+					"displayName": "Christine Abbot",
+					"emailAddress": "Christine.Abbot@ufv.ca",
 					"primaryIndicator": true,
 					"term": "202605"
 				}
@@ -17853,8 +17853,8 @@
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "50362",
-					"displayName": "Jas Uppal",
-					"emailAddress": "Jas.Uppal@ufv.ca",
+					"displayName": "Christine Abbot",
+					"emailAddress": "Christine.Abbot@ufv.ca",
 					"primaryIndicator": true,
 					"term": "202605"
 				}
@@ -17962,8 +17962,8 @@
 					"category": null,
 					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
 					"courseReferenceNumber": "50363",
-					"displayName": "Jas Uppal",
-					"emailAddress": "Jas.Uppal@ufv.ca",
+					"displayName": "Christine Abbot",
+					"emailAddress": "Christine.Abbot@ufv.ca",
 					"primaryIndicator": true,
 					"term": "202605"
 				}
@@ -18822,8 +18822,8 @@
 			"courseTitle": "Policy, Identity and Context",
 			"creditHours": 5,
 			"maximumEnrollment": 17,
-			"enrollment": 3,
-			"seatsAvailable": 14,
+			"enrollment": 4,
+			"seatsAvailable": 13,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -19265,8 +19265,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 30,
-			"waitAvailable": 69,
+			"waitCount": 31,
+			"waitAvailable": 68,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -19749,8 +19749,8 @@
 			"enrollment": 26,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 12,
-			"waitAvailable": 186,
+			"waitCount": 13,
+			"waitAvailable": 185,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -20371,8 +20371,8 @@
 			"enrollment": 25,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 4,
-			"waitAvailable": 95,
+			"waitCount": 5,
+			"waitAvailable": 94,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -20619,8 +20619,8 @@
 			"courseTitle": "Creative Writing:Adv Playwrite",
 			"creditHours": 4,
 			"maximumEnrollment": 25,
-			"enrollment": 9,
-			"seatsAvailable": 16,
+			"enrollment": 11,
+			"seatsAvailable": 14,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -23986,8 +23986,8 @@
 			"enrollment": 30,
 			"seatsAvailable": 6,
 			"waitCapacity": 198,
-			"waitCount": 55,
-			"waitAvailable": 143,
+			"waitCount": 56,
+			"waitAvailable": 142,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -24087,8 +24087,8 @@
 			"enrollment": 32,
 			"seatsAvailable": 4,
 			"waitCapacity": 198,
-			"waitCount": 27,
-			"waitAvailable": 171,
+			"waitCount": 28,
+			"waitAvailable": 170,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -24188,8 +24188,8 @@
 			"enrollment": 35,
 			"seatsAvailable": 1,
 			"waitCapacity": 198,
-			"waitCount": 99,
-			"waitAvailable": 99,
+			"waitCount": 101,
+			"waitAvailable": 97,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -24988,8 +24988,8 @@
 			"courseTitle": "Interpersonal Communications",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 16,
-			"seatsAvailable": 8,
+			"enrollment": 17,
+			"seatsAvailable": 7,
 			"waitCapacity": 297,
 			"waitCount": 2,
 			"waitAvailable": 295,
@@ -26528,8 +26528,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 25,
-			"waitAvailable": 74,
+			"waitCount": 26,
+			"waitAvailable": 73,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -27782,8 +27782,8 @@
 			"courseTitle": "Online Searching",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 32,
-			"seatsAvailable": 4,
+			"enrollment": 31,
+			"seatsAvailable": 5,
 			"waitCapacity": 198,
 			"waitCount": 18,
 			"waitAvailable": 180,
@@ -28944,8 +28944,8 @@
 			"enrollment": 24,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 0,
-			"waitAvailable": 99,
+			"waitCount": 1,
+			"waitAvailable": 98,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -29079,8 +29079,8 @@
 			"enrollment": 24,
 			"seatsAvailable": 0,
 			"waitCapacity": 99,
-			"waitCount": 2,
-			"waitAvailable": 97,
+			"waitCount": 3,
+			"waitAvailable": 96,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -29295,8 +29295,8 @@
 			"courseTitle": "Algebra and Trigonometry",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 22,
-			"seatsAvailable": 2,
+			"enrollment": 23,
+			"seatsAvailable": 1,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -29382,8 +29382,8 @@
 			"enrollment": 27,
 			"seatsAvailable": 9,
 			"waitCapacity": 198,
-			"waitCount": 17,
-			"waitAvailable": 181,
+			"waitCount": 18,
+			"waitAvailable": 180,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -29682,8 +29682,8 @@
 			"courseTitle": "Algebra &amp; Functions for Bus.",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 11,
-			"seatsAvailable": 25,
+			"enrollment": 12,
+			"seatsAvailable": 24,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -29979,8 +29979,8 @@
 			"courseTitle": "Calculus for Business",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 29,
-			"seatsAvailable": 7,
+			"enrollment": 30,
+			"seatsAvailable": 6,
 			"waitCapacity": 198,
 			"waitCount": 0,
 			"waitAvailable": 198,
@@ -30310,8 +30310,8 @@
 			"courseTitle": "Intro to Communication Studies",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 23,
-			"seatsAvailable": 13,
+			"enrollment": 24,
+			"seatsAvailable": 12,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -30406,8 +30406,8 @@
 			"enrollment": 33,
 			"seatsAvailable": 3,
 			"waitCapacity": 198,
-			"waitCount": 6,
-			"waitAvailable": 192,
+			"waitCount": 7,
+			"waitAvailable": 191,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -30587,8 +30587,8 @@
 			"waitAvailable": 99,
 			"crossList": "04",
 			"crossListCapacity": 36,
-			"crossListCount": 34,
-			"crossListAvailable": 2,
+			"crossListCount": 35,
+			"crossListAvailable": 1,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -30664,8 +30664,8 @@
 			"courseTitle": "Media Franchises &amp; Convergence",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 9,
-			"seatsAvailable": 27,
+			"enrollment": 10,
+			"seatsAvailable": 26,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -31162,8 +31162,8 @@
 			"courseTitle": "Nurs Practice: Preceptorship",
 			"creditHours": 15,
 			"maximumEnrollment": 24,
-			"enrollment": 12,
-			"seatsAvailable": 12,
+			"enrollment": 13,
+			"seatsAvailable": 11,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -33281,8 +33281,8 @@
 			"enrollment": 26,
 			"seatsAvailable": 2,
 			"waitCapacity": 198,
-			"waitCount": 22,
-			"waitAvailable": 176,
+			"waitCount": 23,
+			"waitAvailable": 175,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -33446,8 +33446,8 @@
 			"courseTitle": "Reasoning: Intro Crit Thinking",
 			"creditHours": 3,
 			"maximumEnrollment": 28,
-			"enrollment": 22,
-			"seatsAvailable": 6,
+			"enrollment": 21,
+			"seatsAvailable": 7,
 			"waitCapacity": 198,
 			"waitCount": 24,
 			"waitAvailable": 174,
@@ -33767,8 +33767,8 @@
 			"courseTitle": "Introduction to Politics",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 10,
-			"seatsAvailable": 26,
+			"enrollment": 11,
+			"seatsAvailable": 25,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -34118,19 +34118,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50304",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -34214,19 +34202,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50305",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 5,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34250,8 +34226,8 @@
 			"enrollment": 29,
 			"seatsAvailable": 7,
 			"waitCapacity": 198,
-			"waitCount": 31,
-			"waitAvailable": 167,
+			"waitCount": 32,
+			"waitAvailable": 166,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -34310,19 +34286,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50136",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 68,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34406,19 +34370,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50137",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 64,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34502,19 +34454,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50306",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34598,19 +34538,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50138",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 3,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -34634,8 +34562,8 @@
 			"enrollment": 31,
 			"seatsAvailable": 5,
 			"waitCapacity": 198,
-			"waitCount": 34,
-			"waitAvailable": 164,
+			"waitCount": 33,
+			"waitAvailable": 165,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -34694,19 +34622,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50307",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 65,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34730,8 +34646,8 @@
 			"enrollment": 28,
 			"seatsAvailable": 8,
 			"waitCapacity": 198,
-			"waitCount": 14,
-			"waitAvailable": 184,
+			"waitCount": 15,
+			"waitAvailable": 183,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -34790,19 +34706,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50139",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 8,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -34886,19 +34790,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50140",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 82,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -34931,8 +34823,8 @@
 			"enrollment": 31,
 			"seatsAvailable": 5,
 			"waitCapacity": 198,
-			"waitCount": 55,
-			"waitAvailable": 143,
+			"waitCount": 56,
+			"waitAvailable": 142,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -34991,19 +34883,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50141",
-				"maximumEnrollmentReserved": 8,
-				"maximumEnrollmentUnreserved": 28,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 44,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -35307,19 +35187,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50143",
-				"maximumEnrollmentReserved": 12,
-				"maximumEnrollmentUnreserved": 24,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 196,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "HYB",
 			"instructionalMethodDescription": "Blended Learning (HYB)"
@@ -35403,19 +35271,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50308",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 196,
-				"waitAvailableUnreserved": 87,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -35436,8 +35292,8 @@
 			"courseTitle": "Intro Psychological Disorders",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 35,
-			"seatsAvailable": 1,
+			"enrollment": 34,
+			"seatsAvailable": 2,
 			"waitCapacity": 297,
 			"waitCount": 19,
 			"waitAvailable": 278,
@@ -35499,19 +35355,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50144",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 1,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 197,
-				"waitAvailableUnreserved": 81,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -35595,19 +35439,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50145",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 11,
-				"termCode": "202605",
-				"waitAvailableReserved": 198,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -35628,11 +35460,11 @@
 			"courseTitle": "Intro to Biological Psychology",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 36,
-			"seatsAvailable": 0,
+			"enrollment": 35,
+			"seatsAvailable": 1,
 			"waitCapacity": 297,
-			"waitCount": 14,
-			"waitAvailable": 283,
+			"waitCount": 15,
+			"waitAvailable": 282,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -35691,19 +35523,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50146",
-				"maximumEnrollmentReserved": 7,
-				"maximumEnrollmentUnreserved": 29,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 194,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -35787,19 +35607,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50147",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 192,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -35832,8 +35640,8 @@
 			"enrollment": 23,
 			"seatsAvailable": 2,
 			"waitCapacity": 297,
-			"waitCount": 7,
-			"waitAvailable": 290,
+			"waitCount": 9,
+			"waitAvailable": 288,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -35892,19 +35700,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50148",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 2,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 195,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -35997,19 +35793,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50344",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 191,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36102,19 +35886,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50149",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 191,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36147,8 +35919,8 @@
 			"enrollment": 18,
 			"seatsAvailable": 7,
 			"waitCapacity": 297,
-			"waitCount": 17,
-			"waitAvailable": 280,
+			"waitCount": 18,
+			"waitAvailable": 279,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -36207,19 +35979,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50345",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 197,
-				"waitAvailableUnreserved": 83,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36252,8 +36012,8 @@
 			"enrollment": 14,
 			"seatsAvailable": 11,
 			"waitCapacity": 297,
-			"waitCount": 18,
-			"waitAvailable": 279,
+			"waitCount": 20,
+			"waitAvailable": 277,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -36312,19 +36072,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50403",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 11,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 197,
-				"waitAvailableUnreserved": 82,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36417,19 +36165,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50150",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 185,
-				"waitAvailableUnreserved": 90,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36623,19 +36359,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50406",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 163,
-				"waitAvailableUnreserved": 85,
-				"waitCapacityReserved": 198,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36728,19 +36452,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50153",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -36977,19 +36689,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50154",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 94,
-				"waitAvailableUnreserved": 89,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -37082,19 +36782,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50405",
-				"maximumEnrollmentReserved": 25,
-				"maximumEnrollmentUnreserved": 0,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 97,
-				"waitAvailableUnreserved": 92,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -37271,19 +36959,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50317",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 17,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "TRD",
 			"instructionalMethodDescription": "Face-to-Face Learning (TRD) "
@@ -37307,8 +36983,8 @@
 			"enrollment": 36,
 			"seatsAvailable": 0,
 			"waitCapacity": 198,
-			"waitCount": 30,
-			"waitAvailable": 168,
+			"waitCount": 31,
+			"waitAvailable": 167,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -37367,19 +37043,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50346",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 84,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [],
 			"instructionalMethod": "OLO",
 			"instructionalMethodDescription": "Online-No meeting times (OLO)"
@@ -37679,8 +37343,8 @@
 			"courseTitle": "Legal Skills for Soc Work Prac",
 			"creditHours": 3,
 			"maximumEnrollment": 24,
-			"enrollment": 14,
-			"seatsAvailable": 10,
+			"enrollment": 15,
+			"seatsAvailable": 9,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -38029,19 +37693,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50155",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 95,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -38134,19 +37786,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50311",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 7,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 46,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -38179,8 +37819,8 @@
 			"enrollment": 30,
 			"seatsAvailable": 6,
 			"waitCapacity": 198,
-			"waitCount": 18,
-			"waitAvailable": 180,
+			"waitCount": 19,
+			"waitAvailable": 179,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -38239,19 +37879,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50156",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 6,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 81,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -38458,15 +38086,15 @@
 			"courseTitle": "Intro to Social Research",
 			"creditHours": 3,
 			"maximumEnrollment": 36,
-			"enrollment": 22,
-			"seatsAvailable": 14,
+			"enrollment": 23,
+			"seatsAvailable": 13,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
 			"crossList": "04",
 			"crossListCapacity": 36,
-			"crossListCount": 34,
-			"crossListAvailable": 2,
+			"crossListCount": 35,
+			"crossListAvailable": 1,
 			"creditHourHigh": null,
 			"creditHourLow": 3,
 			"creditHourIndicator": null,
@@ -39155,8 +38783,8 @@
 			"courseTitle": "Introductory Statistics",
 			"creditHours": 4,
 			"maximumEnrollment": 36,
-			"enrollment": 21,
-			"seatsAvailable": 15,
+			"enrollment": 23,
+			"seatsAvailable": 13,
 			"waitCapacity": 99,
 			"waitCount": 0,
 			"waitAvailable": 99,
@@ -39353,19 +38981,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50327",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 9,
-				"seatsAvailableUnreserved": 2,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 65,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -39896,19 +39512,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50163",
-				"maximumEnrollmentReserved": 6,
-				"maximumEnrollmentUnreserved": 30,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 98,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -39949,8 +39553,8 @@
 			"enrollment": 26,
 			"seatsAvailable": 10,
 			"waitCapacity": 198,
-			"waitCount": 44,
-			"waitAvailable": 154,
+			"waitCount": 45,
+			"waitAvailable": 153,
 			"crossList": null,
 			"crossListCapacity": null,
 			"crossListCount": null,
@@ -40009,19 +39613,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50347",
-				"maximumEnrollmentReserved": 10,
-				"maximumEnrollmentUnreserved": 26,
-				"seatsAvailableReserved": 10,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 55,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -40340,19 +39932,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50333",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 2,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -40445,19 +40025,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50334",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 1,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 79,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -40550,19 +40118,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50335",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 4,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -40671,19 +40227,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50336",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 3,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -40901,19 +40445,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50338",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 0,
-				"seatsAvailableUnreserved": 0,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 84,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
@@ -41006,19 +40538,7 @@
 					"term": "202605"
 				}
 			],
-			"reservedSeatSummary": {
-				"class": "net.hedtech.banner.student.schedule.SectionReservedSeatSummaryDecorator",
-				"courseReferenceNumber": "50339",
-				"maximumEnrollmentReserved": 5,
-				"maximumEnrollmentUnreserved": 20,
-				"seatsAvailableReserved": 5,
-				"seatsAvailableUnreserved": 16,
-				"termCode": "202605",
-				"waitAvailableReserved": 99,
-				"waitAvailableUnreserved": 99,
-				"waitCapacityReserved": 99,
-				"waitCapacityUnreserved": 99
-			},
+			"reservedSeatSummary": null,
 			"sectionAttributes": [
 				{
 					"class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
