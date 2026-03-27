@@ -68,7 +68,7 @@
 						"meetingType": "CLAS",
 						"meetingTypeDescription": "Class",
 						"monday": false,
-						"room": null,
+						"room": "101",
 						"saturday": false,
 						"startDate": "05/05/2026",
 						"sunday": false,
