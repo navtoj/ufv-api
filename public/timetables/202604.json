@@ -337,7 +337,17 @@
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "OFCCONV",
-			"faculty": [],
+			"faculty": [
+				{
+					"category": null,
+					"class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+					"courseReferenceNumber": "40206",
+					"displayName": "Sabrina Ngo",
+					"emailAddress": "Sabrina.Ngo@ufv.ca",
+					"primaryIndicator": true,
+					"term": "202604"
+				}
+			],
 			"meetingsFaculty": [
 				{
 					"category": "01",
@@ -395,19 +405,19 @@
 			"courseTitle": "Legal Admin Asst - Practicum",
 			"creditHours": null,
 			"maximumEnrollment": 1,
-			"enrollment": 0,
-			"seatsAvailable": 1,
+			"enrollment": 1,
+			"seatsAvailable": 0,
 			"waitCapacity": 0,
 			"waitCount": 0,
 			"waitAvailable": 0,
 			"crossList": "97",
 			"crossListCapacity": 25,
-			"crossListCount": 10,
-			"crossListAvailable": 15,
+			"crossListCount": 11,
+			"crossListAvailable": 14,
 			"creditHourHigh": null,
 			"creditHourLow": 0,
 			"creditHourIndicator": null,
-			"openSection": true,
+			"openSection": false,
 			"linkIdentifier": null,
 			"isSectionLinked": false,
 			"subjectCourse": "OFCPRAC",
